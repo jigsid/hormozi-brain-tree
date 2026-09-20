@@ -1,0 +1,244 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hormozi Growth Engine - Branch 1: B2B Marketing</title>
+<style>
+  :root{
+    --bg:#0d0e10; --panel:#14161a; --line:#262a31; --line-2:#31363f;
+    --text:#e9e9e6; --muted:#9aa0a6; --dim:#6b7076;
+    --gold:#c9a227; --gold-soft:#3a3213;
+    --b1:#6ea8fe; --b2:#f2b880; --b3:#7bd88f; --b4:#d98fd9; --b5:#7fd1d9; --b6:#b0a0f0;
+    --mono: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    background:var(--bg); color:var(--text);
+    font:15px/1.55 -apple-system, BlinkMacSystemFont, "SF Pro Text", Inter, system-ui, sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:1060px;margin:0 auto;padding:44px 28px 96px}
+
+  header h1{margin:0;font-size:clamp(26px,4vw,40px);font-weight:800;letter-spacing:.02em}
+  header h1 .tick{color:var(--gold)}
+  .sub{margin:10px 0 0;color:var(--muted);font-size:13px}
+  .sub strong{color:var(--text);font-weight:600}
+  header .rule{height:2px;background:linear-gradient(90deg,var(--gold),rgba(201,162,39,0));margin:18px 0 22px;border-radius:2px}
+
+  .layout{display:grid;grid-template-columns:64px 1fr;gap:22px;align-items:start}
+
+  /* left rail - minimizer / maximizer bar */
+  .rail{position:sticky;top:20px;display:flex;flex-direction:column;align-items:center;gap:14px}
+  .rail .cell{display:flex;flex-direction:column;align-items:center;gap:6px}
+  .rail button{
+    width:44px;height:44px;border-radius:12px;border:1px solid var(--line-2);
+    background:var(--panel);color:var(--text);font:600 20px/1 var(--mono);
+    cursor:pointer;display:grid;place-items:center;transition:.15s;
+  }
+  .rail button:hover{border-color:var(--gold);color:var(--gold);transform:translateY(-1px)}
+  .rail button:active{transform:translateY(0)}
+  .rail .cap{font:600 9px/1 var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--dim)}
+  .rail .spine{width:2px;flex:1;min-height:40px;background:linear-gradient(180deg,var(--line-2),transparent);border-radius:2px}
+
+  .trunk{
+    border:1px solid #33301f;background:linear-gradient(180deg,#171305,#14161a);
+    border-radius:14px;padding:16px 18px;margin-bottom:22px;
+  }
+  .trunk .k{font:700 11px/1 var(--mono);letter-spacing:.18em;color:var(--gold)}
+  .trunk .v{margin-top:8px;color:var(--muted);font-size:13px}
+  .trunk .v b{color:var(--text);font-weight:600}
+
+  .branchhead{display:flex;align-items:baseline;gap:12px;margin:6px 0 4px}
+  .branchhead h2{margin:0;font-size:20px;font-weight:700;letter-spacing:.01em}
+  .branchhead .tag{font:600 10px/1 var(--mono);letter-spacing:.14em;color:var(--muted);border:1px solid var(--line-2);border-radius:999px;padding:5px 9px}
+  .path{color:var(--dim);font-size:12.5px;margin:0 0 18px}
+
+  details.sub{border:1px solid var(--line);border-radius:14px;background:var(--panel);margin:10px 0;overflow:hidden}
+  details.sub summary{
+    list-style:none;cursor:pointer;display:grid;
+    grid-template-columns:26px 1fr auto;align-items:center;gap:12px;
+    padding:14px 16px;user-select:none;
+  }
+  details.sub summary::-webkit-details-marker{display:none}
+  summary .chev{width:26px;height:26px;border-radius:8px;border:1px solid var(--line-2);
+    display:grid;place-items:center;font:700 13px/1 var(--mono);color:var(--muted);transition:.18s}
+  details[open].sub summary .chev{transform:rotate(90deg);color:var(--gold);border-color:var(--gold-soft)}
+  .nodeid{font:700 12px/1 var(--mono);letter-spacing:.06em;color:var(--dim);margin-right:8px}
+  .nodetitle{font-weight:650;font-size:14.5px}
+  .metric{font:500 11px/1.35 var(--mono);color:var(--dim);text-align:right;max-width:300px}
+
+  .kids{border-top:1px solid var(--line);padding:6px 16px 14px 54px}
+  .kid{display:grid;grid-template-columns:14px 1fr;gap:10px;padding:8px 0;border-bottom:1px dashed rgba(255,255,255,.05)}
+  .kid:last-child{border-bottom:none}
+  .kid .dot{width:7px;height:7px;border-radius:50%;margin-top:8px}
+  .kid .name{font-size:13.5px}
+  .kid .spec{color:var(--muted);font-size:12.5px}
+  .kid .spec code{font:500 11.5px var(--mono);color:#cfd3d8;background:#1d2026;border:1px solid var(--line);padding:1px 5px;border-radius:6px}
+
+  .acc-1 .dot{background:var(--b1)} .acc-1 .nodeid{color:var(--b1)}
+  .acc-2 .dot{background:var(--b2)} .acc-2 .nodeid{color:var(--b2)}
+  .acc-3 .dot{background:var(--b3)} .acc-3 .nodeid{color:var(--b3)}
+  .acc-4 .dot{background:var(--b4)} .acc-4 .nodeid{color:var(--b4)}
+  .acc-5 .dot{background:var(--b5)} .acc-5 .nodeid{color:var(--b5)}
+  .acc-6 .dot{background:var(--b6)} .acc-6 .nodeid{color:var(--b6)}
+
+  .parked{display:flex;gap:12px;align-items:center;border:1px dashed var(--line-2);border-radius:12px;
+    padding:12px 16px;margin:10px 0;color:var(--dim);font-size:13px}
+  .parked .p{font:700 10px/1 var(--mono);letter-spacing:.16em;border:1px solid var(--line-2);padding:5px 8px;border-radius:999px;white-space:nowrap}
+
+  footer{margin-top:34px;color:var(--dim);font-size:11.5px;font-family:var(--mono)}
+
+  @media (prefers-reduced-motion: no-preference){
+    details[open] .kids{animation:fade .18s ease}
+    @keyframes fade{from{opacity:0;transform:translateY(-2px)}to{opacity:1;transform:none}}
+  }
+  @media (max-width:720px){
+    .layout{grid-template-columns:1fr}
+    .rail{position:sticky;top:0;flex-direction:row;justify-content:flex-start;align-items:center;gap:18px;
+      padding:10px 0;background:var(--bg);z-index:5;border-bottom:1px solid var(--line)}
+    .rail .cell{flex-direction:row}
+    .rail .spine{display:none}
+    .kids{padding-left:24px}
+    .metric{display:none}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Hormozi Growth Engine <span class="tick">.</span></h1>
+    <p class="sub"><strong>Branch 1 - B2B Marketing</strong> &nbsp;·&nbsp; stranger &rarr; engaged lead &rarr; booked call at the sales handoff</p>
+    <div class="rule"></div>
+  </header>
+
+  <div class="layout">
+    <aside class="rail" aria-label="Minimize and maximize controls">
+      <div class="cell">
+        <button id="minBtn" title="Minimize all - branch headers only" aria-label="Minimize all branches">&minus;</button>
+        <span class="cap">min</span>
+      </div>
+      <div class="spine"></div>
+      <div class="cell">
+        <button id="maxBtn" title="Maximize all - full tree" aria-label="Maximize all branches">+</button>
+        <span class="cap">max</span>
+      </div>
+    </aside>
+
+    <main>
+      <div class="trunk">
+        <div class="k">TRUNK - OFFER + UNIT ECONOMICS</div>
+        <div class="v">Value Equation &middot; <b>LTGP:CAC &ge; 3:1</b> &middot; payback <b>&le; 90 days</b> (30 = excellent) &middot; monthly churn <b>&lt; 5%</b>. Every branch drinks from this trunk.</div>
+      </div>
+
+      <div class="branchhead">
+        <h2>Branch 1 - Marketing: create demand</h2>
+        <span class="tag">B2B</span>
+      </div>
+      <p class="path">Buyer is a committee - multi-thread economic buyer, champion, blocker. Signals before sends. Cold and content carry; paid runs last. Root metric: cost per booked call.</p>
+
+      <details class="sub acc-1" open>
+        <summary>
+          <span class="chev">&rsaquo;</span>
+          <span><span class="nodeid">1.1</span><span class="nodetitle">Targeting &amp; List - who we hit</span></span>
+          <span class="metric">% of list matching ICP &middot; bounce &lt; 2%</span>
+        </summary>
+        <div class="kids">
+          <div class="kid"><span class="dot"></span><div><div class="name">1.1.1 ICP definition</div><div class="spec">Firmographics, tech stack, trigger criteria.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.1.2 TAM mapping</div><div class="spec">Tier A/B/C accounts, account scoring. The B2B &ldquo;ABM&rdquo; base.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.1.3 List building</div><div class="spec">Software &rarr; brokers &rarr; hand-build the first <code>1,000</code>. List quality beats clever copy.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.1.4 Data quality</div><div class="spec">Dedupe, enrich, verify emails, validate before any send.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.1.5 Signal layer</div><div class="spec">Funding, hiring, tech install, leadership change, filings. No send without a reason.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.1.6 Deliverability infra</div><div class="spec">Domains, DMARC, warmup, spam-placement checks.</div></div></div>
+        </div>
+      </details>
+
+      <details class="sub acc-2" open>
+        <summary>
+          <span class="chev">&rsaquo;</span>
+          <span><span class="nodeid">1.2</span><span class="nodetitle">Message &amp; Offer - what we say</span></span>
+          <span class="metric">engaged reply rate &middot; cold email benchmark ~3%</span>
+        </summary>
+        <div class="kids">
+          <div class="kid"><span class="dot"></span><div><div class="name">1.2.1 Positioning</div><div class="spec">Outcome, mechanism, who it&rsquo;s for, why now.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.2.2 Hook bank</div><div class="spec">20+ per piece. Families: outcome, time, effort reduction, callout, proof, contrarian, mechanism.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.2.3 Marketing offer</div><div class="spec">Lead-magnet promise vs core-offer promise. Name the outcome, not the format.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.2.4 Proof assets</div><div class="spec">One lookalike case study beats ten generic testimonials.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.2.5 Objection pre-emption</div><div class="spec">Top 3-5 objections answered inside the copy, before the call.</div></div></div>
+        </div>
+      </details>
+
+      <details class="sub acc-3" open>
+        <summary>
+          <span class="chev">&rsaquo;</span>
+          <span><span class="nodeid">1.3</span><span class="nodetitle">Demand Generation - the Core Four, subdivided</span></span>
+          <span class="metric">engaged leads per channel &middot; cost per engaged lead</span>
+        </summary>
+        <div class="kids">
+          <div class="kid"><span class="dot"></span><div><div class="name">1.3.1 Warm outreach <span style="color:var(--dim)">(warm &times; 1:1)</span></div><div class="spec"><code>100/day</code> &middot; A-C-A &middot; &ldquo;know anybody&rdquo; primer &middot; &le;3 follows &middot; ~1 customer per 100 reach-outs.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.3.2 Cold outreach <span style="color:var(--dim)">(cold &times; 1:1)</span></div><div class="spec">Email <code>100-200/day</code> &middot; DM <code>30-50/day</code> &middot; calls <code>50-100 dials</code>. 3-5 sentences, value in message 1, no ask. 5-7 touches; replies land on 3-5.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.3.3 Content <span style="color:var(--dim)">(warm &times; 1:many)</span></div><div class="spec">1 long-form/week &rarr; 7+ derivatives &rarr; daily posts. Give:ask <code>&ge; 3:1</code>. &ldquo;How I&rdquo; not &ldquo;how to.&rdquo; LinkedIn, newsletter, YouTube, events.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.3.4 Paid ads <span style="color:var(--dim)">(cold &times; 1:many)</span></div><div class="spec">Run last. LinkedIn (title/account targeting), Google (intent), retargeting. 5-10 hooks per concept. Kill at <code>2&times; target CPL</code>. Scale <code>+20%/day max</code>.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.3.5 Lead Getters</div><div class="spec">Referrals <code>&ge; 25%</code> of new business, follow up &lt;24h &middot; employees &middot; agencies with a deadline &middot; affiliates paid <code>25 / 50 / 100%</code> of max CAC at agree / activate / sustain.</div></div></div>
+        </div>
+      </details>
+
+      <details class="sub acc-4" open>
+        <summary>
+          <span class="chev">&rsaquo;</span>
+          <span><span class="nodeid">1.4</span><span class="nodetitle">Capture - how they raise a hand</span></span>
+          <span class="metric">opt-in rate &middot; magnet &asymp; 10&times; engaged leads at &asymp; 3&times; lower CAC</span>
+        </summary>
+        <div class="kids">
+          <div class="kid"><span class="dot"></span><div><div class="name">1.4.1 Lead magnets</div><div class="spec">3 types (reveal the problem, sample/trial, one step of a multi-step) &times; 4 deliveries (software, info, service, physical). Narrow problem, one sitting, charge-worthy.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.4.2 Landing page</div><div class="spec">Continues the ad&rsquo;s exact promise. Mismatch kills conversion.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.4.3 CTA</div><div class="spec">One action + real scarcity, urgency, or bonus. Never stack CTAs.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.4.4 Qualification</div><div class="spec">Form fields, routing rules, disqualify fast.</div></div></div>
+        </div>
+      </details>
+
+      <details class="sub acc-5" open>
+        <summary>
+          <span class="chev">&rsaquo;</span>
+          <span><span class="nodeid">1.5</span><span class="nodetitle">Nurture &amp; Handoff - after the hand raise</span></span>
+          <span class="metric">cost per booked call</span>
+        </summary>
+        <div class="kids">
+          <div class="kid"><span class="dot"></span><div><div class="name">1.5.1 Speed-to-lead</div><div class="spec">First response <code>&lt; 5 min</code>. Named owner. Alert fires. Response rates fall ~80% after 30 min.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.5.2 Sequence</div><div class="spec">Day 0/1/2/3/5/7/10/14. Value in every touch. No &ldquo;just checking in.&rdquo;</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.5.3 Retargeting</div><div class="spec">Ads pointed at engaged non-bookers.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.5.4 List warming</div><div class="spec">9-word email to dormant list. Re-run every 3-6 months with a new angle.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.5.5 Handoff contract</div><div class="spec">MQL definition, routing to setter, booked-call SLA.</div></div></div>
+        </div>
+      </details>
+
+      <details class="sub acc-6" open>
+        <summary>
+          <span class="chev">&rsaquo;</span>
+          <span><span class="nodeid">1.6</span><span class="nodetitle">Ops &amp; Measurement - the plumbing</span></span>
+          <span class="metric">LTGP:CAC per channel &middot; nothing scales below 3:1</span>
+        </summary>
+        <div class="kids">
+          <div class="kid"><span class="dot"></span><div><div class="name">1.6.1 Tracking</div><div class="spec">Pixel, UTMs, per-channel attribution.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.6.2 Dashboard</div><div class="spec">CPL, cost per booked call, CAC, LTGP:CAC per channel.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.6.3 Testing discipline</div><div class="spec">One test/week on the biggest drop-off. Abandon after 4 tries or 1 month.</div></div></div>
+          <div class="kid"><span class="dot"></span><div><div class="name">1.6.4 Automation</div><div class="spec">Enrichment, sequencing, routing, reporting. The GTM-engineer layer.</div></div></div>
+        </div>
+      </details>
+
+      <div class="parked"><span class="p">PARKED</span> Branch 2 - Sales: convert demand. Not built in this pass.</div>
+      <div class="parked"><span class="p">PARKED</span> Branch 3 - Retention &amp; expansion: compound. Not built in this pass.</div>
+
+      <footer>Built from the Hormozi Harness &middot; thresholds cite leads.md &middot; v1</footer>
+    </main>
+  </div>
+</div>
+
+<script>
+  const subs = () => document.querySelectorAll('details.sub');
+  document.getElementById('minBtn').addEventListener('click', () => subs().forEach(d => d.open = false));
+  document.getElementById('maxBtn').addEventListener('click', () => subs().forEach(d => d.open = true));
+</script>
+</body>
+</html>

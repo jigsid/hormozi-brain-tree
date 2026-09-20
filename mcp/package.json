@@ -1,0 +1,22 @@
+{
+  "name": "hormozi-harness-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for the Hormozi Harness: value equation, offer audit, money model math, frameworks, and Obsidian vault access",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts",
+    "start": "node dist/index.js",
+    "smoke": "node scripts/smoke.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.5",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
