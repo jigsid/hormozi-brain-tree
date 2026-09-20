@@ -1,6 +1,6 @@
 # Hormozi Brain Tree
 
-A single-file, interactive 2D tree of the Hormozi business methodology — built to study the whole system top to bottom.
+A single-file, interactive 2D tree of the Hormozi business methodology - built to study the whole system top to bottom.
 
 Open `index.html` in any browser. No server, no dependencies.
 
@@ -21,10 +21,10 @@ Open `index.html` in any browser. No server, no dependencies.
 ## Structure
 
 ```
-index.html   — the entire app: tree data + layout engine + detail panel
+index.html   - the entire app: tree data + layout engine + detail panel
 ```
 
-The tree data sits in a single `const DATA` block at the top of the script — edit it, add children, and the tree re-flows automatically.
+The tree data sits in a single `const DATA` block at the top of the script - edit it, add children, and the tree re-flows automatically.
 
 ## Provenance
 
