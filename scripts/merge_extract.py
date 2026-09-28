@@ -20,6 +20,7 @@ from pathlib import Path
 CORPUS = Path.home() / "youtube-transcripts/hormozi"
 EXTRACT = CORPUS / "corpus/extract"
 MERGED = CORPUS / "corpus/extracted.jsonl"
+REPO = Path(__file__).resolve().parent.parent
 
 
 def load_transcripts() -> dict[str, str]:
@@ -58,6 +59,16 @@ def merge() -> list[dict]:
         seen.add(k)
         uniq.append(r)
     print(f"deduped -> {len(uniq)} records")
+    # Enrich with tier from the repo index so downstream work can filter by it.
+    # Subagents were never asked to emit `tier`, so it is absent on every record.
+    try:
+        idx = REPO / "sources/corpus-index.jsonl"
+        tiers = {json.loads(l)["id"]: json.loads(l)["tier"] for l in idx.read_text().splitlines()}
+        for r in uniq:
+            if not r.get("tier"):
+                r["tier"] = tiers.get(r.get("video_id"))
+    except Exception as e:
+        print(f"  (tier enrichment skipped: {e})")
     MERGED.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in uniq))
     print(f"wrote {MERGED}")
     return uniq
@@ -71,43 +82,70 @@ def all_numbers(rec: dict) -> list[dict]:
     return [n for n in out if isinstance(n, dict)]
 
 
+def all_quotes(rec: dict) -> list[tuple[str, str]]:
+    """Recursively collect every quote-bearing field.
+
+    Returns (path, quote_text). A subagent that verified only numbers[].quote
+    would leave argument_structure.steps[].quote and case_study.numbers[].quote
+    unchecked — this walks the whole record so nothing is exempt.
+    """
+    found = []
+
+    def walk(node, path):
+        if isinstance(node, dict):
+            for k, v in node.items():
+                p = f"{path}.{k}" if path else k
+                if k in ("quote", "text", "quotes") and isinstance(v, str):
+                    found.append((p, v))
+                else:
+                    walk(v, p)
+        elif isinstance(node, list):
+            for i, v in enumerate(node):
+                walk(v, f"{path}[{i}]")
+
+    walk(rec, "")
+    # 'text' only counts under quotes[] — elsewhere it may be prose
+    return [(p, q) for p, q in found if q.strip()]
+
+
 def audit(sample=None):
     """sample: int or None (Python 3.9 compatible signature)."""
     recs = [json.loads(l) for l in MERGED.read_text().splitlines()]
     tr = load_transcripts()
+    # Normalize each transcript ONCE. Normalizing per quote is O(quotes x corpus)
+    # and makes a 10k-quote audit take hours instead of seconds.
+    ntr = {}
     checks = []
     for r in recs:
         vid = r.get("video_id")
-        for n in all_numbers(r):
-            checks.append((vid, n))
+        if vid not in ntr:
+            ntr[vid] = norm(tr.get(vid, ""))
+        for path, q in all_quotes(r):
+            if not path.startswith("quotes[") and path.endswith(".text"):
+                continue          # only quotes[].text is a quote field
+            checks.append((vid, path, q))
 
     if sample and sample < len(checks):
         checks = random.sample(checks, sample)
 
-    ok = miss = noquote = 0
+    ok = miss = 0
     failures = []
-    for vid, n in checks:
-        q = (n.get("quote") or "").strip()
-        if not q:
-            noquote += 1
-            failures.append((vid, n.get("value"), "NO QUOTE"))
-            continue
-        text = tr.get(vid, "")
-        if norm(q) and norm(q) in norm(text):
+    for vid, path, q in checks:
+        nq = norm(q)
+        if nq and nq in ntr.get(vid, ""):
             ok += 1
         else:
             miss += 1
-            failures.append((vid, n.get("value"), q[:90]))
+            failures.append((vid, path, q[:80]))
 
-    total = ok + miss + noquote
-    print(f"\n=== AUDIT: {total} numbers checked ===")
+    total = ok + miss
+    print(f"\n=== AUDIT: {total} quotes checked (all paths, recursive) ===")
     print(f"  verbatim match : {ok}")
     print(f"  NOT FOUND      : {miss}")
-    print(f"  missing quote  : {noquote}")
     if total:
         print(f"  pass rate      : {ok/total*100:.1f}%")
-    for vid, val, why in failures[:25]:
-        print(f"    ✗ [{vid}] {val} — {why}")
+    for vid, path, q in failures[:25]:
+        print(f"    x [{vid}] {path} — {q!r}")
     return ok, total
 
 
