@@ -27,7 +27,25 @@ The full corpus (~2.9M words, 516 videos) lives **outside** this repository at:
 | `videos.tsv` | no | channel index — id, title, duration for all 523 videos |
 | `corpus-index.jsonl` | no | per-video metadata: words, publish order, themes, extraction tier |
 | `quotes.json` | short excerpts | 522 mined quotes with video provenance |
-| `evidence-index.jsonl` | no | extracted numbers + named mechanisms with video ids (added in Phase 1) |
+| `evidence-index.jsonl` | **synthesized prose only** | extracted numbers + named mechanisms + case-study summaries with video ids. No quote bodies — but see the caveat below. |
+
+### Caveat: "text-free" is a spectrum, not a binary
+
+`evidence-index.jsonl` and `frameworks/case-studies.md` contain **no quote bodies**, but
+they are written *about* the transcripts and carry paraphrase residue — short runs of
+wording that also appear in the source. Run the audit rather than trusting the label:
+
+```bash
+python3 scripts/leak_audit.py
+```
+
+It indexes every 10-word sequence in the corpus and reports what share of each repo
+file's words appear verbatim in a transcript. A low percentage is normal paraphrase
+residue. A high percentage means reproduced text and belongs outside the repo.
+
+**Current state (measured, not asserted):** the largest offenders are `quotes.json`,
+`index.html`, and `EVIDENCE.md`, which are *deliberate short excerpts* — the thing the
+licensing decision permits. The synthesized files sit at well under 1%.
 
 ## Rebuilding
 
