@@ -93,12 +93,66 @@ exercise — what a reader should copy.
 If a teardown covers multiple businesses or multiple owners, emit one object per
 business, sharing the same `video_id`, and add `"case_study_index": 1..n`.
 
+---
+
+# Tier-specific requirements
+
+## Tier Z — deep dives (40 min+, `argument_structure` MANDATORY)
+
+These are 40–450 minute single-topic videos. There is usually **no case study** —
+`case_study` is null. The value is the **argument**: how he builds a case over
+90 minutes, in what order, and what each step rests on.
+
+Add this object to every Tier Z record:
+
+```json
+"argument_structure": {
+  "premise": "the claim the whole video exists to establish, in one sentence",
+  "steps": [
+    {"n": 1, "claim": "the point being made at this stage", "support": "the evidence, story or number he uses", "quote": "verbatim from transcript"}
+  ],
+  "sequence": ["ordered playbook steps if the video is prescriptive — the actual do-this-then-that order"],
+  "caveats": "where he limits or contradicts the claim, and any 'you may not be in this season' scoping"
+}
+```
+
+Rules for Tier Z:
+- `steps` must follow the video's actual running order — do not reorder into a tidier logic.
+- A 90-minute video typically yields 8–20 steps. Do not collapse to 5.
+- If the video is a list ("26 harsh lessons", "13 years of advice"), each numbered
+  item is its own step and the item's number goes in `claim`.
+- `sequence` is only for genuinely prescriptive videos. Use null otherwise.
+
+## Tier B / C — sales training and content/audience
+
+`case_study` is null unless a real business is worked through. The value is the
+**procedure**: what to do, in what order, with what words.
+- Put each distinct technique in `named_mechanisms` with a definition.
+- Scripts, exact phrasings and talk-tracks go in `quotes` with context.
+- Where he gives a number ("35% close rate is the quota"), it goes in `numbers`.
+
+## Tier D — money, wealth, investing
+
+`case_study` is null unless he works a real balance sheet.
+- Distinguish **his stated rule** from **his own situation** — mark third-party
+  claims in the `context` field (e.g. "third party — Dave Ramsey describing his
+  own company"). Several numbers in this tier are about other people.
+- Ratios and thresholds (`numbers`) matter more than dollar amounts here.
+
+## Tier F — lessons and clips
+
+Short videos, often one idea. Keep the record lean: `one_line`, `named_mechanisms`,
+`numbers` if any, and 1–3 `quotes`. Do not pad. A record with two real mechanisms
+is better than one with ten invented ones.
+
+---
+
 ## Output
 
 One file per batch:
 
 ```
-~/youtube-transcripts/hormozi/corpus/extract/tier-A-<batch>.jsonl
+~/youtube-transcripts/hormozi/corpus/extract/<tier>-<batch>.jsonl
 ```
 
 Then merge to `~/youtube-transcripts/hormozi/corpus/extracted.jsonl`.
