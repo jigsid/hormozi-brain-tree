@@ -7,7 +7,328 @@
 
 Framed as a study pattern: *how he reads a business, what he changes first, and what he leaves alone.*
 
-**69 case studies · 1785 named mechanisms** across 194 videos.
+**72 case studies · 1918 named mechanisms** across 220 videos.
+
+---
+
+## How To Build Large Sales Teams (Starting from 0)
+`2lA_A8BGRRs` · https://youtu.be/2lA_A8BGRRs
+
+*The full sales-team build: hire for speed of response, intelligence, listening, social awareness and coachability (tested by role play with feedback and a second attempt), then a 14-day onboarding of 40 recorded calls plus script study plus daily role play, a half schedule on the floor, twice-daily reviews of one or two calls at 2x with written notes prioritised to one or two highest-leverage…*
+
+**Where this corrects or extends the written summaries.**
+
+- Captions corrupt the CLOSER acronym: 'closer primary' (CLOSER), 'then enr are explaining what their concerns' (E and R steps) — the run order is readable but the step letters are not.
+- Also garbled: 'proud technology' (product knowledge), 'salesforcement' (sales force), 'Amon Amazon stores', 'performance Improvement plan' capitalisation, 'you're all that's the name now' (you're out).
+- The quota is referenced but not numerically defined — he says 'the quota which is the minimum allowable close rate or whatever metric you want to use' without giving a figure.
+- No case study: portfolio companies are referenced but no single business is worked through with figures.
+
+---
+
+## 1 SIMPLE mental technique that will SKYROCKET your sales...
+`42SOlVhDwWE` · https://youtu.be/42SOlVhDwWE
+
+*The belief continuum: closing percentage = skill of sales × extent of belief, where skill only ranges 1-10 but conviction ranges 1-100 — so a sales team that truly believes the product out-closes a more skilled one that does not, and conviction counts twice because it also drives follow-up.*
+
+**Where this corrects or extends the written summaries.**
+
+- Captions garble key terms: 'your skills tails can be one to ten' (skill of sales), 'then boring with the uh the monotony of the skill'.
+- Percent signs and 'of' are dropped throughout ('put 100 of money into this thing called bitcoin', '100 believe'), so the 1-100 conviction range is stated as bare numbers.
+- No case study and no script — the video is an argument about weighting, not a procedure.
+
+---
+
+## Close High-Ticket Sales By Saying "NO"
+`ETEFhDICm5o` · https://youtu.be/ETEFhDICm5o
+
+*Two kinds of sales questions — mining questions that extract information and agreement questions that advance the sale — and how to phrase milestone questions so the prospect says yes by saying no ('would you be opposed to moving forward today?').*
+
+**Where this corrects or extends the written summaries.**
+
+- Auto-captions garble names and nouns: 'alex ramosa' (Alex Hormozi), 'jim launch' (Gym Launch), 'cheese factory' / 'tca factory' (Cheesecake Factory), 'fair enough clothes' (close).
+- The 95 figure is spoken without a per-cent sign and is attributed to Richard Schwartz (third party), not to Hormozi's own results.
+- Captions drop most punctuation, so the no-based question examples run together without quotation marks.
+
+---
+
+## The first product you must sell in a new business...
+`EZLQzR-_83A` · https://youtu.be/EZLQzR-_83A
+
+*Sell one thing: one product, one service, one avatar, one channel from zero to a million; add a second front-end/back-end product on the way from one to ten million; and create the accommodating buying curve with payment terms rather than product tiers, because people look at the monthly expense, not the total contract value.*
+
+**Where this corrects or extends the written summaries.**
+
+- The portfolio-company example has no figures attached — no revenue, no close-rate change — so case_study is null despite a real business being discussed.
+- Captions garble the buyer-curve phrase ('at every rug right' — presumably 'at every rung'), and 'her operations' for 'their operations'.
+- 'that's proven' is asserted with no source; treat the payment-options-to-conversion claim as his assertion, not a citation.
+
+---
+
+## The Actual Secret Behind Mastering Sales & Marketing
+`QbDFCbpmI6w` · https://youtu.be/QbDFCbpmI6w
+
+*Learn by doing, not by reading: he never did a sales training or read a sales book before selling, adopted the rule that he would not read another book until he had executed the last one, and recommends a monthly slush fund you are willing to blow on failure so you can acquire skills faster.*
+
+**Where this corrects or extends the written summaries.**
+
+- He names the book only vaguely ('it was like the happiness advantage or some you know whatever') — the title is not asserted with confidence.
+- The slush-fund advice is explicitly attributed to Ezra Firestone (third party), and the percentages (10% / 5% / 25%) are given as ranges with 'it just depends on who you are', not as a quota.
+- Captions drop 'percent' signs and garble 'i never did a single sales training' as one run-on clause; 'quote blow' in the slush-fund line is a caption artefact of a spoken pause.
+
+---
+
+## Sell Anywhere (SELL TO ANY CUSTOMER in 2018)
+`aiS5qH7UMX4` · https://youtu.be/aiS5qH7UMX4
+
+*A 90-second walkthrough of the sketchy gym he opened in the middle of nowhere with $500 bills posted at the entrance — the point being that it is your pitch, not your premises, that decides whether you can sell.*
+
+**Where this corrects or extends the written summaries.**
+
+- Very short clip (235 words); no framework, no script, no numbers beyond the $500 bills. Auto-captions render the gym walkthrough loosely — 'It's like in the middle of the living room' refers to the bathroom he just mentioned.
+
+---
+
+## $100M Salesman Reveals #1 Persuasion Hack
+`bHnVItVGJPA` · https://youtu.be/bHnVItVGJPA
+
+*Conviction is the persuasion hack: sales is a transference of conviction over the bridge of trust, so the job of a sales director is to refill the cup on a weekly cadence — customer success sharing client wins, testimonials read daily, customers telling their story to the sales team — because salespeople need to be reminded more than they need to be taught.*
+
+**Where this corrects or extends the written summaries.**
+
+- The mortgage-leads business is discussed (nine-person team, script rewritten, team trained) but no result or figure is given, so case_study is null.
+- Captions garble: 'Alex Mozi'/'Ashamozi' (Alex Hormozi), 'weouts' (weigh-outs), 'wayne' (wane), 'crossd departmental', 'I have an acquisition.com' (I own acquisition.com).
+- The $85M/year figure is about his own portfolio at time of recording and is repeated twice in the video.
+
+---
+
+## My Best Sales Tactic (to Make a TON of Money)
+`bx48qPlaGvE` · https://youtu.be/bx48qPlaGvE
+
+*Ghost products: recommend a product you do not carry (or carry at low margin) and send the customer elsewhere to buy it cheaper, which buys trust fast enough that they then take everything else you prescribe — plus the prescriptive close that attaches each product to a habit they already have and the card-on-file one-click upsell.*
+
+**Where this corrects or extends the written summaries.**
+
+- Caption garbles: 'mass Gator' (mass gainer), 'high marching stuff' (high margin stuff), 'in the rower now' (in the program now?), 'killed this launch'.
+- The 100% / '80 90' close-rate claims are his own recollection of gym supplement sales; captions omit per-cent signs and the '80 90' range is spoken, not measured.
+- No case study: the gym example has no revenue figures, only close rates.
+
+---
+
+## How To Close Everyone Downselling Like A Pro (ALEX HORMOZI)
+`gza5RtQCVsA` · https://youtu.be/gza5RtQCVsA
+
+*The downselling ladder: hold a set of cards you can play one at a time — term/commitment, testimonial, review, bring-a-friend — and exchange each concession for something, ending every offer with 'fair enough' so the only thing they have to agree to is that the deal is fair; six drop downs in, a no is no longer a money problem.*
+
+**Where this corrects or extends the written summaries.**
+
+- The whole video is a worked example of a $299/$300 fitness front-end, not a client case study — case_study is null.
+- The 9%-verbal figure is a general psychology statistic he asserts (Mehrabian), not his own data.
+- Captions mangle words: 'downell'/'downelling' (downsell), 'cruise rate' (close rate), 'I'll just let you get started for a day' where the ladder elsewhere says pay-as-you-go, and the 12-week/30-day conditions are stated in words, not numerals.
+
+---
+
+## How To Win Sales Without Being Skilled (ALEX HORMOZI)
+`iwskrByMIqo` · https://youtu.be/iwskrByMIqo
+
+*The person who cares the most about the buyer wins the sale — a gym owner flipped from 0-for-25 to 5-for-9 overnight on the same script by shifting from his own agenda to the buyer's, because buyers can smell 'commission breath' and conviction is what carries a sale that skill alone cannot.*
+
+**Where this corrects or extends the written summaries.**
+
+- The 0-for-25 / 5-for-9 figures are a third party's results as he recalls them from a coaching call, and he gives the starting record two different ways ('0 for 20 or something', '0 for 25') in the same video.
+- Caption truncates words mid-word: 'kneede' (knee-deep), 'themsel' (themselves), 'personalitydriven', 'GLX flies'/'Giblords' (unclear internal names).
+- No script, no case study with figures — the video is a reframe, so the procedure is thin: one pre-call question ('do I care more about their outcome than they do?').
+
+---
+
+## The "Assumed Close": How to Close Deals Without Resistance
+`xy1h4qqF778` · https://youtu.be/xy1h4qqF778
+
+*The assumed close: instead of asking whether they want it, ask which one they want — an either/or upsell presented to a customer who has already bought and already trusts you, which he says closes nine or nine-and-a-half out of ten and paid for all his advertising.*
+
+**Where this corrects or extends the written summaries.**
+
+- The video gives no script for the front-end sale — only the upsell question sequence ('chocolate or vanilla', 'kiwi or strawberry', 'card you have on file').
+- Numbers are spoken loosely: '70 80,000 a month' and 'nine and a half out of ten' are approximations in the caption, not precise figures.
+
+---
+
+## How to become rich with social media (my exact playbook)
+`21flGkcZO3A` · https://youtu.be/21flGkcZO3A
+
+*Content should be judged by the buyers it produces, not the views it gets: make videos for the people who pay you, accept that views and subscribers fall, and pick topics from the top 20% of your customer base.*
+
+**Where this corrects or extends the written summaries.**
+
+- The top-revenue video's view count is captioned as '270,000 1,000 video', which is not a number he could have said; the caption is corrupt and the figure is left as stated rather than repaired.
+- The '51 to 1 rule' is referenced but never stated in this video - the ratio is named, not explained here.
+
+---
+
+## If I Started A Personal Brand In 2026, I'd Do This - Dolly Parton
+`SCi464zfAUM` · https://youtu.be/SCi464zfAUM
+
+*X-Factor defined as the multiplier from stacking multiple rare and contradictory traits in one person, and the operational move is to break the pattern by leaning into the parts of yourself you hide.*
+
+**Where this corrects or extends the written summaries.**
+
+- The caption reads 'her number one song of all time is her begging another woman not to steal her man' and cites Jolene - the song name is spelled correctly in the transcript but the caption's 'from Mims' attribution for a different song is garbled.
+
+---
+
+## My Actual Social Media Strategy For 2027 - The Algorithm
+`ZTSI3DDP_4A` · https://youtu.be/ZTSI3DDP_4A
+
+*He runs content production as a manufacturing process using the five steps of Musk's algorithm - question requirements, delete, simplify, accelerate, automate - with the truth as the marketing rule that converts.*
+
+**Where this corrects or extends the written summaries.**
+
+- The five steps are named in the order question / delete / simplify / accelerate / automate, but step two is stated separately from the 'delete so much you have to add back' rule; the transcript treats them as the same step.
+- No numeric result is given for the color-grading deletion beyond the illustrative 4-of-10 hours; the 'made no difference' claim carries no figure.
+
+---
+
+## The New Way of Making Content In The Age of AI
+`XsWSvz-aewA` · https://youtu.be/XsWSvz-aewA
+
+*AI disrupts low-stakes content first, so the defence is demonstrable proof at scale - engineered into the existing business motion so that documenting is capturing, not extra work.*
+
+**Where this corrects or extends the written summaries.**
+
+- The follower figure is stated as '21 million 393,122' - an exact number delivered after an approximate one; it is recorded as spoken, not collapsed.
+- The B2B/partnership proof advice is asserted without any conversion figures.
+
+---
+
+## How I Put Out So Much Content Despite Being Part-Time
+`eVY4Zo-hpqU` · https://youtu.be/eVY4Zo-hpqU
+
+*Make content only when it is fresh and when you feel emotion, only about domains where you have done the thing, and refuse to say anything not worth saying.*
+
+**Where this corrects or extends the written summaries.**
+
+- This is an excerpt from a live event answer featuring Leila as co-speaker; several of the content rules in it are hers, not his, and are marked as third party where they are.
+
+---
+
+## I Gained 5,000,000+ Followers with this Secret Method
+`fd-hi3NqMYo` · https://youtu.be/fd-hi3NqMYo
+
+*A four-phase agency playbook: buy the basics, then buy the premium agency's decision-making with a six-month deadline, co-create, then bring it in-house and downgrade to consulting.*
+
+**Where this corrects or extends the written summaries.**
+
+- The transcript is caption-style without punctuation; quotes therefore carry no sentence boundaries and the builder's sentence logic falls back to word windows.
+- He says 'you pay down your ignorance tests faster' - the caption almost certainly renders 'ignorance tax' as 'ignorance tests'; recorded as spoken, not repaired.
+
+---
+
+## A YouTuber Asked Me "How To Business". Here's My Answer
+`4pZwlE86A5Y` · https://youtu.be/4pZwlE86A5Y
+
+*A live opportunity analysis on Unspeakable's business: size each monetization vehicle by units times gross profit divided by competition, then do more of what already has the fewest unknowns rather than build the exciting new thing.*
+
+### Case study
+
+**Business.** Unspeakable - a YouTube creator business with 200 million monthly viewers, a 12-16 year old audience, merch, AdSense and brand integrations, plus a planned car shop and consumable product
+
+**Starting state.** 10 years on YouTube, roughly 25 years old, three candidate monetization vehicles (media channel, car shop with parts marketplace, consumable/energy drink), 52 videos a year with the creator in every one
+
+**Diagnosis.** Attention split across three vehicles; the media channel is the only one where he has no unknowns and the only one that scales, but it is capped by the creator having to appear in every video, and the brand is welded to one person who will age out of the persona
+
+**Intervention.**
+
+- Drop the marketplace idea entirely
+- Keep the car shop, with the existing partner running day-to-day operations, and hire a junior to run its content
+- Double down on the media channel as the main thing
+- Find and rotate one to three co-hosts in so the channel can scale past the creator's own hours
+- Build out the sponsorship bar on the existing audience
+- Execute the phase-out plan for the creator over six to 12 months, ending in occasional appearances
+
+**Numbers.**
+
+| Claim | Value |
+|---|---|
+| Monthly viewers on the channel | **200 million people every single month** |
+| Current and target video output | **52 videos a year; could put out 100** |
+
+> **Transferable pattern.** When an audience business has several possible products, rank them by unit economics divided by competitive density, then pick the one with the fewest unknowns - usually more of the media you already do - and remove the person as the single point of failure before the audience ages out of them.
+
+**Where this corrects or extends the written summaries.**
+
+- The creator's 0 to 60 automotive shop and the parts marketplace are described but the transcript never states their revenue, so no figures exist for them.
+- The '5x the sponsorship money' claim is Hormozi's assertion with no arithmetic behind it in the transcript.
+
+---
+
+## Launch A Physical Product Brand The Right Way
+`LvHDT0ZxSmw` · https://youtu.be/LvHDT0ZxSmw
+
+*A full unit-economics build for a hypothetical nose-strip business - margin, price points, churn equilibrium, influencer margins and exit multiple - showing how to model a physical product before launching it.*
+
+**Where this corrects or extends the written summaries.**
+
+- This is a hypothetical model, not an operating business, so case_study is null by the tier rule; every figure is a projection he constructs on the fly and he says so at the end.
+- The caption renders 'nose strips' as 'no strips' and 'nose trips' throughout; recorded as spoken.
+
+---
+
+## If I Wanted to Monetize An Audience in 2026, This is What I Would Do
+`oRqnTOT9ZG8` · https://youtu.be/oRqnTOT9ZG8
+
+*The four ways to monetize an audience - affiliates, sponsorships, partnerships, own brand - ranked on a continuum of difficulty, risk and exit value, with the deal terms and talk-tracks for each.*
+
+**Where this corrects or extends the written summaries.**
+
+- He says 'exit value' repeatedly without giving any multiple for affiliate or sponsorship cash flow - the only figure is the 0.1%-99% equity range.
+- The caption renders 'and so the behavior avors' - almost certainly 'the behaviours are' - recorded as spoken, not repaired.
+
+---
+
+## 1.2M Followers in 6 Months… My Content Marketing Strategy REVEALED
+`MD5-HByRxoA` · https://youtu.be/MD5-HByRxoA
+
+*The five phases of building a content machine, and the decision rule for small businesses: if organic is not your lead source, do phases one and two only, because organic content's job is lead nurture, not lead generation.*
+
+**Where this corrects or extends the written summaries.**
+
+- The video's title claims 1.2M followers in 6 months but no follower number appears in the transcript body; the only figures are the cost and volume of production.
+- He names the three rules for volume ('no such thing as too long only too boring' and 'quality quantity wins over quality') but gives no numeric threshold for either.
+
+---
+
+## Building a brand, but it's on easy mode instead
+`UGEc9-7X3OQ` · https://youtu.be/UGEc9-7X3OQ
+
+*An eight-hour-room Q&A distilled: the 3 Ps for intros, all-give content with the ads doing the asking, brand defined as association with three measurable elements, and a four-bucket system for never running out of topics.*
+
+**Where this corrects or extends the written summaries.**
+
+- This is a Q&A cut from an eight-hour session; several answers are given to un-named questioners and the transcript loses who asked what.
+- The '10 times the views' and '100 times the views' figures are stated as claims to the room, not measured results.
+
+---
+
+## My Actual Social Media Strategy For 2026
+`dMZ-n2KSlxE` · https://youtu.be/dMZ-n2KSlxE
+
+*The SPCL framework - status, power, credibility, likeness - as the four components of influence, plus the market-size arithmetic for setting realistic view expectations and the case for long form and live over shorts.*
+
+**Where this corrects or extends the written summaries.**
+
+- The 32-33 million business owner count and the 1-in-3,000 figure are attributed to Census Bureau data but he gives no source detail; the $100 million threshold is the only place he says the numbers depend on the data source.
+- He describes the parents example as the worked illustration of all four SPCL elements but gives no figures for it.
+
+---
+
+## More Followers Won't Make You Rich, But This Will
+`lEIqyLE4iOY` · https://youtu.be/lEIqyLE4iOY
+
+*A long Q&A on the operating system behind the content: the tweet as the single source that everything else is multiplied from, CTAs kept out of the content and put in profile/description/first comment, and four distinct ways to repurpose the same thing.*
+
+**Where this corrects or extends the written summaries.**
+
+- The caption renders the platform name as 'school.com' and 'school games' where he means skool.com; and 'Min chat'/'man chat' for ManyChat. Recorded as spoken, not repaired.
+- The $1 billion valuation of his social presence is his own assertion with no method given.
 
 ---
 
@@ -2138,6 +2459,92 @@ Framed as a study pattern: *how he reads a business, what he changes first, and 
 - The $35-36M distributions and the $17.4M 2018 profit are his own self-reported figures with no documentation; the 20% return assumption he applies to them is his own illustration, not a realised return.
 - His crypto hedge's 'probably 5x' is a stated conditional scenario, not a forecast or a result.
 - The '$30 million left on the table' figure is explicitly hedged ('conservatively can say') and has no calculation behind it.
+
+---
+
+## KEYNOTE: Small To BIG. The Big 4 Customer Acquisition Models.
+`XwZH-lOKG9c` · https://youtu.be/XwZH-lOKG9c
+
+*A four-part keynote - the math (client finance acquisition and 30-day cash), the offer, the traffic, and the money - whose capital argument is that a business funded by its customers' first-30-day cash needs no outside capital to grow, and whose biggest profit lever is price and the back end.*
+
+### Case study
+
+**Business.** His own gym (the first one), restructured around a free six-week challenge - the offer he then used to open six gyms.
+
+**Starting state.** Could not sell a $99 a month boot camp; he says he could not even close people on a free trial; no cash to open locations.
+
+**Diagnosis.** The offer was a commodity - a monthly boot camp price - so it could not produce the up-front cash needed to fund a lease, payroll and staff before recurring revenue starts.
+
+**Intervention.**
+
+- Replace the $99 a month boot camp with a free six-week challenge.
+- Take $600 down, refundable on losing 20 pounds.
+- Sell $300 of supplements 48 hours after purchase.
+- At 21 days, offer the $600 back as credit toward a membership (12-month contract) - close 70-80%.
+
+**Result.** Cost of acquisition dropped by a tenth and the business made 30 to 1 up front before membership dues, which funded six gyms in three years at 23 - 'completely full on someone else's money' before the first client showed up.
+
+**Numbers.**
+
+| Claim | Value |
+|---|---|
+| The offer before and after | **$99 a month -> free six-week challenge** |
+| Up-front return before membership dues | **30 to 1 up front** |
+| Effect on acquisition cost | **down by a tenth** |
+
+> **Transferable pattern.** Restructure the front end so the first 30 days produce more cash than acquiring and fulfilling the customer costs - free or discounted entry, money down, an immediate adjacent sale, then credit the deposit into a longer commitment. The up-front cash is what buys the next location.
+
+**Where this corrects or extends the written summaries.**
+
+- Caption corruption: 'grow the eggs in three to five years' (grow them); "we're room will spend 3.1 million" ; 'we ran 74 net margins' (no % sign); 'prestige labs went from zero 1.7 in six months' and 'allen ... zero to one point four' (units missing); 'an 11 to 11.2 to one return' (garbled); 'you…
+- The headline revenue is spoken in words - '112 million 496 422' - with no dollar sign, and the opening bank-account figure is '1036 dollars'; the 44-month window is stated but the start date is not.
+- Prestige Labs, Allen and the brick-and-mortar chain are each given a ramp figure with no unit and no margin, so they cannot be compared with the Gym Launch 74 margin claim.
+- 'This is the only math equation the entire thing' is asserted for the 30-day cash rule but the equation is only ever spoken as a sentence, never as a formula.
+- The six traffic pools are credited to an unnamed 'CEO' of another company ('the photo shop uh the ceo'), a third-party framework he adopts without naming.
+- The affiliate/white-label counts self-correct in the caption ('200 or 400 now 400').
+
+---
+
+## Pricing Lessons From a Private Equity God
+`hnfh2jqNVEQ` · https://youtu.be/hnfh2jqNVEQ
+
+*What he took from two days next to Vista's former head of pricing - score every prospect and customer to find the vein of highest-LTV buyers, qualify the front end on the characteristics of the customers who win, set expectations from the average (not the outlier) and treat onboarding as the place lifetime value is decided - plus the Gym Launch numbers from applying it.*
+
+### Case study
+
+**Business.** Gym Launch - his gym turnaround/licensing company (he says 'we' throughout; the exercise runs on their own front end and customer base).
+
+**Starting state.** Selling over 100 gyms a month with no front-end qualification; in the four weeks before the change, 22 escalations from the customers who were hardest to serve and got the least results.
+
+**Diagnosis.** The wrong customers were the expensive ones: not gym owners, not full-time, no signed lease, no employees - they took the vast majority of the team's time and were worth less. Vista's method (score the pipeline, find the vein of highest-LTV customers) showed the best-customer profile was already in their own data.
+
+**Intervention.**
+
+- Pull a 90-day block of exits and escalations and score both ends: who made the most money, was easiest to work with, versus who left and escalated.
+- From October, qualify the front end: at least 25 clients, a signed lease, full-time gym owner, ideally one employee or more.
+- After a brief experiment selling a year up front with a 90-day sprint, switch back to the defined-end program.
+- Point marketing and sales at the identified vein of customers and set expectations from the average and bottom-quartile results.
+
+**Result.** Gym sales fell from over 100 a month to 40-50 - inflow roughly halved - but the four weeks after the change produced zero escalations, the new customers pay more, make more and require less work.
+
+**Numbers.**
+
+| Claim | Value |
+|---|---|
+| Gym sales per month before vs after qualifying | **over 100 a month -> about 40 to 50** |
+| Escalations before vs after | **22 -> zero** |
+| The qualification bar applied | **at least 25 clients, signed lease, full-time owner** |
+
+> **Transferable pattern.** Score every customer who left and every customer who stayed on outcome and ease of service; set a hard qualification line on those characteristics; accept a smaller inflow in exchange for higher LTV, fewer escalations and less operational load.
+
+**Where this corrects or extends the written summaries.**
+
+- Auto-captions drop the dollar signs and units throughout: 'it's over 50, they do over 50 billion a year', 'we ran 74 net margins' (video 2's own words), 'so it's three and three' - the 'three and three' ratio is only interpretable from the sentence before it.
+- The sentence about the customers who returned after the switch is corrupt and self-repeating ('the people who uh came back in were actually paying more than the people who uh were paying more than the people who we were letting before') - the claim that the new cohort pays more is unquantified and…
+- Marcus Rivera is spelled 'Marcos' later in the same transcript.
+- VSOPS is described only qualitatively - no numbers for how many SOPs exist or what they change.
+- He gives the average gym's first-six-weeks figure ($16,000) but never states the number of gyms in the sample.
+- The 'people who leave' data exercise is prescribed but no result from it is given beyond the qualification criteria.
 
 ---
 
@@ -4998,6 +5405,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **2. Taking jobs to earn rather than to learn** | Optimising for salary in your 20s is cashing in early on an asset that is still compounding. The premium paid by employers who teach you nothing is not worth it. | [q6SdmgIji30](https://youtu.be/q6SdmgIji30) |
 | **3. Army of smarter people vs genius with a thousand slaves** | Millionaires think they can do it themselves or underpay a handful of people. Billionaires ask whether they can find 10-out-of-10 talent to run it, because big talent only chases big opportunity. | [E732S9fteRc](https://youtu.be/E732S9fteRc) |
 | **3. Saving money is the mistake (save it, but into a self-investment account)** | You should not spend it, but you should not put it in the S&P either - put it in a separate account earmarked for your own earning capacity. | [q6SdmgIji30](https://youtu.be/q6SdmgIji30) |
+| **30-day cash** | The gross profit that can be extracted from a new customer in the first 30 days - tracked against the credit-card clock so growth is financed by customers, not by the owner. | [XwZH-lOKG9c](https://youtu.be/XwZH-lOKG9c) |
 | **30-day cash collected** | The exact amount to collect in the first 30 days: cost of goods sold plus cost of acquiring the customer, so one customer funds the next. | [A_tx40lNpf8](https://youtu.be/A_tx40lNpf8) |
 | **30x12 working challenge** | Work 30 days straight, 12 hours a day, no weekends. It is not a permanent lifestyle — it is proof that you can work harder than you believed, and it doubles your result by removing spend and adding earning at the same… | [ymFWgFiKUvM](https://youtu.be/ymFWgFiKUvM) |
 | **4. Prioritisation means taking money off the top first** | 'Prior' literally comes first: decide the learning budget first, let the rest stockpile, and deploy the capital when you see something worth learning - never ask 'what do I have left at the end of the month'. | [q6SdmgIji30](https://youtu.be/q6SdmgIji30) |
@@ -5014,6 +5422,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **9. Your micro-community matters** | Overpay for convenience - near the highway, near a gym, near cheap food, walkable if possible - because you are buying back time and ancillary cost, and live with more people in a better area rather than fewer people in… | [q6SdmgIji30](https://youtu.be/q6SdmgIji30) |
 | **911 calls (escape valve)** | Replace unlimited access with a capped number of emergency escalations, modelled on the lifelines in Who Wants to Be a Millionaire, so the client learns instead of becoming dependent. | [N5MExtki_VI](https://youtu.be/N5MExtki_VI) |
 | **996** | The Chinese tech work standard - 9am to 9pm, six days a week - which he uses as the bar, not the extreme. | [vhOV_Od0A3M](https://youtu.be/vhOV_Od0A3M) |
+| **A brand is an association** | A brand is the association between two things - between something people know and something they do not - and branding is therefore also a word for teaching. Brands change behaviour at scale. | [UGEc9-7X3OQ](https://youtu.be/UGEc9-7X3OQ) |
 | **A business always becomes more valuable every year until it doesn't** | Quoted from the managing partner at APG: as long as the business keeps growing or even holds steady, it is worth more each year; the moment it declines it is worth nothing, because nobody wants to touch it. | [fD-sxKiB30M](https://youtu.be/fD-sxKiB30M) |
 | **A call out** | Whatever you do to get the attention of your audience, running from hyper-specific (one person's attention) to not specific at all (everyone's attention). Specificity gets more qualified leads, not fewer. | [reisEL_D7xc](https://youtu.be/reisEL_D7xc) |
 | **A hydra of subject matter experts** | You cannot replace yourself with one person because nobody has lived your exact life, but you can replace yourself with several people who have each lived portions of it. Each is branded internally as a subject matter… | [HKbFUWJwEG0](https://youtu.be/HKbFUWJwEG0) |
@@ -5026,6 +5435,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Absolute ownership (beat the victim out of yourself)** | Whatever happens — with a spouse, an employee, the marketplace — take complete responsibility, because blaming anything else hands your power away. | [cX7cCA3Be8A](https://youtu.be/cX7cCA3Be8A) |
 | **Absolute versus relative return** | Optimise total profit rather than ROAS ratio - a lower multiple on a bigger spend can beat a high multiple on a small one. | [unshZobTt6Q](https://youtu.be/unshZobTt6Q) |
 | **Abundance as needing nothing** | Being abundant means being someone who cannot be controlled because they need nothing - which is why the fear of giving value away is pure scarcity. | [neTSqOAMgao](https://youtu.be/neTSqOAMgao) |
+| **Accommodating buying curve** | A price structure where wealthier buyers buy more and spend more and less wealthy buyers still buy, just pay differently — he achieves it with payment terms instead of a ladder of products. | [EZLQzR-_83A](https://youtu.be/EZLQzR-_83A) |
 | **Acquisition.com 3.0** | His staged model of the business: 1.0 helped themselves directly, 2.0 helped themselves directly and everyone else indirectly by documenting it, 3.0 is helping themselves directly and the audience directly. | [OUI12JmD-lM](https://youtu.be/OUI12JmD-lM) |
 | **Act with urgency (the thought-to-action gap)** | You can tell how successful someone will be by the gap between thought and action. The extreme is the god figure where thought and reality are one; you approximate it by shrinking the delay, and 'decide' literally means… | [oDK4g5na4Jw](https://youtu.be/oDK4g5na4Jw) |
 | **action alleviates anxiety** | The phrase he wrote down and repeated to himself whenever the anxiety about not having made it yet spiked; action is the coping mechanism, not reassurance. | [aFoMYz_jWcs](https://youtu.be/aFoMYz_jWcs) |
@@ -5035,6 +5445,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Activation sequence (first 7 days)** | Give every new customer a defined first-week win — make a sticker — and tie it to an unlockable reward (the 'super secret sticker set'), so onboarding produces quick wins and each customer produces an ad. | [j2TZMFkj71Q](https://youtu.be/j2TZMFkj71Q) |
 | **Ad machine (fusion reactor)** | Design the normal function of the business to produce its own marketing: one big push starts the engine, then customers' documented experiences recruit the next customers. | [N5MExtki_VI](https://youtu.be/N5MExtki_VI) |
 | **Add zeros** | The process scales by magnitudes: add zeros to the product or the goal and the same math holds — which is why he says the framework works at $10M+ as well as at $1M. | [BSwJQsogah0](https://youtu.be/BSwJQsogah0) |
+| **Advanced salesmen never don't do the basics** | People are called advanced because of their outcomes, not their tactics — the tactics do not change with level, only the consistency of execution; advanced lifters lift more weight, they do not do different lifts. | [iwskrByMIqo](https://youtu.be/iwskrByMIqo) |
 | **Advent calendar as multi-dip** | One move that produces scarcity, PR, earned media, sales, hardcore-fan reward and next year's product data at once. | [YUXLJauT4eY](https://youtu.be/YUXLJauT4eY) |
 | **Advertising machine inside the business** | Build the ad machine out of your customer community so you only have to generate 10-20% of the creative and the community generates the other 90. | [HwPXctiw_rY](https://youtu.be/HwPXctiw_rY) |
 | **Advice hierarchy** | Ranked quality of advice: (1) has done it themselves AND taken multiple others there; (2) has taken multiple others there but not done it; (3) has only done it themselves and helps no one; (4) saw others do it; (5) saw… | [qLM5G7N3l3I](https://youtu.be/qLM5G7N3l3I) |
@@ -5054,9 +5465,12 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Alex's big list of ideas** | Write every idea down and let it sit, because you are always emotionally invested in a fresh idea and a month of sleep separates good ones from bad. | [rc7cxL7ql7Y](https://youtu.be/rc7cxL7ql7Y), [spXH1kJ6q-Q](https://youtu.be/spXH1kJ6q-Q) |
 | **Alex's Big Money-Making Idea List** | The holding pen for every missed opportunity, known to everyone in the company. Ideas sit there until all current-level problems are solved, and most die there - he only ever implements one in 10 or 20. | [zNiXk_3C_Io](https://youtu.be/zNiXk_3C_Io) |
 | **Align home and business money rules** | You cannot reinvest everything in a business while living lavishly at home. He and Leila run the same rules in both: no debt personally, no debt in the business. | [rp1PzCxj3eU](https://youtu.be/rp1PzCxj3eU) |
+| **Align your objective with the algorithm's objective** | Hacks fail because platforms close the loop; the durable strategy is that every platform wants lots of people to click, watch all the way through, and watch something else from you - so make content that does those… | [UGEc9-7X3OQ](https://youtu.be/UGEc9-7X3OQ) |
 | **Aligned incentives (paid on show-ups)** | They were compensated on the percentage of people who showed up, which forced them to solve the show-rate problem and aligned every stakeholder — small business owner, agency owner and vendor all wanted the same outcome. | [0mqqbuM9sAk](https://youtu.be/0mqqbuM9sAk) |
+| **All give, ads do the asking** | Content is only give and the ads are the ask, so you never have to balance a give-ask ratio inside content; the 3-to-1 ratio then exists across the whole feed, not within your own posts. | [UGEc9-7X3OQ](https://youtu.be/UGEc9-7X3OQ) |
 | **All technology automates luxury** | Credited to a technologist friend: luxury is largely a function of convenience, effort and sacrifice — so the places where people spend time, effort and sacrifice are the places where a technology business can return it… | [SbZFTPJ9KZU](https://youtu.be/SbZFTPJ9KZU) |
 | **All the slow on the buy, all the lubricant on the sell** | It is always easier to buy than to sell, so put friction into acquisition decisions and remove friction from exits — buying is instant and selling requires a counterparty. | [rp1PzCxj3eU](https://youtu.be/rp1PzCxj3eU) |
+| **All the W's** | The term-sheet checklist for a partnership: who, what, where, when, why, how - including how much the creator posts, about what, and how it is integrated so they do not become a shill. | [oRqnTOT9ZG8](https://youtu.be/oRqnTOT9ZG8) |
 | **Always know how to get your money back** | Not a vague belief that you can get it back — the exact steps, walked through one by one. If the counterparty does not mean it, they will not have a way to do it. | [rp1PzCxj3eU](https://youtu.be/rp1PzCxj3eU) |
 | **always play the fool** | Ask to be walked through everything as if you know nothing; there is no advantage to someone thinking you know more than you do. | [INm4U2S7Vu8](https://youtu.be/INm4U2S7Vu8) |
 | **always say yes to the first ask** | People only ask once; if you decline the first invitation they will not ask again, so the first ask is the whole opportunity and he will move existing commitments to accommodate it. | [RsXcCjLtnsA](https://youtu.be/RsXcCjLtnsA) |
@@ -5077,6 +5491,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Ask what the person ahead of you lacks** | Instead of asking what they do that you do not, ask what they are not doing that you are - because if you are maxed out on doing, doing more is not the fix; doing fewer, different things is. | [QQGHCG8d1So](https://youtu.be/QQGHCG8d1So) |
 | **ask what was actually collected** | The single question that cuts through every inflated metric: how much money did you actually collect, and what did you take home. | [al_WXFDbN8I](https://youtu.be/al_WXFDbN8I) |
 | **Assume no one will ever see it and make it anyway** | Make content to document your own thinking rather than to perform for an audience, which removes the expectation that degrades the work. | [QQGHCG8d1So](https://youtu.be/QQGHCG8d1So) |
+| **Assume nobody will see it** | Grant Cardone's rule he adopts: assume zero audience and make all content from that perspective. | [eVY4Zo-hpqU](https://youtu.be/eVY4Zo-hpqU) |
 | **attached referral to the core offer** | Reusing the same core offer across plays: the summer camp giveaway becomes the birthday giveaway, and the same $2,000 core offer is sold underneath it. | [xRxVpjeHmeA](https://youtu.be/xRxVpjeHmeA) |
 | **Attention as the real cost of consumption (co-presenter Leila)** | Leila's addition: the true cost of expensive possessions is not the money but the attention and complexity they demand. Stuff adds complexity, which adds anxiety - so buying things to feel better makes you feel worse. | [a0hUVFYzv3k](https://youtu.be/a0hUVFYzv3k) |
 | **Attention gives you the ability to see** | Wisdom is the ability to see what others cannot see, and seeing is a function of available attention — which is why a problem that was impossible at night is obvious in the morning, and why big problems seem small to… | [6ZEZWuVC8-8](https://youtu.be/6ZEZWuVC8-8) |
@@ -5128,12 +5543,14 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Big Head Long Tail** | Pricing architecture for education: charge a very high price for the one-time, inherently valuable thing (the head) and a much lower recurring price for the consumable, refreshed components (the long tail). | [qsXxckCbci0](https://youtu.be/qsXxckCbci0) |
 | **Big head, long tail (one-time value vs ongoing consumable value)** | Separate the one-time value you deliver (education, blueprints, tools — permanent value, price it up front) from the ongoing consumable value (community, calls, ad testing, done-for-you services — price it monthly). His… | [TooAB8Ow6cQ](https://youtu.be/TooAB8Ow6cQ) |
 | **Big list of ideas** | Write every idea down instead of interrupting the team; put an estimated improvement and a likelihood next to each, rank them, and only act when bandwidth exists and the idea beats the others on the list. | [hfwZwPGsbIo](https://youtu.be/hfwZwPGsbIo) |
+| **Bigger the head, the longer the tail** | The more someone pays up front relative to the upfront cost of signing, the lower their recurring payment can be — and the stickier the contract becomes; the upfront cash also liquidates ad cost, commissions and… | [EZLQzR-_83A](https://youtu.be/EZLQzR-_83A) |
 | **Biggest guy in a puddle** | How to reconcile 'the riches are in the niches' with 'go into saturated markets': start artificially constrained so you compete where the sharks are not, then graduate puddle to pond to lake to open ocean as your skill… | [hnmBXTyMFKI](https://youtu.be/hnmBXTyMFKI) |
 | **Biggest-version benchmarking** | For any business: identify the biggest existing version of that business model, see what they did to get there, count the steps between you and them, and treat your own skill deficiencies as the opportunity list. | [bgBIO6nZawg](https://youtu.be/bgBIO6nZawg) |
 | **Binaries and continuums** | Traits are not on/off switches. The question is not 'are you patient' but 'how patient are you', which makes every skill improvable and turns each action into a proof point you can move along a line rather than a… | [MNll1BaskLA](https://youtu.be/MNll1BaskLA) |
 | **Binaries versus continuums (applied to self-assessment)** | It is not whether you can manage a sales team but how well; skills, traits and honesty all sit on continuums, and phrasing the bottleneck as a solvable question is the way to learn. | [qxQIcDrre1E](https://youtu.be/qxQIcDrre1E) |
 | **Black box definition of a business** | A business is a black box that transforms raw materials into an output where the value is higher than the inputs - the only rule that constrains it is physics. | [A_tx40lNpf8](https://youtu.be/A_tx40lNpf8) |
 | **Blended average cash per door** | The metric the whole offer redesign is solved for: average dollars collected upfront per sale, which must exceed fully-loaded COGS plus CAC for the business to grow debt-free and cash-flow positive. | [Wr6n_zNKvMk](https://youtu.be/Wr6n_zNKvMk) |
+| **Boil the decision down to the most basic unit** | Do not let the prospect work out what the decision is — hand them the single decision they have to make by the end of the call (B2B example: whether you will make more money with us than on your own, in excess of our… | [2lA_A8BGRRs](https://youtu.be/2lA_A8BGRRs) |
 | **Boiling the frog (rate-stacking)** | Individual rate increases look survivable in isolation, but each year's tax stacks on the last, so the bite arrives years later rather than at once. | [FNJpJG-sSXM](https://youtu.be/FNJpJG-sSXM) |
 | **Bonus stack** | Layering small bonuses (early access, birthday gift, free shipping, free product every fifth billing) on top of the core offer until it is a grand slam offer. | [eX3Ch_HuR70](https://youtu.be/eX3Ch_HuR70) |
 | **Bonuses that assume success** | Include one or two bonuses that solve a problem which only occurs once the client succeeds - tax people, legal team, investor introductions - because no one would be solving those problems unless clients were succeeding. | [neTSqOAMgao](https://youtu.be/neTSqOAMgao) |
@@ -5156,6 +5573,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **branding is reinforcing stories; direct response is asking for actions** | The difference is not ROI but time horizon: direct response measures return on ad spend immediately, branding measures the return over an extended period. | [Ec41cSp_tWc](https://youtu.be/Ec41cSp_tWc) |
 | **branding is the consistent action of associating the unknown with the known** | Brand is not a logo; it is repeated association over time - which is why rebranding a business nobody has heard of accomplishes nothing. | [I64gYLBrics](https://youtu.be/I64gYLBrics) |
 | **Break 'not scalable' into physics** | Make the person state the physical impossibility; usually it reduces to 'I don't know how to scale it', which has a big payoff attached. | [rj7rzOdj84A](https://youtu.be/rj7rzOdj84A) |
+| **Break the pattern** | Because people make predictive judgments by pattern recognition, the way to become interesting is to be what they do not expect; the degree to which you break the pattern earns attention, and the degree to which they… | [SCi464zfAUM](https://youtu.be/SCi464zfAUM) |
 | **Break the rubber band of pricing** | If the price does not get a gasp, it is not high enough. The gasp shows you have broken the range the buyer associated with your product — after which the real offer looks reasonable by comparison. | [yEKu6q0W3gs](https://youtu.be/yEKu6q0W3gs) |
 | **Breathe the script / lock it in** | Script memorisation by progressive blackout (one word removed per read, so you say the script as many times as it has words), then role play where every error is corrected immediately and repeated until right — 'lock it… | [spXH1kJ6q-Q](https://youtu.be/spXH1kJ6q-Q) |
 | **Breathing the script (the blackout drill)** | Print two copies; read the script aloud, then black out one word and read again, repeating until every word is gone. You repeat the script as many times as it has words, and end up saying it without reading it. | [sGakuNs9mT4](https://youtu.be/sGakuNs9mT4) |
@@ -5172,6 +5590,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Business of Businesses / Team of Teams** | At scale, you stop building one business and start assembling independent revenue lines, each with its own president, leadership team and P&L, under one brand — the reason he rejects centralization. | [YONIUpk-kAs](https://youtu.be/YONIUpk-kAs) |
 | **Business owner layaway** | A level-three structure: let the buyer invent their own payment plan, then tell them work starts only once it is paid off. It converts 'I can't afford it' into 'I'll pay faster', and if they default you keep everything… | [rMJIOK_FgJk](https://youtu.be/rMJIOK_FgJk) |
 | **Businesses are limited by collective brain power** | His takeaway from the partnership: a company can only be as smart as the brains inside it, so a founder who teaches everything to everyone caps the business at one lifetime of learning. | [eX3Ch_HuR70](https://youtu.be/eX3Ch_HuR70) |
+| **Butts and seats** | His internal saying for the value of real attendance over reach - the reason live streaming produces the strongest influence response. | [dMZ-n2KSlxE](https://youtu.be/dMZ-n2KSlxE) |
 | **Buy a business instead of starting one** | With the same $50,000 you'd use as a house down payment, buy an existing cash-flowing business from a motivated seller — you inherit the book of business, client lists, equipment, permits, licences and zoning approvals… | [KNl83INePXI](https://youtu.be/KNl83INePXI) |
 | **buy access to people who know more** | He buys seats on charity boards and pays for rooms specifically to be near people who can donate millions, so that he can learn faster from them. | [d0dBZbd13jM](https://youtu.be/d0dBZbd13jM) |
 | **Buy and build, don't sell** | What the wealthiest people he knows do: they acquire and compound rather than exit. The urge to sell is usually pain-avoidance, and pain is cheaper to fix directly. | [52tcB5FopAg](https://youtu.be/52tcB5FopAg) |
@@ -5182,6 +5601,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Buy time like a rich person, buy stuff like a poor person** | Spend money to buy back low-value hours so you can spend them earning and learning; never spend to signal status. | [vhOV_Od0A3M](https://youtu.be/vhOV_Od0A3M) |
 | **Buy time, not stuff** | Spending rule: if something doesn't buy you time, strongly consider not buying it. Excess capacity is bought so it can be reallocated to a higher return. | [m-k0_pQJ1fY](https://youtu.be/m-k0_pQJ1fY) |
 | **Buy X get Y (and the discrepancy test)** | Contrast the free amount against the paid amount: if you get more free than you pay for, it usually converts better than a mirror structure. | [HwPXctiw_rY](https://youtu.be/HwPXctiw_rY) |
+| **Buyers-over-views test** | The decision rule for content topics: if you want more buyers, make videos for your buyers, and accept lower views, lower subscriber counts and higher sales. | [21flGkcZO3A](https://youtu.be/21flGkcZO3A) |
 | **Buying on margin** | An asset-backed, revolving loan against your portfolio with no closing cost or fees: you pay interest while you hold the money and interest stops when you repay. That is where the term 'buying on margin' comes from. | [yr1DrcPCKEg](https://youtu.be/yr1DrcPCKEg) |
 | **Buying skills, defined** | Paying someone to give you feedback on an activity until you can replicate their outcome without them — not courses or information, but supervised repetition of the activity with a person who already has the result. | [wtsX7WHQMFM](https://youtu.be/wtsX7WHQMFM) |
 | **Buying with a loan (levered acquisition math)** | The institutional-investor playbook he describes: put down a fraction as equity, borrow the rest, let the acquired cash flow pay the loan down, and end up owning 100% of an appreciated asset - which is why 'smart money'… | [LMlbWtUFa4E](https://youtu.be/LMlbWtUFa4E) |
@@ -5189,13 +5609,15 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Calendar and org chart audit** | His method for growing a business: look at what the CEO spends time on, identify the low-leverage activities, hand them to someone else on the org chart, and where an entire category of activity has no owner, hire that… | [PTgGfV8Tf00](https://youtu.be/PTgGfV8Tf00) |
 | **call out** | The one-sentence description of the person, written back to them, assembled as 'I help [who] get [good stuff] without [bad stuff]'. | [nIk3DedjxJM](https://youtu.be/nIk3DedjxJM) |
 | **Call recordings (the 2nd C)** | Record every call — for compliance, and because reps become more accountable to following the script when they know they're recorded. The tool he names is Gong, which he says is the best if you sell via Zoom. | [bgmh7p1s7zs](https://youtu.be/bgmh7p1s7zs) |
+| **Call review method (2x listen, written notes, one to two priorities, drill)** | 30 minutes before the rep call, listen to one or two of their calls at 2x speed and take written notes of everything improvable; then bold the one to two highest-impact items (there may be a hundred things wrong — start… | [2lA_A8BGRRs](https://youtu.be/2lA_A8BGRRs) |
+| **Can I be real with you instead of nice to you?** | The line used when a prospect disengages or gives service-level problems: ask permission to deliver the truth, rub the pain, then bandage it — 'I'm not saying that to make you feel bad. I'm saying that so I can help.' | [gza5RtQCVsA](https://youtu.be/gza5RtQCVsA) |
 | **Cannot be taught but can be learned** | Credited to Naval Ravikant: these skills are not transferable through instruction but they are acquirable, which is why he frames them as degrees of mastery rather than a binary checklist. | [SbZFTPJ9KZU](https://youtu.be/SbZFTPJ9KZU) |
 | **Canon by falsification** | The test of a system is that nobody can break it; systems that can be broken in a sentence are why marketing advice never becomes canon. | [ABOd589OyTM](https://youtu.be/ABOd589OyTM) |
 | **Capital requirement as a moat** | When starting the business costs so much that it removes almost everyone from the field, the capital requirement itself becomes the competitive advantage. | [Lc8DNduiwKA](https://youtu.be/Lc8DNduiwKA) |
 | **Capital stack position** | Getting paid sooner is a choice available to anyone with leverage. His ladder: minimum-wage employee gets paid after, contractor gets paid before, surgeon gets paid months before, insurance company may never have to… | [k-3PoOT4vOM](https://youtu.be/k-3PoOT4vOM) |
 | **Capture and multiply attention** | Skill two: capture attention, then get the audience to carry it for you at no incremental cost — Zuckerberg got people to look at the app and then tell their friends; Rogan built his empire the same way. Media is the… | [SbZFTPJ9KZU](https://youtu.be/SbZFTPJ9KZU) |
 | **Capture, hold, multiply attention** | His three-part test for who becomes the next centi-billionaire: the ability to capture attention, hold it, and multiply it. | [6DCDGSnRDtM](https://youtu.be/6DCDGSnRDtM) |
-| **Cash conversion cycle** | The speed at which cash paid out for acquisition comes back. Faster cycle = more repeats per month = compounding growth without capital. | [k-3PoOT4vOM](https://youtu.be/k-3PoOT4vOM) |
+| **Cash conversion cycle** | The speed at which cash paid out for acquisition comes back. Faster cycle = more repeats per month = compounding growth without capital. | [k-3PoOT4vOM](https://youtu.be/k-3PoOT4vOM), [XwZH-lOKG9c](https://youtu.be/XwZH-lOKG9c) |
 | **Cash flow allocation as the owner's job** | Once the companies are about cash flow rather than your labour, the owner's work becomes allocating that cash flow — buying percentages of other companies, getting into real estate — instead of operating. | [V7oUcAfof34](https://youtu.be/V7oUcAfof34) |
 | **Cash flow investor** | His self-description as an investor: he wants to know how much money the business kicks off after the reinvestment required to stay competitive. He contrasts this with the venture-backed hypergrowth case and points to… | [HKbFUWJwEG0](https://youtu.be/HKbFUWJwEG0) |
 | **Cash flow is king** | Income minus expenses, measured at the level of what you save every month rather than what you make — the metric switch he says is the one takeaway of the video. | [rp1PzCxj3eU](https://youtu.be/rp1PzCxj3eU) |
@@ -5226,21 +5648,25 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Chunk the goal up to the three buckets** | Every goal must ladder to more customers, customers worth more, or enterprise value. If it cannot be articulated against one of those three, the department head does not understand their job. | [zBZHWrvjD8Y](https://youtu.be/zBZHWrvjD8Y) |
 | **Chunk up** | Recap the concrete problem back at a level of abstraction that matches what you sell ('it sounds like you have a marketing issue') and get them to agree before transitioning. | [sGakuNs9mT4](https://youtu.be/sGakuNs9mT4) |
 | **Chunking the unicorn (replacing keyman risk)** | Break an irreplaceable person into three or four component skills and hire separately for each, so rarity comes from combination rather than one person. | [rc7cxL7ql7Y](https://youtu.be/rc7cxL7ql7Y) |
+| **Circles of awareness** | The layering of the organic audience: people who recognise your face at all (which raises CTR and conversion), then people who had a positive experience with your content, then people who know your name, then regular… | [lEIqyLE4iOY](https://youtu.be/lEIqyLE4iOY) |
 | **Claim Your Flaws First** | Pre-empt criticism by stating your own negatives up front (he opens with 'I'm here to make money'), so that any kindness afterward reads as a bonus rather than a contradiction. | [HxEQCHpZzHk](https://youtu.be/HxEQCHpZzHk) |
 | **Clean energy vs dark energy (and why it fails)** | A team member's framing of approach-motivation vs avoidance-motivation; Hormozi's objection is that it names no observable behaviour, and that what is really meant is 'these behaviours, under these conditions'. | [IFElGv5ZmRM](https://youtu.be/IFElGv5ZmRM) |
 | **Clear, Not Clever** | A marketing rule: strip language to a third-grade reading level so more people comprehend; big words feed your ego, not your bank account. | [HxEQCHpZzHk](https://youtu.be/HxEQCHpZzHk) |
 | **client finance acquisition** | Using money from the marketplace - the customers themselves - to fund your own growth, so the business grows without outside capital. | [bxs5pN0ZnRw](https://youtu.be/bxs5pN0ZnRw) |
-| **Client finance acquisition (CFA)** | Structuring price and upsells so the customer's own cash pays for the acquisition of the next customer within the same 30-day window - using customer money as a loan to buy more customers. | [k-3PoOT4vOM](https://youtu.be/k-3PoOT4vOM) |
+| **Client finance acquisition (CFA)** | Structuring price and upsells so the customer's own cash pays for the acquisition of the next customer within the same 30-day window - using customer money as a loan to buy more customers. | [k-3PoOT4vOM](https://youtu.be/k-3PoOT4vOM), [XwZH-lOKG9c](https://youtu.be/XwZH-lOKG9c) |
 | **Client Financed Acquisition** | Get customers to finance the acquisition of the next customer. You only need enough money for the first sale; if the first sale exceeds the cost to acquire AND fulfill that customer plus the cost to acquire and fulfill… | [0mqqbuM9sAk](https://youtu.be/0mqqbuM9sAk) |
 | **CLOSER** | His sales acronym: Clarify why they are there, Label the problem, Overview past pain, Sell the vacation, Explain away concerns, Reinforce the decision. | [AN2KpRBsmRY](https://youtu.be/AN2KpRBsmRY), [3yAiVjcImQ4](https://youtu.be/3yAiVjcImQ4) |
 | **CLOSER framework** | Clarify why they are there; Label the problem; Overview their past experience (the pain cycle); Sell the vacation with a three-point pitch; Explain away their concerns; Reinforce the decision in the next 24 hours. | [oRMG_HpOAN4](https://youtu.be/oRMG_HpOAN4) |
 | **Closer Framework (the seven steps)** | Clarify why they're here, label the problem, overview past experience and pain, sell the vacation, make the offer, explain concerns if they say no, reinforce the decision. | [unshZobTt6Q](https://youtu.be/unshZobTt6Q) |
 | **closing the loop of pain for the next problem** | The exception to the rule above: an upsell at the point of greatest satisfaction only works if it opens the pain loop for the next problem your next product solves (e.g. you made more money, now you have a tax problem). | [sBJppqCeFGI](https://youtu.be/sBJppqCeFGI) |
+| **Co-creating then decoupling** | During the engagement you document what the agency does into your own processes and both parties make content, until your in-house output matches or beats theirs and you drop them to a consulting agreement as insurance,… | [fd-hi3NqMYo](https://youtu.be/fd-hi3NqMYo) |
+| **Coachability test (role play, feedback, retry)** | The interview test for coachability: role play with a little context, give feedback, then ask them to try again — improving on the second attempt means coachable; not taking feedback without ego predicts a terrible fit. | [2lA_A8BGRRs](https://youtu.be/2lA_A8BGRRs) |
 | **Coaching session with myself** | He writes out both sides of a chat with his 85-year-old future self, wearing different hats, to extract advice he already knows but his emotional self forgets. | [y7O-iTWwTW8](https://youtu.be/y7O-iTWwTW8) |
 | **Coats of paint** | Quality comes from repeated passes each looking for one specific class of error - the consulting and banking editing method applied to any deliverable. | [KhFlD54nQrY](https://youtu.be/KhFlD54nQrY) |
 | **Cohort churn and the flat tail** | For a product business, the first cohort bleeds heavily and then a tail stops churning; reverse-engineer who is in the tail and buy only more of those people. | [bgBIO6nZawg](https://youtu.be/bgBIO6nZawg) |
 | **Collaborate rather than cut down** | He frames MrBeast as super competitive personally but treating the world as larger than zero-sum — helping smaller creators and collaborating with rivals, which he credits to the early daily mastermind where everyone… | [VPre_XMgKjs](https://youtu.be/VPre_XMgKjs) |
 | **Collector of skills (the asset is you)** | Treat every purchase and every relationship as a brick: give six hours to get one hour, because their hour compresses a year of their learning. As long as you see yourself as the asset, you are always going up. | [6BQ3whjWG3M](https://youtu.be/6BQ3whjWG3M) |
+| **Commission breath** | The failure mode of bad downselling — begging, losing frame, sounding desperate, aggressive and clingy — which kills the sale even for buyers who could afford it. | [gza5RtQCVsA](https://youtu.be/gza5RtQCVsA), [iwskrByMIqo](https://youtu.be/iwskrByMIqo) |
 | **Commitment as the elimination of alternatives** | If you want someone to commit, ask them to eliminate everything that is not the main thing. | [6KqndZuN_Yk](https://youtu.be/6KqndZuN_Yk) |
 | **Commitment by eliminating alternatives** | Acquisition.com's definition of commitment: you commit by removing the options, the way marriage removes all other partners. Focus is the measure of how much you say no to. | [Rm4zRdLAyjw](https://youtu.be/Rm4zRdLAyjw) |
 | **Commitment is the elimination of alternatives** | Defines both commitment and focus: the most focused person says yes to one thing and no to everything else, so focus is measured by what you say no to. | [vhOV_Od0A3M](https://youtu.be/vhOV_Od0A3M) |
@@ -5260,16 +5686,22 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Confidence comes from the past** | Confidence is a percentage-likelihood estimate, and it is domain specific — you can be a confident realtor and an unconfident parent. You raise it with proof, and proof comes from doing it in the exact situation many… | [MNll1BaskLA](https://youtu.be/MNll1BaskLA) |
 | **Consistency as the whole intervention** | Via Dr. Cashy: the advice is only ever 'eat consistently' and 'go to bed on time' — the content of the habit matters less than the fact that almost no one can be consistent at all. | [cX7cCA3Be8A](https://youtu.be/cX7cCA3Be8A) |
 | **Consolidate, kill the side hustles** | One thing done extremely well beats several: he tells people to kill side businesses, and argues that one fat paycheck beats two — because more businesses is a belief, not a strategy. | [6ZEZWuVC8-8](https://youtu.be/6ZEZWuVC8-8) |
+| **Constant daily subconscious reminder** | Put a single word on the product so the buyer sees it every day; drawn from his observation in sales rooms that a single word on the wall affected team performance. | [LvHDT0ZxSmw](https://youtu.be/LvHDT0ZxSmw) |
 | **Constraints make goals interesting** | The first level of any goal is sacrificing everything for it; the higher level is achieving it while refusing to sacrifice certain things — that is where the challenge should come from. | [ug5N9qmFVKQ](https://youtu.be/ug5N9qmFVKQ) |
 | **Consumable versus one-time consumable** | Information is consumed once (they learn the skill), so value decays and churn is high. The fix is to peel out the parts that are consumable on an ongoing basis - community, accountability, and the new problems the… | [aOq1Hdz0w3k](https://youtu.be/aOq1Hdz0w3k) |
 | **Consumption as the highest priority** | The measure that governs product decisions: it is easy to add value, but the goal is that people consume it. Remove things, simplify, shorten, and make the most valuable thing easy to reach. | [kloJJeiysxg](https://youtu.be/kloJJeiysxg) |
 | **Consumption versus investment trade-off** | The trade every entrepreneur makes with everything - investing in a relationship versus consuming it, investing in the business versus consuming the money. Giving now is consumption; allocating and giving later is… | [R9gHvJxHRhA](https://youtu.be/R9gHvJxHRhA) |
 | **Content -> ads -> influencers loop** | Post organic content; ~10% goes viral; put ad money behind the winners; send the winners to influencers as the brief for what to make; their versions then feed your next content. Each stage compounds the others. | [BMF2fWHyDrg](https://youtu.be/BMF2fWHyDrg) |
+| **Content as low-risk hook testing** | Organic content as a cheap way to test hooks and headlines before paying for them - if a hook worked organically, weave it into every cold email and split test it against control. | [MD5-HByRxoA](https://youtu.be/MD5-HByRxoA) |
 | **Continuum vs binary** | The brain stores binary shorthand ('facebook doesn't work') but reality is a continuum — 'to what extent has it worked, where is the fall-off'. Binaries accumulate into inaccurate decision-making. | [-fV1MZe2vzs](https://youtu.be/-fV1MZe2vzs) |
 | **contract value extrapolation** | Taking one event's signed contracts and annualising them into a run rate, when the contracts may not renew and the cash may not have been collected. | [al_WXFDbN8I](https://youtu.be/al_WXFDbN8I) |
+| **Contradiction stacking** | Rare traits are worth more when they contradict each other in the same person - sexy but saintly, hillbilly but business mogul - because the combination is what no one else satisfies. | [SCi464zfAUM](https://youtu.be/SCi464zfAUM) |
 | **Contrarian investing** | Be willing to do the unpopular thing against the cycle - hold when everyone is buying at inflated prices, and note that the best investor alive is sitting on a quarter of his assets in cash. | [QQGHCG8d1So](https://youtu.be/QQGHCG8d1So) |
 | **Control end to end** | The lesson from the 35% refund rate: because the gym owner held the customer relationship and he held the fulfilment, he had no control over delivery, so the model was structurally broken. | [Xb9ZOA6zypU](https://youtu.be/Xb9ZOA6zypU) |
 | **Control the money flow upstream** | The further upstream you sit in the payment chain, the more leverage and control you have — banks get the money and give it back later, and everyone looks brilliant until the day they cannot process money. | [rp1PzCxj3eU](https://youtu.be/rp1PzCxj3eU) |
+| **Conviction as a cup that must be refilled** | The rep's conviction is diluted all day by prospects spreading doubt, so the sales director must top it up from their side on a schedule; a rep who starts hot then declines has a mojo problem, not a skill problem. | [bHnVItVGJPA](https://youtu.be/bHnVItVGJPA) |
+| **Conviction is a matter of extent, not a yes/no** | The predictor of closing ability is not whether the rep believes the product but how much and how deeply — 'to what extent do you believe in the product' — which is why founders are often the best promoters. | [bHnVItVGJPA](https://youtu.be/bHnVItVGJPA) |
+| **Conviction rituals (testimonials)** | When a rep loses conviction and sales go cold: run competitions to keep it fresh, read testimonials of recently sold clients and their results, and best of all have a client hop on a sales call and tell their story;… | [2lA_A8BGRRs](https://youtu.be/2lA_A8BGRRs) |
 | **Cookie when the plane lands on time** | His feedback rule for managers: reward the normal good performance, not only the disasters — 'if I don't say anything you're doing great, and when you mess up I hammer you' produces silent quitting. | [h6y0nYVZgwE](https://youtu.be/h6y0nYVZgwE) |
 | **Core four and the 4x4** | The only four ways one person can let others know about their stuff - warm outreach 1:1, cold outreach 1:1, content 1:many, paid ads 1:many - and the starting prescription of four hours a day on them. | [oRMG_HpOAN4](https://youtu.be/oRMG_HpOAN4) |
 | **Cosmic relevance** | Zoom out until you see the planet as a tiny marble and humanity as a sliver of time - which makes bosses, internet critics and disapproving parents stop mattering. | [IFElGv5ZmRM](https://youtu.be/IFElGv5ZmRM) |
@@ -5280,14 +5712,18 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Covenants and terms** | The same terms you ask of customers, asked of your vendors: lead time of six or twelve months before they can stop, a breakup fee, and service level agreements with fines attached that hedge the money you would have… | [sjt5G3YPjmY](https://youtu.be/sjt5G3YPjmY) |
 | **Create flow, monetize flow, then add friction** | His recurring internal saying. You have to run water through the machine to see where it breaks, so you know what real looks like rather than trying to get rich on Excel. Optimisation only matters once flow exists. | [reisEL_D7xc](https://youtu.be/reisEL_D7xc) |
 | **Create wealth, don't invest it** | Advice a mentor gave him: if you know how to create wealth, just create wealth - don't go investing it in things you don't understand. | [tdLLGKoBojo](https://youtu.be/tdLLGKoBojo) |
+| **Credibility** | Third-party validation that the thing happened - the Guinness judges on site at the launch, the observable $10 million building in the background - the part that is hard to fake. | [dMZ-n2KSlxE](https://youtu.be/dMZ-n2KSlxE) |
 | **Credit-based membership as layaway** | Because the subscription issues credit rather than shipping a box, unused months stack ($60 plus $60) and behave like a savings program or layaway. | [eX3Ch_HuR70](https://youtu.be/eX3Ch_HuR70) |
 | **Cross-pollination between portfolio companies** | Co-owning businesses across industries (solar sales, mortgage sales) lets him learn a lot about a lot of things and transplant what worked in one industry into another for outsized returns. | [0mqqbuM9sAk](https://youtu.be/0mqqbuM9sAk) |
 | **cross-sell (one of eight ways to make a customer more valuable)** | The 'do you want fries with that?' lever. For the restaurant it is 'do you want an alcoholic beverage with that?', and the design goal is to make it easy for the customer to say yes and hard for the staff to forget. | [h9UyQiLjSHg](https://youtu.be/h9UyQiLjSHg) |
+| **CTA placement outside the content** | Three places to put the CTA so it does not cost you retention: the description, the first comment, and the profile - because only a small share of viewers reach the end of a short anyway. | [lEIqyLE4iOY](https://youtu.be/lEIqyLE4iOY) |
 | **Culture = the rules that govern reinforcement** | His definition: what is good, what is neutral and what is bad in a business. Three values maximum, because nobody remembers more than three, each with hundreds of behaviours underneath. | [cnbHgYYHzyE](https://youtu.be/cnbHgYYHzyE) |
 | **Culture as rules of reinforcement** | Culture is the spoken and unspoken rules that govern what gets rewarded and punished; it changes with whoever controls the reinforcers. | [6KqndZuN_Yk](https://youtu.be/6KqndZuN_Yk) |
 | **Culture is the rules that govern reward and punishment** | Every group has spoken and unspoken rules about what gets rewarded and what gets punished; those rules are the culture. Categories and pinned posts are how a community signals which behaviour it rewards, and pinning… | [TooAB8Ow6cQ](https://youtu.be/TooAB8Ow6cQ) |
+| **Culture trio: leaderboard, KPIs with competition, cut the bottom 10** | Three things maintain the culture: a visual, always-up-to-date leaderboard to foster competition; clear KPIs with a bonus and a recurring sales competition (best optimised for cash up front); and cutting the bottom 10… | [2lA_A8BGRRs](https://youtu.be/2lA_A8BGRRs) |
 | **Current state, desired state, obstacle** | If you cannot clearly state all three, you are running around like a chicken with your head cut off - solving a lot but moving nothing. | [KhFlD54nQrY](https://youtu.be/KhFlD54nQrY) |
 | **Cushion for the Pushing** | The deliberately higher gross margin a service business must carry to absorb the volatility created every time a new, less-productive person is added to sales or delivery. | [qsXxckCbci0](https://youtu.be/qsXxckCbci0) |
+| **Customer success ↔ sales conviction cadence** | A weekly meeting with both teams where customer success shares wins of clients in the program in long form, creating cross-departmental knowledge: sales learns what not to say, and gets ammunition about what actually… | [bHnVItVGJPA](https://youtu.be/bHnVItVGJPA) |
 | **Customer surplus** | The excess between what the customer pays and what they get. The bigger the gap, the more value they perceive, the more viral the business — and acquisition cost trends to zero. | [MA-5y9s80Qs](https://youtu.be/MA-5y9s80Qs) |
 | **Cut (the 4th C)** | Cut the bottom 10% on a regular basis — the single biggest driver of sales team performance. Even when the team is doing okay, cutting the bottom produces a 30% productivity jump every time. | [bgmh7p1s7zs](https://youtu.be/bgmh7p1s7zs) |
 | **cut once, sell 100 times** | Because delivery is the compounding asset, the work you do once on the product keeps paying on every subsequent sale - unlike the work you do once for a single lead. | [Uki3IUkUu7Q](https://youtu.be/Uki3IUkUu7Q) |
@@ -5315,8 +5751,10 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Declarative vs procedural knowledge** | Knowing about something versus knowing how to do it; networks and rooms mostly sell declarative knowledge, which is where the unknown unknowns live. | [vhOV_Od0A3M](https://youtu.be/vhOV_Od0A3M), [spXH1kJ6q-Q](https://youtu.be/spXH1kJ6q-Q) |
 | **Default bias** | People do what they believe most people do; so make the back-end the default next step rather than re-pitching continuity from scratch. | [SmiOK8Yun4s](https://youtu.be/SmiOK8Yun4s) |
 | **Define the number** | The exercise he ran with gym owners: write down the exact number of EFTs (members) needed for the lifestyle you want. Clarity then creates a litmus test — will this grow that number, yes or no — and the discipline is in… | [6ZEZWuVC8-8](https://youtu.be/6ZEZWuVC8-8) |
+| **Defined end program** | A program with a defined end, which customers grasp more easily than an open-ended year up front; the structure they returned to after the prepay experiment. | [hnfh2jqNVEQ](https://youtu.be/hnfh2jqNVEQ) |
 | **Definitions decide the deal** | The definitions section is nearly as long as the agreement itself, and redefining a single word can change the meaning of the whole document — he says they redefined a term inside the non-compete that dramatically… | [pWbSl7d0tEc](https://youtu.be/pWbSl7d0tEc) |
 | **Delayed ROAS (brand spend)** | Brand and storytelling spend does not pay back for months - New Balance needed 18 months before the curve turned. | [YUXLJauT4eY](https://youtu.be/YUXLJauT4eY) |
+| **Delete so much you have to add back** | Elon's rule of thumb used as the litmus test for step two - delete past the point of comfort, because you can always add back and deletion is the only thing more efficient than automation. | [ZTSI3DDP_4A](https://youtu.be/ZTSI3DDP_4A) |
 | **Deletion, not addition** | To improve a product, remove features rather than add them — overwhelm is the number one reason customers churn. Run the survey question 'if I got rid of everything except one thing, which would you keep?', then… | [QTZsh3BgOwY](https://youtu.be/QTZsh3BgOwY) |
 | **Delivery Cube** | Six-axis test applied to whatever you already sell, to find a higher-value or lower-cost repackaging: (1) ratio one-to-one/small-group/one-to-many, (2) do-it-yourself vs done-with-you vs done-for-you, (3) support… | [LVM89ik-7Kw](https://youtu.be/LVM89ik-7Kw) |
 | **demand constraint vs supply constraint** | The first question he asks in every business: if you doubled lead flow, could you handle it? If yes it is a demand-constrained business; if no, you have to build resources first. Owners routinely try to fix a problem… | [OQf2Ba-Lp_4](https://youtu.be/OQf2Ba-Lp_4) |
@@ -5340,10 +5778,12 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Dividend recap** | The ESOP bank structure with the employees cut out: borrow 4-5x earnings against the whole business, take the cash, and let the business service the debt. He likens it to a mortgage on a house, except the business - not… | [6x3re5-Ms1E](https://youtu.be/6x3re5-Ms1E) |
 | **Do it yourself / Done with you / Done for you** | The involvement axis of the cube. DIY is the most scalable and least valuable, done-for-you is the most expensive and hardest to deliver, done-with-you sits in between. | [LVM89ik-7Kw](https://youtu.be/LVM89ik-7Kw) |
 | **Do more of fewer** | The reconciliation of do-more and do-less: find what makes the most money and ruthlessly eliminate everything else, because none of the options will work if you try to do them all. | [mRlSb0O5QNU](https://youtu.be/mRlSb0O5QNU) |
+| **Do more of what we are currently doing** | The tie-break rule when options are compared: prefer the play with the fewest unknowns even though every play is hard, because the other variables are already solved. | [4pZwlE86A5Y](https://youtu.be/4pZwlE86A5Y) |
 | **do nothing** | The third door in any decision - the undefeated heavyweight champion of the world - because most proposed actions do not beat the current use of the same resources. | [fj5uxdv_j5Y](https://youtu.be/fj5uxdv_j5Y) |
 | **Do the ugly unscalable work first** | Earn the depth of knowledge by doing the unscalable thing before the scalable one, so you know the nuances that make the scalable version actually work. | [neTSqOAMgao](https://youtu.be/neTSqOAMgao) |
 | **Do what everyone else does in half the time** | The simplest way to add value is to look at what the market does and cut the time delay in half - the six-pack-immediately thought experiment shows how much value sits in time alone. | [neTSqOAMgao](https://youtu.be/neTSqOAMgao) |
 | **do what everyone else is doing (way 18 to stay poor)** | Following the majority guarantees the majority's outcome, which is why the opinions of people who have not achieved the goal are not useful inputs. | [9ySuYdJ0H4s](https://youtu.be/9ySuYdJ0H4s) |
+| **Document while you deliver** | Capturing content inside the delivery you are already doing rather than scheduling separate recording sessions - the reason he can produce volume without standing in front of a camera all day. | [XsWSvz-aewA](https://youtu.be/XsWSvz-aewA) |
 | **document, demonstrate, duplicate** | The three D's that solve the 'they do not know how' leg: you write the checklist, do it in front of them using the checklist, then they do it in front of you using only the checklist. | [AN2KpRBsmRY](https://youtu.be/AN2KpRBsmRY), [oZ-H_TjSzok](https://youtu.be/oZ-H_TjSzok), [sBJppqCeFGI](https://youtu.be/sBJppqCeFGI) |
 | **Document, Demonstrate, Duplicate** | The three-step sales-training process: document the script and have them memorize it while walking between doors, demonstrate by running the script in front of them, then duplicate by riding shotgun and giving immediate… | [Wr6n_zNKvMk](https://youtu.be/Wr6n_zNKvMk), [Nh8Oc7ERdIU](https://youtu.be/Nh8Oc7ERdIU) |
 | **Document, demonstrate, duplicate** | How he learned national ads from a $750/hour expert in eight sessions: have them document the process as if for you, demonstrate it step by step, then watch you duplicate it until you need no correction. | [vhOV_Od0A3M](https://youtu.be/vhOV_Od0A3M), [sjt5G3YPjmY](https://youtu.be/sjt5G3YPjmY) |
@@ -5359,6 +5799,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Double dialing** | Dialing twice because initial screens stop the first call but the second gets through. | [c_6BrF7jOGk](https://youtu.be/c_6BrF7jOGk) |
 | **double dipping twice** | The same transaction produces two benefits - tax-free personal income and a business deduction - which is what makes the structure worth setting up. | [AM_-lnyY70M](https://youtu.be/AM_-lnyY70M) |
 | **Double time** | Spend half of each day working tomorrow's job and half working today's job, so the business moves at twice the speed and the transition happens gradually. | [h6y0nYVZgwE](https://youtu.be/h6y0nYVZgwE) |
+| **Downselling / step down** | A pre-planned ladder of cards in your back pocket that you play one at a time, each one a lower-commitment version of the same offer, so the sale steps down instead of collapsing. | [gza5RtQCVsA](https://youtu.be/gza5RtQCVsA) |
 | **Downselling the upsell** | For a high-ticket education business: take the buyers of the $12,000 offer and downsell them a cheap annual continuity ($3,000) for network and vendor access, so the front-end high ticket is effectively a CAC offset and… | [--9kOXNCUdE](https://youtu.be/--9kOXNCUdE) |
 | **Downside mitigation as net worth grows** | As an entrepreneur grows, it becomes about downside mitigation: doubling your net worth does not change your life, but cutting it in half does — so the decision rule has to be aligned to the problem actually being… | [_x6n-CmZqjo](https://youtu.be/_x6n-CmZqjo) |
 | **Downside mitigation over upside** | His stated allocation principle: because his upside is his business, he deliberately takes inferior returns on the money he parks, in exchange for knowing it will not go anywhere. He is buying the absence of downside,… | [Fy8XX8EuEnA](https://youtu.be/Fy8XX8EuEnA) |
@@ -5371,9 +5812,11 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **earn your way there or own your way there** | Two routes to the same number: earning takes decades of saving, owning gets you there faster because a business is an asset you can sell at a multiple of its profit. | [VBoRLJimVzc](https://youtu.be/VBoRLJimVzc) |
 | **Earning vs Learning** | The trade you make when you take a pay cut to acquire a skill — and the reason keeping living expenses low matters, because low personal risk buys high business risk. | [Nh8Oc7ERdIU](https://youtu.be/Nh8Oc7ERdIU) |
 | **Easter eggs in marketing** | Hide clues in every campaign so the most engaged fans go hunting through the site and make content about the marketing itself. | [YUXLJauT4eY](https://youtu.be/YUXLJauT4eY) |
+| **Educate on the prospect, not the product** | Most sales training educates reps about the product when it should educate them about the prospect and their problems — you cannot be convicted the product solves a problem you never bothered to understand. | [42SOlVhDwWE](https://youtu.be/42SOlVhDwWE) |
 | **Education and technology as the two country-level levers** | GDP per capita growth tracks reinvestment in education and technology; technology does three things — more of what you already do, better quality, and lower skill requirement for the task. | [wtsX7WHQMFM](https://youtu.be/wtsX7WHQMFM) |
 | **Education as investment, not expense** | Stop using poor-people language about education and use investor language: there is only a cost and a return, and the asset happens to be you - you cannot sell it but you can invest in it and grow it. | [oDK4g5na4Jw](https://youtu.be/oDK4g5na4Jw) |
 | **Education investment budget** | A standing monthly budget that gets spent on skills rather than saved, until you literally cannot spend it all. | [6KqndZuN_Yk](https://youtu.be/6KqndZuN_Yk) |
+| **Education is a deal on time** | Education is trading the time you spent learning something for a shorter path for the viewer - so the more time and cost you can show that you spent, the better the deal looks and the more they listen. | [lEIqyLE4iOY](https://youtu.be/lEIqyLE4iOY) |
 | **efficiency trap at scale** | Small business owners get stuck optimising efficiency and refuse to accept a lower ROAS for a bigger absolute return. He tells them to expect efficiency to drop as they scale, and to spend down to a 5:1 floor. | [sBJppqCeFGI](https://youtu.be/sBJppqCeFGI) |
 | **Effort is the universal currency of respect** | Across cultures and eras, excellence is respected and excellence only comes from depth — exposing yourself to the same thing for a long time to pick up the nuances. Work is what earns respect regardless of who you are;… | [M4evdxF5G0s](https://youtu.be/M4evdxF5G0s) |
 | **Effort plus feedback is the loop** | Feedback only from the environment suppresses action because you are too unsure; an artificial environment lets you run 100 loops a day instead of one a week, which is how he got good at sales. | [6BQ3whjWG3M](https://youtu.be/6BQ3whjWG3M) |
@@ -5400,7 +5843,9 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Every message contains an implied ask** | A text or email carries an implicit take: a request to reply. Most people conflate having the time to reply with being obliged to reply — remove the time and you see the obligation never existed. | [lRyGIzW9d9k](https://youtu.be/lRyGIzW9d9k) |
 | **Everyday businesses over power law** | Rather than spraying fifty bets for one 100x, hold normal businesses and let them compound - you cannot corner the mortgage market, so there is no winner-take-all prize to chase. | [ABOd589OyTM](https://youtu.be/ABOd589OyTM) |
 | **Excess capacity** | The same idea applied to unused capacity you already own - gym floors idle midday, Uber cars, Airbnb rooms - businesses built on other people's sawdust. | [oRMG_HpOAN4](https://youtu.be/oRMG_HpOAN4) |
+| **Exchange (downsell through reciprocity)** | Never lower the price for nothing: exchange the concession for a term, a testimonial, a review or a referral, so the price difference is justified by extra terms and you can defend different prices to different buyers. | [gza5RtQCVsA](https://youtu.be/gza5RtQCVsA) |
 | **Exclusive contracts on three fronts** | Lock supply (so no one else can get it), lock customers (government contracts), or lock distribution (the middle) - three separate points at which an exclusive agreement creates a monopoly. | [Lc8DNduiwKA](https://youtu.be/Lc8DNduiwKA) |
+| **Execute-before-you-read rule** | He would not start another book until he felt he had executed everything in the last one — which turned reading lots of books into reading a handful of books many times. | [QbDFCbpmI6w](https://youtu.be/QbDFCbpmI6w) |
 | **expand the gap** | The first thing to do when a customer walks in: widen the gap between where they are and where they want to be (in fitness, put them on the scale) so the desire is present when you sell. | [sBJppqCeFGI](https://youtu.be/sBJppqCeFGI) |
 | **Expanded time horizon (the reason the rich get richer)** | Betting on a long enough horizon virtually removes risk, which makes guaranteed upside bets available to you. He says the rich get richer because their horizon lets them think this way, and the hardest thing is getting… | [Fy8XX8EuEnA](https://youtu.be/Fy8XX8EuEnA) |
 | **Expanding niches** | From The Rock: start narrow with what you are already good at, then widen the association step by step - each transition forced by someone handing him money to do the next thing. | [5JLqmQlGG0U](https://youtu.be/5JLqmQlGG0U) |
@@ -5416,6 +5861,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Extended interval reinforcement** | The video-game mechanism he uses to explain both abusive relationships and skill acquisition: rewards are spaced further and further apart until the behaviour persists with none. Life differs because the interval is not… | [M4evdxF5G0s](https://youtu.be/M4evdxF5G0s) |
 | **Extensions of yourself** | The first five hires should be thought of as extensions of you doing the repeated, time-consuming tasks, before you transition to building real teams and departments. | [7NqsFh5ej0w](https://youtu.be/7NqsFh5ej0w) |
 | **Eye of the Tiger** | The original title of this talk - what separates winners is hunger, not tactics; once people have 'made it' in their own mind they get comfortable and lose it. | [gN--zZi3Nfc](https://youtu.be/gN--zZi3Nfc) |
+| **Fair enough as the call to action** | End each downsell offer with 'fair enough' / 'sound fair' rather than 'sound good' — it lowers the bar so the only thing they agree to is that the deal is fair, then you immediately ask for the card. | [gza5RtQCVsA](https://youtu.be/gza5RtQCVsA) |
 | **Fake it till you make it (his rejection of it)** | He rejects the strategy because the person in the mirror knows you are a fraud, and the thing you are ultimately selling is yourself to yourself - once you lose your own respect it is very hard to recapture. | [ebrcIErJi10](https://youtu.be/ebrcIErJi10) |
 | **Fallacy of the perfect pick** | Two false beliefs: that you must find something you are passionate about, and that the first thing you pick is the last thing you will do. Passion is created, not found, by being willing to suck for a long time until… | [M4evdxF5G0s](https://youtu.be/M4evdxF5G0s) |
 | **fast beats free** | Speed itself is something people will pay for, even against a free alternative: Uber over walking, FedEx over USPS, Spotify over pirated downloads. | [t9Vv7rK-4Jc](https://youtu.be/t9Vv7rK-4Jc) |
@@ -5457,6 +5903,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **founder magic / owner magic** | The reason the first location always outperforms the ones after it: the founder's thumbprint is on it, staff grew up with him, old customers remember him. This is why multi-location marketing gets harder after location… | [sBJppqCeFGI](https://youtu.be/sBJppqCeFGI) |
 | **founder selling** | The founder should take the sales calls until they physically cannot: it keeps them close to the customer, gives a fast feedback loop on marketing and pricing, removes the salesperson variable, and the founder is the… | [n6SHLmKcY0E](https://youtu.be/n6SHLmKcY0E) |
 | **founder's no-rip-cord premise** | Hormozi's read on why Mike survived the flat years: he never kept an exit option open, so every problem was approached as 'I either die or we keep going' - and since he is still alive, the problems get solved one at a… | [orMbq2LtzKE](https://youtu.be/orMbq2LtzKE) |
+| **Four buckets of topics** | Real time (capture ideas as they occur - for him, tweets), recent past (look at your calendar for the last week's meetings), far past (the big lessons that shifted your beliefs), and manufactured (deliberately… | [UGEc9-7X3OQ](https://youtu.be/UGEc9-7X3OQ) |
 | **Four components of a market** | The screen he applies to any market: are they in pain, do they have purchasing power, are they easy to target, are they growing. | [eX3Ch_HuR70](https://youtu.be/eX3Ch_HuR70) |
 | **Four economic benefits of brand** | Brand shows up in exactly four places in the P&L: conversion rate, click-through rate (conversion earlier in the funnel), price point, and repurchases — the last one multiplying all the others. | [4Yz8ggEv0NU](https://youtu.be/4Yz8ggEv0NU) |
 | **Four guarantee types** | Unconditional (money back no questions — strongest), conditional (X happens or you get Y), anti-guarantee (lean into having none and disqualify guarantee-seekers), and implied (performance-based structures like rev… | [5MHQr-Z17Hc](https://youtu.be/5MHQr-Z17Hc) |
@@ -5465,15 +5912,19 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Four marketplace positions** | Bargain (cheapest, poor quality, poor experience), Best value (Walmart vs Target - better value for the buck), Premium (Lexus, BMW), Luxury (price has no cap; part of the product's value is the cost people know you… | [ONV__y1z7MI](https://youtu.be/ONV__y1z7MI) |
 | **Four offer buckets** | Attraction offers (maximise conversion, pull cash forward), upsells (maximise gross profit per customer), downsells (turn nos into yeses without cannibalising the expensive sale), continuity (the recurring… | [nSQdjim8CsE](https://youtu.be/nSQdjim8CsE) |
 | **Four ways to get money** | Steal, inherit, marry into it, or trade for it. He argues the audience effectively has only the fourth option, so the rest of the video is about how to structure that trade. | [rMJIOK_FgJk](https://youtu.be/rMJIOK_FgJk) |
+| **Four ways to repurpose** | Cross-platform (different platform), different format (re-shoot the same idea), literally reposting the old clip, and reusing the same underlying content again - and the memory of each platform sets how long you must… | [lEIqyLE4iOY](https://youtu.be/lEIqyLE4iOY) |
 | **Four-step goal process** | Borrowed from a science book, not a business book: (1) what problem are we solving, (2) the hypothesis, (3) what we are going to do, (4) what we think is going to happen — then review whether you did the input and… | [zBZHWrvjD8Y](https://youtu.be/zBZHWrvjD8Y) |
 | **four-step same-day sale** | The reordered process he designs for the clinic: credit card plus insurance card captured on the phone, morning-of packet printing, assessment taken before treatment, then the prescriptive close on the same visit. | [sBJppqCeFGI](https://youtu.be/sBJppqCeFGI) |
 | **Frame is everything** | How you frame a conversation or circumstance massively changes how all the remaining information is perceived - which is why the headline gets 80 cents of the advertising dollar. | [QQGHCG8d1So](https://youtu.be/QQGHCG8d1So) |
 | **Framework X: attract talent** | At scale the business becomes a conglomeration of businesses with 10 CEOs each running their own P&L; innovation dies at the top without new stallions incentivised to drive growth. | [qxQIcDrre1E](https://youtu.be/qxQIcDrre1E) |
 | **Free instead of discount (bonus design)** | Rather than discounting 10%, give away something whose perceived value exceeds 10% but whose cost to you is lower. Each individual bonus should be worth as much as the whole price on its own. | [-Koq14DPXC4](https://youtu.be/-Koq14DPXC4) |
+| **Free with prepay** | Sell three get three free (or buy three get free) and double the price so six months are paid up front - the cash-flow offer he uses to out-market competition. | [XwZH-lOKG9c](https://youtu.be/XwZH-lOKG9c) |
 | **free with prepay (buy X get Y free)** | Raise the price first, then give the extra units away - the customer experiences a free gift and you keep the same revenue per unit sold. | [mHrAjWni65E](https://youtu.be/mHrAjWni65E) |
 | **Freemium as a marketing strategy** | Put the marketing budget into delivering the free thing so well that word of mouth generates demand; CAC then equals the cost to deliver a free customer divided by the conversion rate. | [Lc8DNduiwKA](https://youtu.be/Lc8DNduiwKA) |
 | **Frictionless concurrent checkout (QVC)** | Shoppable video on demand - buy from the thumbnail without leaving the content, because leaving the video loses the moment. | [YUXLJauT4eY](https://youtu.be/YUXLJauT4eY) |
 | **front end and back end to pull cash forward** | The reason to split an offer: someone buying a $100,000 thing needs more information and more time, and during that time you are paying labour and advertising with no return. A front-end offer pulls cash forward,… | [n6SHLmKcY0E](https://youtu.be/n6SHLmKcY0E) |
+| **Front-end / back-end two-product rule** | Once past ~$1-3M you sell two things only — a front-end thing and a back-end thing — and keep the accommodation in the payment terms. | [EZLQzR-_83A](https://youtu.be/EZLQzR-_83A) |
+| **Front-end qualification** | Filtering and qualifying who is allowed to buy, on the characteristics of the customers who get the best results, so lifetime value and operational load improve together. | [hnfh2jqNVEQ](https://youtu.be/hnfh2jqNVEQ) |
 | **Front-loaded damaging admissions** | On the sales call, list everything that sucks about the offer BEFORE the good stuff, so prospects self-qualify and so the good claims become believable. 'You want to take all the wind out of their sails.' | [MH-IMJxbUY4](https://youtu.be/MH-IMJxbUY4) |
 | **Frugality drives innovation** | Constraint — of time or money — forces creative problem solving instead of buying the answer, which is exactly what people who have money try to recreate deliberately. | [rp1PzCxj3eU](https://youtu.be/rp1PzCxj3eU) |
 | **Frustration tolerance** | How many times you try again before quitting, shaped by how often past persistence was reinforced; entrepreneurs can raise it deliberately. | [q9OmYf_IlQ0](https://youtu.be/q9OmYf_IlQ0) |
@@ -5492,6 +5943,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **get really good at one thing first** | The precondition for the 100 million dollar blueprint: skill first, monetisation second, enterprise value third - in that order. | [d0dBZbd13jM](https://youtu.be/d0dBZbd13jM) |
 | **Get something for nothing** | There is usually already a business for sale, or a motivated owner who doesn't want to do it anymore and will almost give it to you — the opportunities exist, they're just not listed anywhere, and nobody looks because… | [KNl83INePXI](https://youtu.be/KNl83INePXI) |
 | **get the contact info and text immediately** | Ask for contact details and send a message straight away containing a funny anecdote and both your names, so the contact is saved and the association is warm. | [RsXcCjLtnsA](https://youtu.be/RsXcCjLtnsA) |
+| **Ghost products (formerly sacrificial lambs)** | A product you recommend but deliberately do not sell — you send the buyer to a cheaper source (e.g. Costco) to make a concession and buy trust; over time he stopped carrying the products entirely because they were worth… | [bx48qPlaGvE](https://youtu.be/bx48qPlaGvE) |
 | **Gift cards are an interest-free loan** | Credit-based memberships function like gift cards: customers front you money, some never redeem, and the balance is not redeemable for cash. | [eX3Ch_HuR70](https://youtu.be/eX3Ch_HuR70) |
 | **Give away the secrets, sell the implementation** | Give the information away for free to prove you are good and trigger reciprocity; the paid product is implementation, accountability, troubleshooting and the perspective from which to solve the problem. | [WrCt0R3FBFs](https://youtu.be/WrCt0R3FBFs), [reisEL_D7xc](https://youtu.be/reisEL_D7xc) |
 | **Give Away the Secrets, Sell the Implementation** | In an AI world where content and services commoditize, brand is the moat; give the how away publicly and charge for doing it faster and with less risk. | [YONIUpk-kAs](https://youtu.be/YONIUpk-kAs) |
@@ -5510,6 +5962,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Goal setting should take work** | The process is diagnostic: if you can knock your goals out quickly, you have probably not thought them through, because the framework forces you to articulate why you are doing what you are doing at all. | [zBZHWrvjD8Y](https://youtu.be/zBZHWrvjD8Y) |
 | **Goals as hypotheses, not goals** | You are not trying to do the thing, you are hoping something happens if you do the thing. So define both variables explicitly — the activity (input) and the hoped-for result (output) — which means a green input with an… | [zBZHWrvjD8Y](https://youtu.be/zBZHWrvjD8Y) |
 | **golden BBs, not a silver bullet** | His overall tax philosophy: no single strategy transforms the outcome unless you relocate, so the gains come from stacking many small legitimate savings. | [AM_-lnyY70M](https://youtu.be/AM_-lnyY70M) |
+| **Golden BBs, not silver bullets** | His framing of the talk: a checklist of many small working tactics rather than one magic fix - scoop up the ones that fit. | [XwZH-lOKG9c](https://youtu.be/XwZH-lOKG9c) |
 | **golden handcuffs (physician trap)** | The specific failure mode of physician-owned practices: they make enough money to be comfortable but not enough to be free, so they become risk-averse and never scale. | [B-ogfFiQpXg](https://youtu.be/B-ogfFiQpXg) |
 | **Good day formula** | Three things make a good day: eat with people he likes, lift with people he likes, and write something. The upgrade ('super good day formula') is doing them without being in a rush, which requires giving something else… | [IFElGv5ZmRM](https://youtu.be/IFElGv5ZmRM) |
 | **Good friction vs bad friction** | Good friction raises lead quality and only pushes out bad leads; bad friction (like a slow page load) pushes out everyone. | [nrounb8NlFQ](https://youtu.be/nrounb8NlFQ), [eX3Ch_HuR70](https://youtu.be/eX3Ch_HuR70) |
@@ -5538,6 +5991,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **hacking through the jungle with machetes** | Mike's analogy for the early company, and the basis of his hiring filter: at that stage you need people who will hack day and night with you - athletes, people who have failed at something, people with a chip on their… | [orMbq2LtzKE](https://youtu.be/orMbq2LtzKE) |
 | **Half measures** | His rule from the failed presentation: either sell or don't sell, either give value or sell - never mix them. Being half in and half out is, to him, not in at all. | [Tu6YDG0AZ5k](https://youtu.be/Tu6YDG0AZ5k) |
 | **Half Pivot** | When changing direction, stay in the same industry and change roles rather than starting a new industry from zero, because the reps clock does not transfer. | [Nh8Oc7ERdIU](https://youtu.be/Nh8Oc7ERdIU) |
+| **Half schedule for new reps** | A newly passed rep gets half a schedule so they blow through a ton of leads fast; the other half of the day is reviewing their own calls, with two meetings a day (beginning and end) while training. | [2lA_A8BGRRs](https://youtu.be/2lA_A8BGRRs) |
 | **Hard money lending / private lending** | You are the bank: because you set the deal structure you create the upside and the downside, and the counterparty chooses whether to accept. Controlling the variables is what lets you mitigate downside risk. | [gxKxeie5JFo](https://youtu.be/gxKxeie5JFo) |
 | **Hard work is the goal** | His stated life thesis after the exit: hard work is not the price of the outcome, it is the thing he was optimising for — he wants to leave nothing in the tank. Framed explicitly as his own preference, not advice for… | [4Yz8ggEv0NU](https://youtu.be/4Yz8ggEv0NU) |
 | **Hat change** | Explicitly signal which relationship is active in a conversation - friend hat or boss hat - so you can be friends with employees without losing the line. | [unshZobTt6Q](https://youtu.be/unshZobTt6Q) |
@@ -5553,6 +6007,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Hire the god squad** | MrBeast's talent strategy as he describes it: recruit the best business and content people in-house, including having them move into his house to absorb the way of doing things, because smart people want to board a… | [VPre_XMgKjs](https://youtu.be/VPre_XMgKjs) |
 | **Hiring in reverse order of value** | Replace first the skills that deliver the least value per hour and cost the least in the marketplace; the more valuable the skill, the later the hire. | [7NqsFh5ej0w](https://youtu.be/7NqsFh5ej0w) |
 | **Hiring is the same funnel as customer acquisition** | Generate applications, nurture applications, the interview is the sale, onboarding, then retain or ascend. Scaling is when the inflow of talent matches the inflow of customers, and brand counts twice — once on the front… | [TooAB8Ow6cQ](https://youtu.be/TooAB8Ow6cQ) |
+| **Hiring screens: speed of response, intelligence, listening, ambivert, social awareness** | What he tests for: response speed (you are a lead to them, so work ethic shows in reply time), intelligence (they represent your brand), listening (not motor-mouthing — an ambivert who can listen and talk when it's… | [2lA_A8BGRRs](https://youtu.be/2lA_A8BGRRs) |
 | **Hiring top-down** | Hiring directors first (sales, marketing, people, IT, portfolio operations) — not necessarily better than you, but better than you at their thing and teaching you. Every other business he built he hired bottom-up; this… | [0mqqbuM9sAk](https://youtu.be/0mqqbuM9sAk) |
 | **Homies (Stage 1)** | Start with the people who know and like you, training them free in exchange for before-and-after photos and testimonials — you cannot get referrals before you have proof. | [HsQeQM1jUeg](https://youtu.be/HsQeQM1jUeg) |
 | **Honey trap lead magnet** | A lead magnet valuable enough to attract the right avatar, given only to qualified applicants - which makes qualification itself the filter. | [nrounb8NlFQ](https://youtu.be/nrounb8NlFQ) |
@@ -5579,6 +6034,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **if it feels rushed, don't do it** | Pressure is a signal, not an opportunity - anyone applying urgency is doing so for their benefit. | [INm4U2S7Vu8](https://youtu.be/INm4U2S7Vu8) |
 | **if it's a bad person, it's a bad deal** | Character beats paperwork - bad partners are a reason to walk regardless of the terms. | [INm4U2S7Vu8](https://youtu.be/INm4U2S7Vu8) |
 | **if it's complicated, pass** | If it feels above your head it probably is; complete understanding is what reduces risk. | [INm4U2S7Vu8](https://youtu.be/INm4U2S7Vu8) |
+| **If it's not worth saying, don't say it** | His content rule: he would rather a person never consume his content than consume one piece and decide never to listen again because it wasted their time. | [eVY4Zo-hpqU](https://youtu.be/eVY4Zo-hpqU) |
 | **if it's the same thing you've always done well with, do more of it** | Find what you are starting to get good at and repeat it, because your luck improves the more you do. | [INm4U2S7Vu8](https://youtu.be/INm4U2S7Vu8) |
 | **if we don't agree, we don't do it** | No decision is made until both parties agree - one of the earliest pieces of advice he got and, he says, among the most profitable. | [INm4U2S7Vu8](https://youtu.be/INm4U2S7Vu8) |
 | **if we're not in the GP, we're not in the deal** | Only invest where you are alongside the people running the asset, not as a passive limited partner. | [INm4U2S7Vu8](https://youtu.be/INm4U2S7Vu8) |
@@ -5681,9 +6137,11 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **lead magnet as a complete solution to a narrowly defined problem** | A giveaway should finish a whole small problem rather than hand over partial work, because completion earns trust and opens the next, bigger problem. | [7NMH1oAkgLY](https://youtu.be/7NMH1oAkgLY) |
 | **Lead magnet logic** | A good lead magnet solves one narrow problem that reveals the next problem - the one you sell the answer to. Fast, easy, narrow, solves one complete problem. | [SmiOK8Yun4s](https://youtu.be/SmiOK8Yun4s) |
 | **Lead magnet that reveals a problem** | A personalization quiz that reveals a problem and gives a discount for completing it, using sunk cost and consistency bias to convert - his type-one lead magnet. | [eX3Ch_HuR70](https://youtu.be/eX3Ch_HuR70) |
+| **Lead nurture, not lead generation** | The job of organic content for a business that already has paid ads, outbound or affiliates: the prospect looks at your social profile to check you are legit and still in business - the only litmus test is that you… | [MD5-HByRxoA](https://youtu.be/MD5-HByRxoA) |
 | **lead scoring / lead qualification** | Some types of customer are far more likely to buy the expensive thing, so the business should publicly state that it only caters to those people. | [ZuJryiwxjDw](https://youtu.be/ZuJryiwxjDw) |
 | **Lead scoring on credit card spend and vacation spend** | If two factors drive the sale, score every lead on both and call the two-for-twos first, one-of-twos second, and zeros only when bored. | [MH-IMJxbUY4](https://youtu.be/MH-IMJxbUY4) |
 | **Learn bottom up, not top down** | Go through every single line item in the P&L. Where the money goes is where the business invests; the culture of decision-making is manifested in the bottom-up numbers. Top-down takes far longer. | [OUI12JmD-lM](https://youtu.be/OUI12JmD-lM) |
+| **Learn it while doing it (course-as-project)** | When he wants to do something, he buys a course about how to do it and follows the course to produce the thing — learning the skill in the act of shipping it, rather than studying first. | [QbDFCbpmI6w](https://youtu.be/QbDFCbpmI6w) |
 | **Learn or earn** | His rule for any job (attributed to 'Uncle Warren'): you should be paid in learning, in earning, or ideally both - and if you are getting neither, stop working there. | [-Pz0NpcILOY](https://youtu.be/-Pz0NpcILOY) |
 | **Learning = same condition, new behaviour** | His operational definition. If the same situation presents itself and you behave the same way, you have not learned. This is the talk's final test: if you do not change, you did not learn. | [MNll1BaskLA](https://youtu.be/MNll1BaskLA) |
 | **Learning budget (borrowed from an e-commerce operator)** | Force yourself to spend a fixed percentage of income every month on experiments you expect to lose money on - which is what unlocked his willingness to spend more on ads and scale the company. | [6BQ3whjWG3M](https://youtu.be/6BQ3whjWG3M) |
@@ -5719,9 +6177,12 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Lifetime gross profit per customer** | Going from three to ten million does not require a new thing - it requires more valuable customers, achieved by improving the product, reducing churn, optimising price or adding one high-value service level. | [neTSqOAMgao](https://youtu.be/neTSqOAMgao) |
 | **lifetime revenue** | Total revenue ever collected in the business, which sounds like an annual figure and is usually a multi-year figure - McDonald's employees would 'collect a million dollars in revenue' on this basis. | [al_WXFDbN8I](https://youtu.be/al_WXFDbN8I) |
 | **Light wet wood** | Hormozi's analogy for why new divisions need the best leaders - you cannot start a fire with light wet wood, so the strongest people have to be placed on the newest thing. | [-HJg4TYBgtI](https://youtu.be/-HJg4TYBgtI) |
+| **Likeness** | Relatability - shared values, a behaviour set that matches people who have been positive in the viewer's life, or literally looking like them; which is why Leila reaches women with the same topics. | [dMZ-n2KSlxE](https://youtu.be/dMZ-n2KSlxE) |
 | **Limit the details to make every detail perfect** | A rule he attributes to software engineers at his company: you can only make every detail perfect if you limit the number of details. Applied to the School Games — eight videos, one call a week, one Mastermind a month,… | [kloJJeiysxg](https://youtu.be/kloJJeiysxg) |
 | **Listen to customers, not competitors** | His rule after the pricing disaster: competitors are largely irrelevant if you are paying attention to customers. He attributes the phrasing to Paul Graham. | [tdLLGKoBojo](https://youtu.be/tdLLGKoBojo) |
 | **Litmus test for good delegation** | After you hand the responsibility away and someone else is doing the actions, the performance of that function either stays neutral or goes up. Giving something away without a feedback loop is abdication, not delegation. | [sjt5G3YPjmY](https://youtu.be/sjt5G3YPjmY) |
+| **Live and interactive content strategy** | His publicly stated whole content strategy: show your cards, do the thing live and capture it - Q&As, live calls, documented customer work - rather than scripted studio pieces. | [XsWSvz-aewA](https://youtu.be/XsWSvz-aewA) |
+| **Live interactive** | The two words describing his media strategy going forward - live streaming and interaction - because rawer formats carry more of the SPCL elements and cannot be faked. | [dMZ-n2KSlxE](https://youtu.be/dMZ-n2KSlxE) |
 | **Loan against public equities (tax-free liquidity)** | Once the stock has a market value you can borrow against it piecemeal within 24 hours - banks lend up to 50% of value - and the proceeds are tax-free because they are loans. He notes this is exactly what Elon did to buy… | [6x3re5-Ms1E](https://youtu.be/6x3re5-Ms1E) |
 | **Loans are not income** | The US tax code never treats a loan as income but it is spendable money - so you borrow against tax-free growth to live on, provided the loans stay smaller than the growth of the assets, and the basis is settled at… | [YhxiVIQp_ws](https://youtu.be/YhxiVIQp_ws) |
 | **Local cost vs global benefit** | Every process has a local cost to the person doing it and a global benefit to the organisation. A system is only worth installing when the global benefit exceeds the local cost — otherwise you are just slowing people… | [oK2_u-uS_Bo](https://youtu.be/oK2_u-uS_Bo) |
@@ -5736,6 +6197,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Low cost leader** | A lower cost basis per unit achieved through larger scale production, letting you profit at a price smaller competitors cannot match - with Dan Kennedy's warning that there is no advantage in being the second cheapest… | [Lc8DNduiwKA](https://youtu.be/Lc8DNduiwKA) |
 | **Low tolerance for negativity** | At high levels people physically leave negativity: if someone complains or brings drama they simply get up and go, nothing personal — because they cannot afford the attention it costs. | [6ZEZWuVC8-8](https://youtu.be/6ZEZWuVC8-8) |
 | **Low-investment opener** | Start a session with a movement so cheap that you will never say no to it, which removes the decision to train. | [ABOd589OyTM](https://youtu.be/ABOd589OyTM) |
+| **Low-margin-first rule for ghost products** | Send the lowest-margin products across the street; give away the low-margin stuff to gain trust and keep the high-margin products for yourself. | [bx48qPlaGvE](https://youtu.be/bx48qPlaGvE) |
 | **LTGP:CAC — the fundamental economic unit** | Lifetime gross profit compared with the cost to acquire a customer. All the profit in a business comes from this one ratio; it decides whether a business can scale endlessly (20:1) or is treading water (1:1). His floor… | [QGcjweehrvU](https://youtu.be/QGcjweehrvU) |
 | **LTV is the variable, not ticket price** | You do not need a $1,000 widget — you need a $1,000 lifetime value, which can be reached by a course, a $100/month membership over ten months, or a $250 product bought four times. Starbucks at roughly $8,000 LTV is the… | [BSwJQsogah0](https://youtu.be/BSwJQsogah0) |
 | **LTV to CAC times TAM** | The avatar-selection test: the ratio of what a customer is worth to what they cost to acquire, multiplied by the size of the market. He uses it to tell a hair-salon owner to drop a 11:1 coaching offer for a 24:1 product… | [TooAB8Ow6cQ](https://youtu.be/TooAB8Ow6cQ) |
@@ -5750,7 +6212,9 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Main quest** | Their filter for whether to be in a business at all - they divested Shopify Fulfillment Network because it was not a main quest. | [YZdE8U5eD_s](https://youtu.be/YZdE8U5eD_s) |
 | **make bets** | Getting ahead requires making bets - on education, opportunities, inventory, software - which means the correct use of early money is to keep enough stockpile to be able to place them. | [aFoMYz_jWcs](https://youtu.be/aFoMYz_jWcs) |
 | **Make It Better, Make It Free** | His customer-acquisition playbook: look at what everyone else charges for, make it better, and make it free — the design principle behind the School Games. | [IFpHasZ7jN4](https://youtu.be/IFpHasZ7jN4) |
+| **Make it for one of two reasons** | Only two valid reasons to make a video: to document a thought process for yourself, or fresh off a conversation with a client, employee or portfolio business owner - made anonymous. | [eVY4Zo-hpqU](https://youtu.be/eVY4Zo-hpqU) |
 | **Make it unreasonable that you fail** | You measure success by whether you completed the actions that make failure unreasonable, so that you only lose for things outside your control. | [Tu6YDG0AZ5k](https://youtu.be/Tu6YDG0AZ5k) |
+| **Make it when it's fresh** | Record immediately after the conversation or epiphany that generated the idea, rather than at a scheduled filming block - creativity does not like constraints, and the scheduled block creates self-inflicted pressure. | [eVY4Zo-hpqU](https://youtu.be/eVY4Zo-hpqU) |
 | **Make money on yourself twice** | Take the non-premium return from passive investments and get your premium return from your own business — earning once on income and once on the invested capital, rather than trying to out-trade institutions. | [Fy8XX8EuEnA](https://youtu.be/Fy8XX8EuEnA) |
 | **Make sales to get customers, not customers to make sales** | The first transaction exists to acquire a customer, not to make money. Everything after the first sale should be engineered to produce the repeat purchase. | [BMF2fWHyDrg](https://youtu.be/BMF2fWHyDrg) |
 | **Make the clickbait true** | MrBeast's correction to him: you absolutely do make clickbait videos, you just have to make the clickbait true - so make the crazy claim and back it up with an even more insane video. | [5JLqmQlGG0U](https://youtu.be/5JLqmQlGG0U) |
@@ -5761,11 +6225,13 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Management by walking around** | From In Search of Excellence (1992): leaders walk the floor, because in-person contact produces interactions - like a 68-second check-in - that never happen remotely. | [-HJg4TYBgtI](https://youtu.be/-HJg4TYBgtI) |
 | **Management diamond** | Five reasons someone is not doing what you asked: they did not know you wanted it, they did not know how, they did not know when, something is blocking them, or they did not want to. He says the last is where… | [spXH1kJ6q-Q](https://youtu.be/spXH1kJ6q-Q) |
 | **manager card instead of a coupon** | The classy version of a comeback offer: the manager writes 'free dessert' on the back of their own business card and hands it over, so it reads as a personalised gift rather than a coupon. | [h9UyQiLjSHg](https://youtu.be/h9UyQiLjSHg) |
+| **Manufacturing moat via custom words** | Build the manufacturing capacity to print any customer's own word on demand - the thing that lets you double or triple the price and that competitors cannot easily copy. | [LvHDT0ZxSmw](https://youtu.be/LvHDT0ZxSmw) |
 | **Market over manager** | Buffett's line: the boat you are in matters more than how hard or how well you row - a humbling lesson from COVID recovery, and the origin of the opportunity-vehicles framing. | [QQGHCG8d1So](https://youtu.be/QQGHCG8d1So) |
 | **Marketing and sales as one continuum** | Marketing and sales are the same education process - changing behaviour under the same conditions - so they should not be treated as separate functions. | [YUXLJauT4eY](https://youtu.be/YUXLJauT4eY) |
 | **Marketing is about being better, not different** | You do not need blue ocean; the product just needs to be better, and the boring incremental improvements compound into outsized returns. | [neTSqOAMgao](https://youtu.be/neTSqOAMgao) |
 | **Markets take longer to adjust than you expect, then move faster than you can imagine** | The Big Short trade was early for about four years before the move happened instantly; the requirement is being comfortable sitting in discomfort before your view of reality is reflected. | [rp1PzCxj3eU](https://youtu.be/rp1PzCxj3eU) |
 | **Master a puddle** | His market-entry ladder: be queen of a puddle, then a pond, a lake, a bay, an ocean. Pick the one avatar and exclude the others, because the volume required for excellence prevents doing several things well. | [aBPWCdaJJqA](https://youtu.be/aBPWCdaJJqA) |
+| **Master sheet of your best content** | A spreadsheet of your all-time best content, mapped to the FAQs people ask on sales calls, so sales can send the matching piece between call one and call two, and marketing knows what to make next. | [MD5-HByRxoA](https://youtu.be/MD5-HByRxoA) |
 | **Masters have more ways to win** | You can measure expertise by the number of ways you can measure progress - an expert has many intermediate win markers on a long project, a beginner only sees the final output and therefore sees nothing happening. | [oDK4g5na4Jw](https://youtu.be/oDK4g5na4Jw) |
 | **Masters Have More Ways to Win** | Mastery in a function shows up as a higher quantity and quality of progress metrics — leading indicators instead of binary outcomes — which is what lets you keep moving the problem forward. | [HxEQCHpZzHk](https://youtu.be/HxEQCHpZzHk) |
 | **Mastery as the work becoming reinforcing** | You start because of an external payoff too far away to wait for; masters enjoy the work more than novices because the act itself has become the reinforcer. He calls the transition to that state the definition of… | [M4evdxF5G0s](https://youtu.be/M4evdxF5G0s) |
@@ -5776,12 +6242,14 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Measuring sticks** | Your measuring stick determines which opportunities you take. The wealthiest people have a larger stick in two dimensions - longer time horizons and larger units (Wall Street slang calls $1 million a 'stick') - and the… | [6x3re5-Ms1E](https://youtu.be/6x3re5-Ms1E), [pmxzhyF0NrE](https://youtu.be/pmxzhyF0NrE) |
 | **Mechanical drop set by foot position** | Rotate toes-out, neutral and other variants of one movement to shift which part of the muscle is loaded, then drop through them in a set. | [ABOd589OyTM](https://youtu.be/ABOd589OyTM) |
 | **Media arbitrage business** | His classification of her model: can you buy clicks for less than you make on them. Once the math is right, it scales almost mechanically. | [j2TZMFkj71Q](https://youtu.be/j2TZMFkj71Q), [8C_6qojTA78](https://youtu.be/8C_6qojTA78) |
+| **Media as both marketing and fulfilment** | In a media business the way you market the thing is also how you fulfil it - a property no other business has. | [4pZwlE86A5Y](https://youtu.be/4pZwlE86A5Y) |
 | **Meet and renew** | The fifth lever in the plan: build recurring revenue by only ever ascending clients in person at events, since in-person has the highest likelihood of closing. | [N5MExtki_VI](https://youtu.be/N5MExtki_VI) |
 | **Meet buying personas** | Tiers set $10 apart ($100/$110/$120) fail because the customers between them are the same person. Price tiers to different avatars and different needs instead, so the ladder maps to who is buying. | [yEKu6q0W3gs](https://youtu.be/yEKu6q0W3gs) |
 | **Meet success where you're at** | You do not need to feel a certain way to win. Take the first step out of anger, the next out of sadness, the next out of shame — only the step matters. | [oys_fv25SYM](https://youtu.be/oys_fv25SYM) |
 | **Memory dividends** | The gift of a hard time is proof of who you are, which you get to tell and relive to yourself for the rest of your life - the story pays out forever. | [IFElGv5ZmRM](https://youtu.be/IFElGv5ZmRM) |
 | **Menu close** | Start from the ideal outcome and let the customer cross items off, so each removal visibly makes them uglier/older rather than cheaper. | [rc7cxL7ql7Y](https://youtu.be/rc7cxL7ql7Y) |
 | **Merchant obsessed** | A single heuristic (what is best for the merchant) that lets thousands of employees make independent decisions that roll up to one mission - the same role Amazon's consumer obsession plays. | [YZdE8U5eD_s](https://youtu.be/YZdE8U5eD_s) |
+| **Message and messenger** | Quality has two components - the message and the messenger - and the two are inextricably linked; a famous messenger can make a boring message travel, and a no-name account can go viral on the message alone. | [SCi464zfAUM](https://youtu.be/SCi464zfAUM) |
 | **Meta skills** | A skill that helps you acquire more skills - learning how to learn is the meta skill. Give 100 people the same free course and the difference in outcomes is entirely the meta skills they brought. This is why he writes… | [U_s0ekwPK5g](https://youtu.be/U_s0ekwPK5g) |
 | **Metrics As An Intervention** | Tracking a metric changes the outcome by itself — 'if I want someone to lose weight I don't even have to tell them anything to do besides weighing themselves every morning.' | [afbP6sB_Atc](https://youtu.be/afbP6sB_Atc) |
 | **Micro speed, macro patience** | Obsess over minutes per task while accepting years per outcome; reject the timeline but accept the skills. | [6KqndZuN_Yk](https://youtu.be/6KqndZuN_Yk), [vhOV_Od0A3M](https://youtu.be/vhOV_Od0A3M) |
@@ -5842,9 +6310,11 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **net worth as the final and truest metric** | What is left after everything - the only metric that cannot be inflated by re-labelling revenue, and the one most people avoid talking about. | [al_WXFDbN8I](https://youtu.be/al_WXFDbN8I) |
 | **Network effects (customer base)** | A user base large enough that its size itself attracts more people - it is not a network with one person, and each additional member makes it more valuable to every other member. | [Lc8DNduiwKA](https://youtu.be/Lc8DNduiwKA) |
 | **Networking capital (working capital) at closing** | How much money you leave in the business so it can run normally through the transition. You want it as low as possible so you can take the cash with you on top of the purchase price — which is why he recommends… | [pWbSl7d0tEc](https://youtu.be/pWbSl7d0tEc) |
+| **Neutral (fair enough) question** | An agreement question deliberately toned down so the ask is small — 'does that sound fair', 'does that sound reasonable' — instead of asking them to agree to something superlative, which is a much harder yes. | [ETEFhDICm5o](https://youtu.be/ETEFhDICm5o) |
 | **never ask for anything** | Direct requests make people assume you are using them; instead, describe the problem you are working on and let them volunteer the help. | [RsXcCjLtnsA](https://youtu.be/RsXcCjLtnsA) |
 | **Never bet the empire for a pot of gold** | A line he borrows from his friend Sean Sravata: you bet what you have and need for something you do not have and do not need - it is never a good bet. | [Tu6YDG0AZ5k](https://youtu.be/Tu6YDG0AZ5k) |
 | **Never count the other guy's money** | Advice he attributes to Leila: don't resent what an affiliate or partner makes off your product — only check whether the deal makes sense for you. Greed here kills the deal that feeds your upsell. | [--9kOXNCUdE](https://youtu.be/--9kOXNCUdE) |
+| **Never go hungry again framework** | The six traffic pools - paid media, earned media, owned media, outbound, affiliates and partners, referrals - which he credits to 'the CEO' of another company (third party term he adopts). | [XwZH-lOKG9c](https://youtu.be/XwZH-lOKG9c) |
 | **Never invoice by email** | One of his stated rules of law: the invoice should always be presented on the phone, because they will have questions and you want to be the one who resolves them and closes. | [mRlSb0O5QNU](https://youtu.be/mRlSb0O5QNU) |
 | **Never risk the empire for a pot of gold** | A quote from a mentor's father that Hormozi adopts as the rule for asymmetric downside. | [jvXOOddDg_s](https://youtu.be/jvXOOddDg_s) |
 | **Never sell alone (double-dipping on effort)** | The owner should always have a trainee shadowing his own door-to-door selling, so the same hours produce sales and training simultaneously; the best rep eventually becomes the lead trainer. | [Wr6n_zNKvMk](https://youtu.be/Wr6n_zNKvMk) |
@@ -5863,6 +6333,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **No silver bullets, many golden BBs** | His framing for the before-and-after portfolio results: improvement is a game of incremental gains, each small and individually unimpressive, that compound into a large result. It is why they run checklists of 22 things… | [HKbFUWJwEG0](https://youtu.be/HKbFUWJwEG0) |
 | **No social obligations, only social consequences** | The punishment for missing social events is that people stop inviting you — which, if you didn't want to go, is a win-win. Think in second and third order outcomes rather than emotional noise. | [oys_fv25SYM](https://youtu.be/oys_fv25SYM), [vhOV_Od0A3M](https://youtu.be/vhOV_Od0A3M) |
 | **no track record, no deal** | Performance over charisma: the best predictor of future performance is past performance, so a good model and good responsiveness do not substitute for a record. | [INm4U2S7Vu8](https://youtu.be/INm4U2S7Vu8) |
+| **No-based question** | A question phrased so that agreement comes out as a no — 'would you be opposed to', 'would you be against', 'would it be unreasonable' — because people feel safer and retain autonomy saying no, so the yes is easier to… | [ETEFhDICm5o](https://youtu.be/ETEFhDICm5o) |
 | **Nose in, hands out** | Credited to a mentor: he attends strategic meetings but deliberately walks away with no homework and no to-dos, acting as a strategic advisor bouncing ideas rather than leading — because to-dos across all the companies… | [V7oUcAfof34](https://youtu.be/V7oUcAfof34) |
 | **Nothing hard lasts forever** | Three possible endings to any hard thing: you quit, it gets easier, or you get better - so it always ends. | [6KqndZuN_Yk](https://youtu.be/6KqndZuN_Yk) |
 | **Nothing left in the tank** | He credits Jesse Itzler with the 'zero' his kids pull up after a marathon: the goal is not to win, it is to have nothing left. His own version: the goal is the state of having worked exceptionally hard and left it all… | [M4evdxF5G0s](https://youtu.be/M4evdxF5G0s) |
@@ -5883,8 +6354,10 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **one product, one avatar, one channel** | His first rule of scaling: sell one thing to one person in one way until you hit $1M/year. Expanding before that is the help-everyone trap. | [3yAiVjcImQ4](https://youtu.be/3yAiVjcImQ4) |
 | **One product, one avatar, one channel** | Until roughly $3 million a year, the advice is a single product, a single avatar and a single channel - because the issue is not time but attention, and two businesses means neither works. | [neTSqOAMgao](https://youtu.be/neTSqOAMgao) |
 | **One thing per function, stacked each quarter** | Pick one high-confidence improvement per function per 12 weeks, and next quarter add to it rather than replacing it, building a checklist of what makes the function excellent. | [KhFlD54nQrY](https://youtu.be/KhFlD54nQrY) |
+| **One thing to sell, many ways to pay** | Give the salesperson a single dream product rather than low/medium/high tiers; then let the customer's budget pick the payment plan. The discussion moves from which product to how they want to pay. | [EZLQzR-_83A](https://youtu.be/EZLQzR-_83A) |
 | **One thing, all in** | The opposite of the diversification that keeps people poor - and the picking itself is not what grows the business, the ability to say no is. | [RdAKXJlMIZM](https://youtu.be/RdAKXJlMIZM) |
 | **One to Ten Close** | Ask where they are on a 1-10 scale; whatever number they give, ask what it would take to make it a ten — they hand you the close — or flip it and ask why they aren't a one, which makes them sell you on why it's good. | [WrCt0R3FBFs](https://youtu.be/WrCt0R3FBFs) |
+| **One-click upsell (cards on file)** | Close the add-on with the card already on file so the buyer makes no new purchase decision and never has to take their wallet out. | [bx48qPlaGvE](https://youtu.be/bx48qPlaGvE) |
 | **One-step funnel** | Form and calendar on the same step - the prospect opts in and books the call in one move, with a pre-call VSL and SMS BANT nurture in between. | [HGZOxBfnF-E](https://youtu.be/HGZOxBfnF-E) |
 | **one-trick pony / consumables** | The churn diagnosis: in consulting or education, once you have implemented the thing there is no reason to keep paying - education tends to graduate people. Either build something that is always changing and required… | [n6SHLmKcY0E](https://youtu.be/n6SHLmKcY0E) |
 | **only invest if it builds your reputation** | No neutral moves - every investment either compounds your reputation and relationships or costs you, so if it does not build it, don't do it. | [INm4U2S7Vu8](https://youtu.be/INm4U2S7Vu8) |
@@ -5897,6 +6370,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Operators are delegation and accountability machines, not systems people** | The best operators clear their desk immediately, delegate authority, and rely on shared values plus demonstrated behaviour rather than SOPs for everything. 'Only dumb people need rules.' | [oK2_u-uS_Bo](https://youtu.be/oK2_u-uS_Bo) |
 | **Opportunities look like risk** | The moment an opportunity stops looking risky is the moment it has closed - so you want to make bets where you have an information advantage over other people and can reach your own conclusion. | [6x3re5-Ms1E](https://youtu.be/6x3re5-Ms1E) |
 | **Opportunity cost of attention** | The comparison that decides where attention goes: half your mind space on active investing versus the disproportionate fall in active income that comes with it. He says he made this mistake himself. | [CRMT2yubBxc](https://youtu.be/CRMT2yubBxc) |
+| **Opportunity sizing formula** | Units sold times gross profit per unit, divided by the number of competitors times the money they make - the cross-section of unit economics and competitive density used to rank which business to build. | [4pZwlE86A5Y](https://youtu.be/4pZwlE86A5Y) |
 | **Opportunity vehicle upgrade** | Same skill set, better vehicle: gyms, then done-for-you sales, then licensing code and media. Each step raises gross margin without requiring new skills - the beliefs and character traits are what let you switch… | [Xb9ZOA6zypU](https://youtu.be/Xb9ZOA6zypU) |
 | **opposite nightmare scenario** | Ad copy angle that describes the outcome the prospect most wants to avoid (here: 'avoid surgery'), paired against the call out. | [sBJppqCeFGI](https://youtu.be/sBJppqCeFGI) |
 | **Opt-out / default close framing** | Frame the upsell as something they have already been entitled to and already opted into, so they must opt OUT rather than opt in: 'you've already been paying for it, we just need to formalize it.' | [-Koq14DPXC4](https://youtu.be/-Koq14DPXC4) |
@@ -5929,6 +6403,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Patient with outputs, impatient with inputs** | Patience is figuring out what to do in the meantime; impatience is doing it. Use action as the coping mechanism for the feeling that things should be faster. | [vhOV_Od0A3M](https://youtu.be/vhOV_Od0A3M) |
 | **patient with your outputs, impatient with your inputs** | Patience is what you do in the meantime; impatience is doing the thing in the meantime. Be impatient about actions, patient about results - because results are not yours to control. | [aFoMYz_jWcs](https://youtu.be/aFoMYz_jWcs) |
 | **pay down ignorance** | The largest cost in most people's lives is what they do not know, so buying information is buying down the liability - and the correct response to a knowledge gap is to pay to close it, not to feel bad about the gap. | [oZ-H_TjSzok](https://youtu.be/oZ-H_TjSzok) |
+| **Pay down your ignorance debt** | His framing for buying expertise: you can deploy time or deploy money to save time, and if you have the money it is always worth paying down the ignorance debt faster - master one platform, then pay to learn the rest. | [fd-hi3NqMYo](https://youtu.be/fd-hi3NqMYo) |
 | **Pay for speed (pull cash from your future forward)** | He would rather pay to compress a five-year learning curve into one year because the time value of money dominates the cost of the tuition. | [6BQ3whjWG3M](https://youtu.be/6BQ3whjWG3M) |
 | **Pay market rate for the role you're covering** | If the owner is doing the work of a manager unpaid, the profit margins are artificially high and the model will break when it scales; pay yourself (or budget) what someone else would need to be paid to do that role,… | [-Koq14DPXC4](https://youtu.be/-Koq14DPXC4) |
 | **Pay vendors, don't give equity** | The most expensive equity you give away is the equity you give early — so pay for services as a vendor rather than parting with ownership, and level up your own skill set so you do not need to trade equity for… | [_x6n-CmZqjo](https://youtu.be/_x6n-CmZqjo) |
@@ -5941,7 +6416,9 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Permanent customer / permanent CAC** | A customer who never leaves (2+ years in practice). Permanent CAC = cost to acquire a customer divided by the fraction who become permanent. This is the number that gets multiplied by the enterprise-value multiple. | [k-3PoOT4vOM](https://youtu.be/k-3PoOT4vOM) |
 | **Personal risk vs business risk** | Keep personal risk as close to zero as possible so you can go on the offensive on the business side. Low personal risk increases your number of shots on goal, which is what lets you fail more and still win. | [ymFWgFiKUvM](https://youtu.be/ymFWgFiKUvM) |
 | **Peter Principle** | People advance to their point of incompetency - a good salesperson becomes a bad sales manager, and you lose a good salesperson and gain a bad manager. | [KhFlD54nQrY](https://youtu.be/KhFlD54nQrY) |
+| **Phase one / phase two agency play** | Phase one: hire a cheap basic agency purely to force a posting cadence and learn the fundamentals. Phase two: hire the premium agency that works with top creators and pay extra for them to break down why they make each… | [fd-hi3NqMYo](https://youtu.be/fd-hi3NqMYo) |
 | **Phase zero — the prerequisites (deal killers)** | The conditions that must exist before a business has any enterprise value at all: enough size, no customer concentration, a defined and repeatable sales process, enough potential acquirers approached, correct timing, an… | [pWbSl7d0tEc](https://youtu.be/pWbSl7d0tEc) |
+| **Phase-out plan for the face** | For a person-dependent media brand: over the next six or 12 months co-host with one to three regulars, hand most of the leading to them, drop to occasional appearances, then fall off the table - so the brand can survive… | [4pZwlE86A5Y](https://youtu.be/4pZwlE86A5Y) |
 | **Physical product premium for the annual** | Rather than discounting the annual, attach a physical bundle (the tools they need to do the thing anyway) as the annual-only bonus — and price the bundle as a decoy ($149) so the annual looks like the obvious choice. | [j2TZMFkj71Q](https://youtu.be/j2TZMFkj71Q) |
 | **Physical products as acquisition subsidy** | If a gym owner sells every customer supplements, the physical product margin covers the cost to acquire that customer — with no added fulfillment, because shipping is managed centrally and direct to consumer. | [0mqqbuM9sAk](https://youtu.be/0mqqbuM9sAk) |
 | **Pick which debt you incur** | Every business incurs debt — the only question is which kind: financial debt, management debt, cultural debt or technical debt. Being the bank and paying down financial debt is a deliberate choice to avoid having to pay… | [0mqqbuM9sAk](https://youtu.be/0mqqbuM9sAk) |
@@ -5956,6 +6433,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Poor / rich / wealthy** | Poor people do the wrong things, rich people do the right things, wealthy people own the right things. | [EdUAAVKl_io](https://youtu.be/EdUAAVKl_io) |
 | **Post and ghost** | Rogan's anti-algorithm approach: no optimisation, raw unedited episodes named 'episode whatever' with the guest, posted and left alone - the opposite of algorithm-hopping. | [5JLqmQlGG0U](https://youtu.be/5JLqmQlGG0U) |
 | **Pour gas on what works** | Allocate resources to channels that show results rather than to a fixed plan - e.g. Shorts got staff, Twitter got none for two years. | [jvXOOddDg_s](https://youtu.be/jvXOOddDg_s) |
+| **Power (say-do correspondence)** | If you say something, they do it, and a good thing follows, they are more likely to comply with the next request - from the behavioural dynamics term say-do correspondence. | [dMZ-n2KSlxE](https://youtu.be/dMZ-n2KSlxE) |
 | **Pre-committed assumptions (push/pivot test)** | Write the assumptions that must hold before investing, and if one is disproven by data, change course without treating the loss as a loss. | [rj7rzOdj84A](https://youtu.be/rj7rzOdj84A) |
 | **Pre-digesting the food** | The lead magnet should require work on the front end from you so the prospect has to work less - 'feeding your prospects the value' like a baby bird. | [nrounb8NlFQ](https://youtu.be/nrounb8NlFQ) |
 | **Pre-fatigue sequencing** | Fatigue the muscle that would otherwise assist so the target muscle has to do the work - calves before hamstrings, hamstrings before quads. | [ABOd589OyTM](https://youtu.be/ABOd589OyTM) |
@@ -5966,6 +6444,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Premium beats volume when starting** | At $1,000 LTV the outreach load (1,000 attempts a day) is uneconomic; the low-price path is hard because of the operations needed to support volume, which is a different skill from marketing and selling. So start with… | [BSwJQsogah0](https://youtu.be/BSwJQsogah0) |
 | **Prepay plus guarantee** | The offer is structured so the buyer prepays the entire period and is guaranteed the outcome, with the seller working for free until it is achieved - so no discount is needed to justify the price. | [m-7VjocC76M](https://youtu.be/m-7VjocC76M) |
 | **prescriptive close** | Turning the sales conversation into a visual aid the doctor walks through with the patient's own numbers - 'here's your x-ray, here's your insurance, this is what we're going to do for you' - so the process is… | [sBJppqCeFGI](https://youtu.be/sBJppqCeFGI) |
+| **Prescriptive close with habit piggyback** | Explain exactly how to take/use the product before asking, and attach the new behaviour to a habit they already have (put it next to the toothbrush, tape a '2' on it) so no new habit has to be formed — you are a coach… | [bx48qPlaGvE](https://youtu.be/bx48qPlaGvE) |
 | **Price anchoring** | Show the most expensive option first so every other price is judged against it. The anchor works two ways: it stretches the range through which buyers see your pricing, and it anchors the rest of the menu downward. | [yEKu6q0W3gs](https://youtu.be/yEKu6q0W3gs) |
 | **Price as a component of value (the wine experiment)** | Three wines, identical liquid, rated cheap/medium/great by tasters who were told the price. Price and value have a bi-directional relationship, so raising price raises perceived value. | [4GjwtnA76ig](https://youtu.be/4GjwtnA76ig) |
 | **Price confers value** | In the wine studies people rate the highest-priced wine best even though all three are the same, and price also gets clients more invested in the outcome. | [neTSqOAMgao](https://youtu.be/neTSqOAMgao) |
@@ -5997,9 +6476,12 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Proof above everything** | The event itself exists as the proof: 'The best way to get someone to believe is to have already done it.' | [u3H7CfpfwHQ](https://youtu.be/u3H7CfpfwHQ) |
 | **Proof over promise** | Promises are only an approximation of likelihood, so proof outsells them; proof should be recent, visual, high volume and should start with pain rather than the result. | [oRMG_HpOAN4](https://youtu.be/oRMG_HpOAN4) |
 | **Proof Over Promise** | Proof beats the offer: before entering a space, work for free in exchange for testimonials, reviews, feedback and referrals — proof both improves the product and gives you the evidence to advertise it. | [HxEQCHpZzHk](https://youtu.be/HxEQCHpZzHk), [HsQeQM1jUeg](https://youtu.be/HsQeQM1jUeg) |
+| **Proof pipeline for the sales floor** | A standing pipeline that collects testimonials and reviews, with the best case being the client on the line with the sales team telling their story; sales directors can also read testimonials aloud every morning to set… | [bHnVItVGJPA](https://youtu.be/bHnVItVGJPA) |
+| **Proof versus demonstration** | Proof is the third-party record that things happened - exits, revenue, head count; demonstration is whether people can see you use the expertise in real life. Demonstration is harder to fake and is the part to engineer. | [XsWSvz-aewA](https://youtu.be/XsWSvz-aewA) |
 | **Proof, promise, plan** | The required structure of every video introduction: what you will get, why you should believe me, and how we will do it - delivered inside the first 30 seconds. | [cnbHgYYHzyE](https://youtu.be/cnbHgYYHzyE) |
 | **Proof, Promise, Plan (hook formula)** | The hook formula from reviewing his top YouTube videos of all time — a hook performs when it contains proof, a promise, and a plan. | [HxEQCHpZzHk](https://youtu.be/HxEQCHpZzHk) |
 | **Proprietary deal flow** | One of two prerequisites for a fund: deals nobody else sees, so you negotiate without an auction and buy below intrinsic value. Pairs with an edge in the industry. | [BO_59sGxztY](https://youtu.be/BO_59sGxztY) |
+| **Prospect knowledge over product knowledge** | What is overemphasised is product knowledge; what is underemphasised is prospect knowledge — who matters more than what, because explaining their problem exactly makes them believe you understand them, and then they buy… | [2lA_A8BGRRs](https://youtu.be/2lA_A8BGRRs) |
 | **provide value first, unsolicited** | The goal of the conversation is to find out how you can help them, not what they can do for you - and the value has to be given before it is requested. | [RsXcCjLtnsA](https://youtu.be/RsXcCjLtnsA) |
 | **Psychological debt payoff order** | Pay debts off fastest-first rather than highest-rate-first, because the win rate matters more than the interest math — organize your payoffs so you get more wins sooner. | [ymFWgFiKUvM](https://youtu.be/ymFWgFiKUvM) |
 | **Pulling teeth (discovery technique)** | For one-word or cold answers, alternate 'can you give me an example of that?' with 'can you be more specific?' until a concrete, quotable problem surfaces. | [sGakuNs9mT4](https://youtu.be/sGakuNs9mT4) |
@@ -6012,8 +6494,11 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Put your time under the bar** | Volume precedes quality: you have to do the boring work long enough that you suck so little you are actually good. Passion follows competence, not the other way round - you will not be passionate about something you… | [VgEvIIpDYG8](https://youtu.be/VgEvIIpDYG8) |
 | **Qualified ascensions vs total ascensions** | Two paired metrics: what share of customers who were qualified to ascend did so (quality), and what share of all customers ascended (quantity). Reading them together tells you whether you are selling unqualified… | [QTZsh3BgOwY](https://youtu.be/QTZsh3BgOwY) |
 | **Quality of earnings** | The audit of whether the numbers are real — anybody can put numbers in a spreadsheet. It is part of the buyer's diligence and he treats it as something the seller has to get done in advance, alongside legal diligence. | [pWbSl7d0tEc](https://youtu.be/pWbSl7d0tEc) |
+| **Qualume** | The middle point between making good content and making lots of content - quality and volume combined; the best case when a video is both the right type and gets a lot of views. | [21flGkcZO3A](https://youtu.be/21flGkcZO3A) |
 | **Quantity and quality of metrics** | The hiring test: can the candidate describe their role in metrics with reasoning, and can they say how their function makes the business money? | [KhFlD54nQrY](https://youtu.be/KhFlD54nQrY) |
 | **Question all beliefs except the ones you truly believe** | His tombstone quote, a permutation of Orson Scott Card: we question all our beliefs except those we truly believe — and those we never think to question. So the work is monitoring the inherited belief statements you… | [j536U19iTwk](https://youtu.be/j536U19iTwk) |
+| **Question the requirements (three questions)** | His own three questions for auditing a requirement: what does that mean, how do you know that, so what - if there is no evidence and no consequence, delete it. | [ZTSI3DDP_4A](https://youtu.be/ZTSI3DDP_4A) |
+| **Question-based framework script (CLOSER run order)** | The script should be a framework of questions leading the prospect naturally to the conclusion. His stated run order: clarify why we're here; label them with the problem; overview their past experiences and pains; then… | [2lA_A8BGRRs](https://youtu.be/2lA_A8BGRRs) |
 | **Quitting as changing your mind with increasing data** | He frames the hardest entrepreneurial decision as when to quit, redefined as when to change your mind as data accumulates - being unable to change your mind means you will never be better than you are now. | [GDqmlwY_uj4](https://youtu.be/GDqmlwY_uj4) |
 | **R&D department (as keyman solution)** | The department he built to get himself out of delivery: identify problems by asking customers to rank them, deploy time and money at a scale no single customer could afford by fractionalising the cost, test in… | [sjt5G3YPjmY](https://youtu.be/sjt5G3YPjmY) |
 | **Raise and multiply money** | Skill one: the ability to get money from other people and allocate it so that it multiplies faster than it would anywhere else. Both halves are required — raising without allocation skill, or allocation without the… | [SbZFTPJ9KZU](https://youtu.be/SbZFTPJ9KZU) |
@@ -6041,6 +6526,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Reject the timeline, accept the skills** | The milestones are fixed but the time they take is negotiable - pull the future forward by compressing the learning. | [6KqndZuN_Yk](https://youtu.be/6KqndZuN_Yk) |
 | **remember the name and say it many times** | Use the person's name repeatedly during the first conversation, because their own name is the word they most want to hear and repetition is what makes it stick for you. | [RsXcCjLtnsA](https://youtu.be/RsXcCjLtnsA) |
 | **Reoccurring vs recurring revenue** | Coca-Cola has no memberships but is bought constantly. Reliable repeat purchase without a subscription is 'reoccurring' revenue, and proving the repeat rate is enough to re-rate the business's value. | [bgBIO6nZawg](https://youtu.be/bgBIO6nZawg) |
+| **Rep-stacking through someone else's low-ticket process** | Inject yourself into a high-volume, low-ticket business's sales process (car washes, massage, nails, hair) to get rep after rep; he says this taught him more about selling than any course and made higher-ticket selling… | [bx48qPlaGvE](https://youtu.be/bx48qPlaGvE) |
 | **Repeat-purchase rate as the master metric in CPG** | In consumer packaged goods the only metric that matters is what percentage of ideal customers who try it buy it again. | [rj7rzOdj84A](https://youtu.be/rj7rzOdj84A) |
 | **Replicate before you iterate** | Copy what your teacher does exactly first; you only earn the right to add your own spin once you can duplicate their result. | [dZ7xeVCYC5M](https://youtu.be/dZ7xeVCYC5M) |
 | **Reputation over money** | You can file bankruptcy on debt and start over but you cannot file bankruptcy on a reputation - so if ever forced to choose, always choose reputation because money can always be remade. | [5JLqmQlGG0U](https://youtu.be/5JLqmQlGG0U) |
@@ -6079,7 +6565,10 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Rush is imaginary** | Most businesses have no network effect to capture, so there is no prize for speed. Chasing growth for its own sake is a choice to take on debt you did not need. | [BO_59sGxztY](https://youtu.be/BO_59sGxztY), [cnbHgYYHzyE](https://youtu.be/cnbHgYYHzyE) |
 | **Sadness and anxiety as option problems** | His definitions: sadness is a lack of perceived options (no action to take, so you stay in bed); anxiety is the opposite — many options and no priorities. | [4Yz8ggEv0NU](https://youtu.be/4Yz8ggEv0NU) |
 | **Sadness vs anxiety as information** | Sadness comes from a perceived lack of options and feels like hopelessness, solved with knowledge; anxiety comes from many options and no priorities and feels like paralysis, solved with a decision. | [IFElGv5ZmRM](https://youtu.be/IFElGv5ZmRM) |
+| **Sales as transference of belief** | Selling is moving belief from the salesperson's cup into the prospect's cup; if your cup is empty or a third full you cannot fill theirs past the threshold required to buy. | [42SOlVhDwWE](https://youtu.be/42SOlVhDwWE) |
 | **Sales Is a Transfer of Conviction** | The number one thing that converts a prospect is their belief that you can help them — and that belief starts with your own conviction, transferred through a bridge of trust. | [F3NyhOtRpOE](https://youtu.be/F3NyhOtRpOE) |
+| **Sales is coaching with a defined outcome** | Reframe: selling is coaching a person to a result over a period of time, which is why breaking their limiting beliefs (rather than pitching) is the work. | [iwskrByMIqo](https://youtu.be/iwskrByMIqo) |
+| **Sales management is a skill of tolerance** | What a manager agrees to tolerate sets the standard; the manager who tolerates the most has the weakest team — you can tell winning teams from losing teams by the coach. | [2lA_A8BGRRs](https://youtu.be/2lA_A8BGRRs) |
 | **sales to fulfillment continuum** | The easier it is for you to fulfill, the harder it tends to be to sell - DIY is hard to sell but easy to scale, done-for-you is easy to sell but operationally complex. | [t9Vv7rK-4Jc](https://youtu.be/t9Vv7rK-4Jc) |
 | **Sales tone (3 constants, 2 variables)** | Three fixed controls — loud enough to hear, right speed, full articulation — and two variable ones — pauses and pitch. The constants maximise comprehension; the variables direct attention. | [sGakuNs9mT4](https://youtu.be/sGakuNs9mT4) |
 | **Sales velocity x LTGP (the hypothetical max)** | Units sold per month times lifetime gross profit (or LTV) tells you where the business evens out if nothing else changes — the steady state it is already heading toward, which is why a $500k/month business can be a… | [QGcjweehrvU](https://youtu.be/QGcjweehrvU) |
@@ -6089,6 +6578,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **sawdust** | Excess capacity you already own but are not monetising - the lumber mill's sawdust turned into sandpaper or pellet-stove pellets. The point is to repackage what you have without incurring more cost. | [t9Vv7rK-4Jc](https://youtu.be/t9Vv7rK-4Jc) |
 | **sawdust money** | New money specifically generated by monetising existing underutilised resources for a named project - the same 'sawdust' idea as the delivery cube, applied to a purchase rather than a product line. | [by3ZEoo-Quc](https://youtu.be/by3ZEoo-Quc) |
 | **Say no at higher velocity** | In investing, the skill is declining a higher number of deals faster, because returns follow a power law and you only need one. | [rj7rzOdj84A](https://youtu.be/rj7rzOdj84A) |
+| **Say what no one else can say, show what no one else can show** | The marketing law he says his team runs: underneath state the facts and tell the truth, find the things unique to your brand that only you can show and the things no one else is saying. | [lEIqyLE4iOY](https://youtu.be/lEIqyLE4iOY) |
 | **Say what only you can say, show what only you can show** | Talk about what you have done rather than telling people what to do — 'how I' instead of 'how to'. The two steps: do epic stuff, then talk about what you did. | [reisEL_D7xc](https://youtu.be/reisEL_D7xc) |
 | **Saying no to money (the discipline that creates focus)** | The scarce resource is attention, not revenue, so the highest-leverage act is refusing money that pulls you off the one thing. He paid $2 million in refunds to concentrate on a single business, and cites the sting of… | [TooAB8Ow6cQ](https://youtu.be/TooAB8Ow6cQ) |
 | **SCALE (the scaling loop)** | The five-step micro-cycle for growing a system: Start, Compound (do more), Augment (do better), Leverage (make it consistent and automated), Expand (to the next channel, product or territory) - then loop. | [cnbHgYYHzyE](https://youtu.be/cnbHgYYHzyE) |
@@ -6118,6 +6608,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Second arrow** | Buddhist parable: you cannot control the first arrow, but the second arrow is your reaction to the first, and the second arrow is optional. | [IFElGv5ZmRM](https://youtu.be/IFElGv5ZmRM) |
 | **Secondary** | When a round pays cash to the founder's personal account rather than into the business - taking chips off the table. Investors tolerate it because a founder with no liquidity becomes volatile and makes worse decisions. | [BO_59sGxztY](https://youtu.be/BO_59sGxztY) |
 | **Self-funding charity** | Instead of a charity that solicits donations on goodwill, build a for-profit entity that attracts top talent, grows, and gives a fixed percentage of profit every year - so giving scales with the company. | [QQGHCG8d1So](https://youtu.be/QQGHCG8d1So) |
+| **Self-licking ice cream cone** | A loop engineered into the business motion where the product itself generates the marketing that brings the customers who buy the product - e.g. sweepstakes tickets inside the product, winners filmed at the salon. | [XsWSvz-aewA](https://youtu.be/XsWSvz-aewA) |
 | **Sell a higher-touch version of your own solution** | The cash hack: package the same solution as a more individualised, higher-touch version - access in addition to a service, plus expertise - and take prepayment for the whole period. | [m-7VjocC76M](https://youtu.be/m-7VjocC76M) |
 | **sell at the point of greatest pain, not greatest satisfaction** | Sales should happen when the prospect is at maximum deprivation, not after you have relieved it. The restaurant version: you do not sell a second steak after the customer has eaten and is full. For a clinic, sell the… | [sBJppqCeFGI](https://youtu.be/sBJppqCeFGI) |
 | **Sell in a vacuum** | Dan Kennedy's rule: get to a place where there is no comparison — no alternative supplier, no alternative category — so the buyer has only one data point. | [4GjwtnA76ig](https://youtu.be/4GjwtnA76ig) |
@@ -6139,6 +6630,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **sell to the rich, they pay better** | Because wealth is distributed by power law, most money is in the top decile, so the business should be pointed at buyers with purchasing power rather than at the bottom 50 competing over $2. | [ZuJryiwxjDw](https://youtu.be/ZuJryiwxjDw) |
 | **Sell up a level (agencies, not end users)** | The breakthrough was realizing he could not expand outside his existing distribution base selling to small businesses, because they don't know how to get leads. Selling to AGENCIES adds a degree of leverage — one agency… | [0mqqbuM9sAk](https://youtu.be/0mqqbuM9sAk) |
 | **Selling against inaction, not competition** | The real competitor is the customer's comfort and doubt; the job is to lower the action threshold so the step is small enough to take. | [5MHQr-Z17Hc](https://youtu.be/5MHQr-Z17Hc) |
+| **Selling hot** | Setting expectations so high it is impossible to fulfil them for the majority of customers. | [hnfh2jqNVEQ](https://youtu.be/hnfh2jqNVEQ) |
 | **Selling In A Vacuum** | Selling where there is no competition to be compared against, in two forms — sell where no one else is selling (a where thing) or sell something no one else sells (a what thing) — so price and terms stop being the… | [FMzKk73iUhw](https://youtu.be/FMzKk73iUhw) |
 | **Selling in a Vacuum / Category of One** | A de-commoditized offer forces a values-based decision instead of a price-based one — the prospect has nothing to compare you to, so they must accept your price if they deem the value sufficient. | [F3NyhOtRpOE](https://youtu.be/F3NyhOtRpOE) |
 | **Selling the don't** | Market the negative side of not buying: if you don't do this, you keep having the bad stuff and keep missing the good stuff. | [HwPXctiw_rY](https://youtu.be/HwPXctiw_rY) |
@@ -6151,6 +6643,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Set the target above the requirement** | The math gives four deals a day; he sets five so the target overshoots — the buffer absorbs the days the activity does not land. | [BSwJQsogah0](https://youtu.be/BSwJQsogah0) |
 | **Setters, not closers** | Because the owner converts ten times better than his salespeople, the fix is to have the two reps prospect and book discovery calls only, with a commission on what the owner closes. | [mRlSb0O5QNU](https://youtu.be/mRlSb0O5QNU) |
 | **Shotgun offer (partnership exit)** | Make one price and set of terms that works both ways: 'I will buy you out for this, but I will also accept that amount to be bought out.' Whoever wants out more pays. | [-Koq14DPXC4](https://youtu.be/-Koq14DPXC4) |
+| **Shoulder to shoulder (move to their side of the table)** | Start the conversation across the table and end it shoulder to shoulder, both looking at the decision together with the same information — the owner can hand a referral off through the salesperson to make them look like… | [bx48qPlaGvE](https://youtu.be/bx48qPlaGvE) |
 | **Show me the incentives** | Credited to Charlie Munger: show me the incentives and I'll show you the outcomes. The common theme he sees among the wealthiest is that they are not afraid to give up a piece of the pie to make more people wealthy so… | [_x6n-CmZqjo](https://youtu.be/_x6n-CmZqjo) |
 | **Show What Only You Can Show, Say What Only You Can Say** | The operational test for differentiation: get narrow enough that something about your business is unique, then show it visually and describe it in words only you can use — the 'toasted' principle. | [HxEQCHpZzHk](https://youtu.be/HxEQCHpZzHk) |
 | **shrink the time between wanting to learn and trying** | Most people delay the first 20 hours by years; the compounding difference comes from collapsing the gap between deciding to learn something and actually starting it. | [aFoMYz_jWcs](https://youtu.be/aFoMYz_jWcs) |
@@ -6178,8 +6671,10 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Skills, then character, then time** | His ladder of what separates each order of magnitude of wealth: $1,000 to $1M is skills, $1M to $100M is character, $100M to $1B is time — the last one stated as his own untested opinion. | [aBPWCdaJJqA](https://youtu.be/aBPWCdaJJqA) |
 | **Skills, traits and beliefs (the ladder)** | Every business is bottlenecked by the entrepreneur in one of three ways: a missing skill, a missing character trait, or a missing belief. The ladder is limited by the lowest rung — theory of constraints, visualised. | [qxQIcDrre1E](https://youtu.be/qxQIcDrre1E) |
 | **Skippable membership** | Members can skip the billing any month, which turns the subscription into a free-to-hold discount club and removes the biggest risk (paying for something you do not want). | [eX3Ch_HuR70](https://youtu.be/eX3Ch_HuR70) |
+| **Slush fund / learning budget** | A set amount you are willing to blow this month on failure, so the money is pre-labelled as education and a failed attempt does not feel like a loss. He credits the advice to Ezra Firestone. | [QbDFCbpmI6w](https://youtu.be/QbDFCbpmI6w) |
 | **Smash and Grab Business** | A media-arbitrage business with no brand: you buy attention cheaply and resell it at a thin margin, which anyone who sees you doing it can copy immediately. | [qsXxckCbci0](https://youtu.be/qsXxckCbci0) |
 | **SME 500** | His coinage for investing in yourself instead of the S&P 500: buying skills returns more than the index, and skills can't be taxed, lost in a divorce or taken by a government. | [m-k0_pQJ1fY](https://youtu.be/m-k0_pQJ1fY) |
+| **Social media is turning into interest media** | The content is the targeting: the algorithm reads what you talk about, what you wear, your background, and serves it to people with a history of watching similar content - so make content for the avatar you want. | [dMZ-n2KSlxE](https://youtu.be/dMZ-n2KSlxE) |
 | **Soft ask (value first)** | Give more than expected, ask for nothing, and let the audience ask you for the transaction later. | [YUXLJauT4eY](https://youtu.be/YUXLJauT4eY) |
 | **Solomon** | His name for his future-self dialogue, conducted in a dated Google Doc. The rationale: future him has completely aligned incentives, all the same information, and better judgement — and the session can be seven minutes… | [M4evdxF5G0s](https://youtu.be/M4evdxF5G0s) |
 | **Solomon frame (85-year-old self)** | Named after the Solomon paradox - people give wiser advice to others than to themselves - he writes a message to his 85-year-old wiser self and asks what he should do, which adds objectivity without sacrificing… | [IFElGv5ZmRM](https://youtu.be/IFElGv5ZmRM) |
@@ -6189,6 +6684,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **solve for zero** | Hormozi's name for Mike's accidental strategy: solve for no time and for profit, and you end up with something that also scales more easily, because you started from the constraint rather than adding it later. | [orMbq2LtzKE](https://youtu.be/orMbq2LtzKE) |
 | **Source** | The highest level of the trade-off ladder: instead of taking the market's price or bidding against it, you set the standard and become the source of the price. | [vhOV_Od0A3M](https://youtu.be/vhOV_Od0A3M) |
 | **Spanish 1 through 5 versus Spanish 6** | The reason alternative-education buyers fail: a teacher who only knows Spanish 6 will sell Spanish 6 to people who never did Spanish 1-5, and conclude the one-in-five who succeed proves the product works. | [6BQ3whjWG3M](https://youtu.be/6BQ3whjWG3M) |
+| **SPCL** | Status, power, credibility, likeness - the four elements that create influence, defined as the likelihood of compliance with a request. Each works alone; stacking all four is what produces the most influence. | [dMZ-n2KSlxE](https://youtu.be/dMZ-n2KSlxE) |
 | **SPCL (status, power, credibility, likeness)** | His four components of influence: status is the number of reinforcers you control; power is say-do correspondence; credibility is third-party proof; likeness is how similar they are to you. He says if he had to pick… | [spXH1kJ6q-Q](https://youtu.be/spXH1kJ6q-Q) |
 | **speak in moments, not processes** | Landing page copy should describe the specific moment the customer experiences the pain or its relief ('no more disaster back bar') rather than naming a process ('functional operating processes'), because every word the… | [n6SHLmKcY0E](https://youtu.be/n6SHLmKcY0E) |
 | **Speed as a weapon** | Buyers use the promise of a fast close as a negotiating lever and then take as long as they want — the seller wants a fast close, the buyer wants a slow one. His rule is to never let speed be used against you; the only… | [pWbSl7d0tEc](https://youtu.be/pWbSl7d0tEc) |
@@ -6203,8 +6699,9 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **start tomorrow (way 1 to stay poor)** | The single most reliable way to stay poor is to begin the thing you want to do tomorrow - the deferral is the failure, not the plan. | [9ySuYdJ0H4s](https://youtu.be/9ySuYdJ0H4s) |
 | **Starter deal with new faces** | With friends, new partners or new counterparties, do a small first deal. Everything can look great on paper and the person can be excellent, and you still cap the downside by starting small. | [rp1PzCxj3eU](https://youtu.be/rp1PzCxj3eU) |
 | **Starving crowd** | The hot dog contest answer: you do not want the best hot dogs, you want to be outside the stadium when the drunk crowd comes out. Find the underserved sub-segment with money. | [4GjwtnA76ig](https://youtu.be/4GjwtnA76ig), [qxQIcDrre1E](https://youtu.be/qxQIcDrre1E) |
-| **State the facts and tell the truth** | One of his most repeated internal phrases. You absolutely make clickbait titles, you just back them up with truth — crazy clickbaity but also happens to be true. Unsubstantiated claims become substantiated claims. | [reisEL_D7xc](https://youtu.be/reisEL_D7xc) |
+| **State the facts and tell the truth** | The number one rule at acquisition.com in marketing - the truth sells the most, but it has to be the whole truth including where you look bad. | [ZTSI3DDP_4A](https://youtu.be/ZTSI3DDP_4A), [reisEL_D7xc](https://youtu.be/reisEL_D7xc) |
 | **State the Facts and Tell the Truth** | His first marketing law: it forces you to change reality rather than exaggerate it — do epic things and tell a truthful story, instead of doing normal things and telling an epic story. | [HxEQCHpZzHk](https://youtu.be/HxEQCHpZzHk) |
+| **Status (as an operational definition)** | Someone who controls reinforcers in a given environment - if you control the good stuff people want, you have status in that environment, and you lose it when you leave the environment. | [dMZ-n2KSlxE](https://youtu.be/dMZ-n2KSlxE) |
 | **Steal From Yourself** | The reuse ratio for all effort: ~70% carbon copy of what already works, ~20% adjacent variation (same hook, different background), ~10% genuinely new. | [HxEQCHpZzHk](https://youtu.be/HxEQCHpZzHk) |
 | **Stepping-stone laddering** | Each enterprise is a stepping stone built on the last: in-shape → personal training clients → gym → multiple gyms → Gym Launch → the Gym Launch sale funded Acquisition.com and the family office. | [aRVv5NLVRwE](https://youtu.be/aRVv5NLVRwE) |
 | **Stepwise growth and de-bottlenecking** | Companies grow in steps — huge growth, plateau, huge growth — and the plateau is a constraint; you de-bottleneck it with a person who has already solved that specific problem, which is why the next level arrives with a… | [_x6n-CmZqjo](https://youtu.be/_x6n-CmZqjo) |
@@ -6253,6 +6750,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Test tube** | New ideas get a small test; if it does not make it out of the test tube it dies, because opportunity cost is what you cannot afford. | [-HJg4TYBgtI](https://youtu.be/-HJg4TYBgtI) |
 | **The $5 million EBITDA threshold** | The line above which institutional investors will look at a business, because reaching it usually implies a real management team that can run without the owner. He frames it as a volume requirement rather than a merit… | [HKbFUWJwEG0](https://youtu.be/HKbFUWJwEG0) |
 | **the $500 million trap** | The pattern Mike fell into and later diagnosed: something bad happens at scale, you hire a wave of experienced people, and entrepreneurship is replaced by process - 'everyone starts saying no'. He went from 85 to 240… | [orMbq2LtzKE](https://youtu.be/orMbq2LtzKE) |
+| **The 'fair enough' close** | Make a concession, then answer with 'fair enough' so the prospect — as a reciprocal human being — finds it hard to deny the request; he credits it to Jordan Belfort and says it is wired into his scripts. | [ETEFhDICm5o](https://youtu.be/ETEFhDICm5o) |
 | **The 'I Am' Statement** | The identity a product confers ('I am a runner / an author / a musician'); build the community around people who share that label and the connection is far deeper. | [IFpHasZ7jN4](https://youtu.be/IFpHasZ7jN4) |
 | **The 10% switch point** | The point at which the attention should move from income to wealth: when 10% growth on your investable assets exceeds what you earn per year. Below that, the primary net worth increaser is still your income. | [CRMT2yubBxc](https://youtu.be/CRMT2yubBxc) |
 | **The 10-out-of-10 talent test (from Schwarzman)** | Before pursuing an opportunity, ask whether you could attract 10 out of 10 people - the best in the world - to it. If you cannot, the opportunity is too small, because big talent only chases big opportunity. | [E732S9fteRc](https://youtu.be/E732S9fteRc) |
@@ -6263,7 +6761,9 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **The 10x question** | Ask what would stop you from 10x-ing the business right now. If the answer is nothing, 10x it. If something would break, isolate that thing, put all focus on fixing it, then do the increase in volume, and repeat into… | [reisEL_D7xc](https://youtu.be/reisEL_D7xc) |
 | **The 10x/50x/100x menu** | Whatever you sell, create a version 10, 50 or 100 times more expensive, then work out what you would have to fulfil to make it worth that price. The exercise also teaches you that people will spend more when they see… | [yEKu6q0W3gs](https://youtu.be/yEKu6q0W3gs) |
 | **The 20% decrement** | Every change to a process, script or leader costs about 20% of performance before any benefit shows up, because the team has to rebuild muscle memory. So an intervention only makes sense if the expected gain,… | [hfwZwPGsbIo](https://youtu.be/hfwZwPGsbIo) |
+| **The 3 Ps** | Promise, proof, path - the three things every high-performing educational intro contains: proof of why to listen to you, the promise of what they will get, and the path showing there is structure and that expectations… | [UGEc9-7X3OQ](https://youtu.be/UGEc9-7X3OQ) |
 | **The 30-day cheat code** | The inversion of normal business: make more money getting a customer than it costs to get them within the first 30 days, instead of spending now and hoping to make it back later. | [nSQdjim8CsE](https://youtu.be/nSQdjim8CsE) |
+| **The 51 to 1 rule** | The video/framing that transposes money against population to show visually how disproportionate the distribution is; cited here as the reason fighting for views fights for the low-spend half of the audience. | [21flGkcZO3A](https://youtu.be/21flGkcZO3A) |
 | **The 7-day trial as the front-end offer (the wild test)** | Position the paid bootcamp itself as a trial of the membership rather than a separate $10 product. Everyone entering the challenge is a member by default and must actively cancel, so front-end conversion goes from 22%… | [j2TZMFkj71Q](https://youtu.be/j2TZMFkj71Q) |
 | **The 80/20 flow-state rule for founders** | On his own work he runs roughly 80/20: when the muse shows up he works past his red line even though he knows he is eating into tomorrow, and when he is foggy he stops early - because for creative work the goal is… | [U_s0ekwPK5g](https://youtu.be/U_s0ekwPK5g) |
 | **The 85-year-old decision framework** | Rather than talking to an 85-year-old, imagine yourself as one and ask him for advice - he wants only your best, gives clear answers, and mostly tells you how few decisions actually matter. | [QQGHCG8d1So](https://youtu.be/QQGHCG8d1So) |
@@ -6272,15 +6772,21 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **The Acquisition.com flywheel** | Free media and courses capture attention; attention converts to contact information (Mosey Minute email list, School communities, books); conversions funnel into the advisory practice; advisory revenue is redeployed… | [hHkdbr6_JJs](https://youtu.be/hHkdbr6_JJs) |
 | **The ad arbitrage** | If a sponsor pays to reach your audience and makes 10:1 or 20:1, then promoting your own congruent product into the same audience keeps that return inside the brand instead of selling it to someone else. | [VPre_XMgKjs](https://youtu.be/VPre_XMgKjs) |
 | **The Advertising Cycle** | The central concept of his unreleased Leads book, which he considers the equivalent of the Value Equation for that book — the unifying model of how attention converts into leads. | [WrCt0R3FBFs](https://youtu.be/WrCt0R3FBFs) |
+| **The agency trap** | The 11-step cycle he quotes from his own book: agency excites you, onboarding feels valuable, best senior rep is assigned, results appear, rep is moved to the newest customer, junior rep takes over, results suffer, you… | [fd-hi3NqMYo](https://youtu.be/fd-hi3NqMYo) |
 | **The agency-education play** | Hire the best agency you can find, tell them you intend to learn everything they do, pay more and for longer to compensate, then pay a consulting period to hand over. | [rc7cxL7ql7Y](https://youtu.be/rc7cxL7ql7Y) |
+| **The AI risk continuum** | Creators sit on a continuum from low risk to high risk of AI disruption based on what is being asked of the consumer - entertainers and B2C educators are disrupted first, B2B creators last, because the stakes of… | [XsWSvz-aewA](https://youtu.be/XsWSvz-aewA) |
+| **The Algorithm (five steps)** | Musk's manufacturing algorithm applied to content: 1 question the requirements, 2 delete, 3 simplify/optimize, 4 accelerate, 5 automate - and only in that order. | [ZTSI3DDP_4A](https://youtu.be/ZTSI3DDP_4A) |
 | **The anti-routine** | Instead of adding things, remove them. The outsized results came from what he stopped doing rather than what he started doing — and once the non-work is removed, all that remains is the work to be done. | [lRyGIzW9d9k](https://youtu.be/lRyGIzW9d9k) |
 | **The apartment-building analogy for equity** | Your business is a building you assembled out of pocket and filled with tenants (customers). The cash flow is the rent; the equity is the building. Refinance it as it appreciates instead of selling it. | [52tcB5FopAg](https://youtu.be/52tcB5FopAg) |
+| **The arms race of lifetime gross profit** | The back end is the weapon: the owner who can make a customer worth more than his competition can outspend everyone for the same eyeballs, including bidding the CPM so high nobody else can bid. | [XwZH-lOKG9c](https://youtu.be/XwZH-lOKG9c) |
 | **The ask is a long pause plus a raised voice** | Combine the two variables to signal it is the prospect's turn: ask them to buy and then stop talking. | [sGakuNs9mT4](https://youtu.be/sGakuNs9mT4) |
+| **The assumed close** | Present the buyer with an either/or choice where both options include buying, so the decision is which one rather than whether — 'the key was I didn't ask her whether she wanted them. I asked her which one she wanted.' | [xy1h4qqF778](https://youtu.be/xy1h4qqF778) |
 | **the Augusta rule** | Lease your personal home to your own business for up to 14 days a year at a fair-market day rate: the payment is tax-free income to you and a deductible business expense for the company. | [AM_-lnyY70M](https://youtu.be/AM_-lnyY70M) |
 | **The back-of-napkin lifetime calculation** | Take the customers you had at the start of the month, count how many of those exact people remain 30 days later (not total customers), that gives churn — then 1 ÷ churn gives average lifespan in intervals. Nothing… | [QGcjweehrvU](https://youtu.be/QGcjweehrvU) |
 | **The banker fee structure** | Upfront fees (more likely to be asked for when the banker thinks the deal is less likely, which you can use as a negotiating point), targets for what they think they can sell for, ratchets above which they take a higher… | [pWbSl7d0tEc](https://youtu.be/pWbSl7d0tEc) |
 | **the barbell strategy** | Concentrate at the two extremes - stocks on one side and real estate on the other, with private equity from the companies you own - and almost nothing in between. | [GkL2KDOf2NM](https://youtu.be/GkL2KDOf2NM) |
 | **The Baton Pass** | Sequential single-point handoff between sales rep → onboarding specialist → account rep, so at any moment the customer has exactly one named point of contact and always knows who they will speak to next. | [afbP6sB_Atc](https://youtu.be/afbP6sB_Atc) |
+| **The belief continuum** | Belief in what you sell is not yes/no but a matter of degree — the question is 'to what extent do you believe' — and the prospect reads that degree off you. | [42SOlVhDwWE](https://youtu.be/42SOlVhDwWE) |
 | **The big four** | Budget, authority, need, timing - the qualification gate before the landing page. | [6Fg4VXjRphQ](https://youtu.be/6Fg4VXjRphQ) |
 | **The Big Four Community Value Drivers** | From the ProfitWell willingness-to-pay survey: (1) access — Q&As, proximity to the expert, (2) exclusive content — courses, trainings, (3) events — in person or virtual, (4) newsletter — regular communication, which… | [IFpHasZ7jN4](https://youtu.be/IFpHasZ7jN4) |
 | **The big hairy problem** | The one problem that gates the next level of the business; it usually requires an entirely different skill set, which is why owners avoid it and start something new instead. | [q9OmYf_IlQ0](https://youtu.be/q9OmYf_IlQ0) |
@@ -6302,6 +6808,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **The Buffett tax-drag benchmark** | On a 10-year horizon you can measure how good someone is at investing by comparing their portfolio value to what their untaxed income would have been - at 9% and a 37% tax rate, $1 million a year gets you exactly back… | [6x3re5-Ms1E](https://youtu.be/6x3re5-Ms1E) |
 | **The business doesn't exist to satisfy your deficiencies** | Businesses get built to solve the founder's insecurity, need for connection, or status hunger — then the founder projects those needs onto the business and breaks it. It only has to provide value to the customer. | [ug5N9qmFVKQ](https://youtu.be/ug5N9qmFVKQ) |
 | **The Business Genie (Three Doors)** | His favourite money game: a genie offers to double exactly one of three things — new customers, price, or number of purchases. Doubling price wins by a wide margin because the additional revenue is pure profit. | [F3NyhOtRpOE](https://youtu.be/F3NyhOtRpOE) |
+| **The business genie exercise** | A money game where the genie can double one variable only - new customers, price, or purchases per customer - used to show price is the biggest lever and that LTV is the better doubling because it also buys acquisition… | [XwZH-lOKG9c](https://youtu.be/XwZH-lOKG9c) |
 | **The business you're really in** | The function that actually drives the economics - not the function you enjoy or the product you sell. | [rj7rzOdj84A](https://youtu.be/rj7rzOdj84A) |
 | **The Buy Nothing Challenge** | Buy literally nothing. Disconnect the credit card from Amazon, leave your wallet at home, buy food at discount grocery stores, pack your lunch. Only gas, insurance, rent and car payment. | [ymFWgFiKUvM](https://youtu.be/ymFWgFiKUvM) |
 | **The buy-your-own-business-fresh thought exercise** | Run your business through an acquirer's eyes: what would I do if I were buying this business fresh from day one today? The answer is usually different from what you are actually doing. | [Fy8XX8EuEnA](https://youtu.be/Fy8XX8EuEnA) |
@@ -6318,6 +6825,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **The Compounding Offer Math** | A better offer multiplies three things at once — more leads, higher conversion, higher price. 2x leads × 2x conversion × 2x price = 8x the business. | [F3NyhOtRpOE](https://youtu.be/F3NyhOtRpOE) |
 | **The concrete wall** | The hard problem as a wall of unknown thickness: you know the payoff on the other side, you do not know how many swings it takes. | [rj7rzOdj84A](https://youtu.be/rj7rzOdj84A) |
 | **the constraint of the business** | The one thing limiting growth; if you do not know what it is, automating more output does not make you more money. | [WttZ6b-KUP4](https://youtu.be/WttZ6b-KUP4) |
+| **The content is the container** | Production values are the container and the substance inside is what matters; if you do not have the substance, focus on the substance - quality comes from there and volume is how much of it you put out. | [ZTSI3DDP_4A](https://youtu.be/ZTSI3DDP_4A) |
 | **The content is the input; the audience is the output** | The belief shift that let him start publishing: individual posts are consumables, the audience is the asset that compounds. Content is what you spend; audience is what you accumulate. | [6DCDGSnRDtM](https://youtu.be/6DCDGSnRDtM) |
 | **The continuum of learners** | A fool never learns from their mistakes, a dumb person learns eventually, a smart person learns one lesson, a very smart person learns multiple lessons, a wise man learns from the mistakes of others, and the wisest man… | [SasEJE4FI-I](https://youtu.be/SasEJE4FI-I) |
 | **The core four** | There are only four ways to let people know about your stuff, from one-to-one versus one-to-many crossed with people who know you versus strangers: warm outreach, cold outreach, content, and paid ads. | [reisEL_D7xc](https://youtu.be/reisEL_D7xc) |
@@ -6348,6 +6856,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **The five directions to move a market** | From your current position you can go up market (franchisers instead of single gyms), down market (trainers instead of gyms), adjacent (chiropractors instead of gyms), broader (health and wellness), or narrower (spin… | [hnmBXTyMFKI](https://youtu.be/hnmBXTyMFKI) |
 | **The Five Levels of Awareness** | Eugene Schwartz's ladder from Breakthrough Advertising — unaware, problem aware, solution aware, product aware, most aware — which dictates what kind of ad a person can be reached with. | [HxEQCHpZzHk](https://youtu.be/HxEQCHpZzHk) |
 | **The five levers on the multiple** | Debt capacity (a function of cash flow), organic growth (marketing, sales, pricing — plus inorganic growth by acquisition), categorization (tech-enabled service and SaaS multiples beat traditional service), size premium… | [fD-sxKiB30M](https://youtu.be/fD-sxKiB30M) |
+| **The five phases of content marketing** | 1 make something and post it; 2 post consistently on a cadence; 3 post reliably on all platforms; 4 maximise how much every platform can take; 5 go from creating to capturing and creating. | [MD5-HByRxoA](https://youtu.be/MD5-HByRxoA) |
 | **the five stages of a new opportunity** | Uninformed optimism, then informed pessimism, then the valley of despair, then informed optimism, then achievement - and you want to move through the first stage as fast as possible. | [VBoRLJimVzc](https://youtu.be/VBoRLJimVzc) |
 | **the five to five model** | Raise the price 20% after every five units sold, repeatedly, until people stop buying; then pick the price by gross profit times conversion rate. | [AN2KpRBsmRY](https://youtu.be/AN2KpRBsmRY) |
 | **The five upsell windows and the open loop** | After a sale there are five moments to ascend a customer: immediately (24 hours), at first value, at the halfway point, at a milestone, and at the last chance — where most businesses mistakenly put all their attempts.… | [QTZsh3BgOwY](https://youtu.be/QTZsh3BgOwY) |
@@ -6360,6 +6869,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **The four C's of leverage** | Collaboration (other people), capital (other people's money), code (software) and content or media - all multipliers on your time, and the top two replicate at near-zero cost. | [QQGHCG8d1So](https://youtu.be/QQGHCG8d1So) |
 | **The four C's of leverage (credited to Naval)** | Labour (requires permission), capital (requires permission), code (permissionless), and content/media (permissionless). The fortunes are being built in the two permissionless rungs; the biggest operators stack all four. | [qxQIcDrre1E](https://youtu.be/qxQIcDrre1E) |
 | **The four components of equity** | Ownership bundles risk, control, profit and sale proceeds. If you only want to reward someone for performance, give them the profit component as a bonus — not ownership — so you keep control and the ability to revoke. | [-Koq14DPXC4](https://youtu.be/-Koq14DPXC4) |
+| **The four downsell cards (fitness example)** | The levers you trade: (1) term — how long they commit; (2) testimonial; (3) reviews; (4) bring a friend — plus adding bonuses to the original package; he prefers asking them to do more over removing bonuses. | [gza5RtQCVsA](https://youtu.be/gza5RtQCVsA) |
 | **The Four Elements of Mental Toughness** | A measurable definition of mental toughness: (1) how much bad can happen before it changes how you live, (2) how little your behaviour changes when it does, (3) how fast you rebound (resiliency), (4) whether you rebound… | [YONIUpk-kAs](https://youtu.be/YONIUpk-kAs) |
 | **The four filters for a billionaire-scale opportunity** | He will not pursue an opportunity that is (1) limited by his time, (2) cannot serve a very big marketplace, (3) does not have very high gross margin, or (4) cannot run on a very long time horizon. | [LMlbWtUFa4E](https://youtu.be/LMlbWtUFa4E) |
 | **The four frameworks (scale entrepreneur, market, deliverable, business)** | The appraisal lens he applies when investing in or scaling a company: entrepreneur level × market × scalability of deliverable × business acumen. | [qxQIcDrre1E](https://youtu.be/qxQIcDrre1E) |
@@ -6382,18 +6892,22 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **The four types of leverage (from Naval's Almanack)** | Labor (others do the work for you), capital (money invested on your behalf), code/software (write once, used by millions), and media (record once, seen by millions). The last two are the permissionless ones. | [6DCDGSnRDtM](https://youtu.be/6DCDGSnRDtM) |
 | **The Four Types of Leverage (the C's)** | Naval Ravikant's four leverage types, renamed by Hormozi so they all start with C: Collaboration (other people working for you), Capital (other people's money invested on their behalf), Code (software built once, used… | [Nh8Oc7ERdIU](https://youtu.be/Nh8Oc7ERdIU) |
 | **The four versions (V1-V4) of getting rich** | V1 income only; V2 income plus passive public-equity investing; V3 income plus private equity (own the business and sell it on a multiple); V4 income plus one of three sub-strategies that produce liquidity without… | [6x3re5-Ms1E](https://youtu.be/6x3re5-Ms1E) |
+| **The four ways to monetize an audience** | Affiliates (paid after you make sales), sponsorships/endorsements (paid first to advertise on behalf of the business), partnerships (go into a business that already has a product and infrastructure for equity), and… | [oRqnTOT9ZG8](https://youtu.be/oRqnTOT9ZG8) |
 | **The four-hour block on the constraint** | Whatever the biggest problem in the business is, the first four hours of the day go on it — advertising, sales practice, scheduling, shows — until it is solved, then the four hours move to the next constraint. He says… | [h6y0nYVZgwE](https://youtu.be/h6y0nYVZgwE) |
 | **The four-step problem framework** | Write down: (1) the condition or goal - current versus desired, (2) the action, explicitly framed as a hypothesis tied to an expected effect, (3) whether you actually did it (before and after), and (4) whether the… | [zNiXk_3C_Io](https://youtu.be/zNiXk_3C_Io) |
 | **The Fourth C: Conviction** | The four C's people charge for in education are coaching, courses, community and code (tools) — and community specifically builds the conviction beginners need, because making your first dollar is mostly about getting… | [IFpHasZ7jN4](https://youtu.be/IFpHasZ7jN4) |
+| **The framework for making frameworks** | If you have to do something repeatedly, drink in a ton of data - collect everything that happened in each instance - then delete to the few things they all have in common, and finally name it so it is easy to remember… | [UGEc9-7X3OQ](https://youtu.be/UGEc9-7X3OQ) |
 | **The Free Giveaway Playbook** | Five steps for lead generation: (1) look at what others charge for it, (2) look at your hard cost to deliver it, (3) give it away free, (4) see how many leads you get, (5) see how many convert — and ideally make it… | [FMzKk73iUhw](https://youtu.be/FMzKk73iUhw) |
 | **The friend test (increase or decrease the probability of failure)** | Look at each person and ask: does this person increase or decrease the possibility of failure with my goal? There is no in between — if the answer is decrease, get rid of them. | [oys_fv25SYM](https://youtu.be/oys_fv25SYM) |
 | **The friendly goodbye (Planet Fitness retention model)** | Make the exit frictionless and warm rather than punitive, because the market is finite and you will cycle through the entire town repeatedly. A 'you can never come back' rule does nothing for communities with weak… | [TooAB8Ow6cQ](https://youtu.be/TooAB8Ow6cQ) |
 | **The ghost thumb** | The phantom reflex to reach for a deleted app — his term for how physically addicted the phone habit is, which is why the removal has to be physical rather than a matter of willpower. | [lRyGIzW9d9k](https://youtu.be/lRyGIzW9d9k) |
 | **the gift card strategy** | Sell a full unit of service as a gift card at a deep discount, limited to two per person, to pull cash forward and get new people through the door - people give you money for nothing if they do not redeem. | [mHrAjWni65E](https://youtu.be/mHrAjWni65E) |
+| **The give-ask ratio for content and ads** | Organic content should be all give with the CTA in the description and link in bio; the ads are the ask. The 3-to-1 ratio still exists across the whole feed - three pieces of content then an ad. | [MD5-HByRxoA](https://youtu.be/MD5-HByRxoA) |
 | **The gleaming mountain of success** | The accumulated value of many iterations, which is really a pile of garbage and mistakes you are standing on rather than lying under - 100 golden BBs, no silver bullets. | [jvXOOddDg_s](https://youtu.be/jvXOOddDg_s) |
 | **The goal razor** | One test for every action, belief and person: does this make it more or less likely that I hit my goals? | [6KqndZuN_Yk](https://youtu.be/6KqndZuN_Yk) |
 | **The god of marketing question** | If you could only get new customers from existing customers bringing them, how different would your customer experience look? Then change that now and they will come. | [neTSqOAMgao](https://youtu.be/neTSqOAMgao) |
 | **The golden path / activation point** | Find the cohort behaviour that predicts retention with a regression, then point every resource at that activation point and nothing else. | [rc7cxL7ql7Y](https://youtu.be/rc7cxL7ql7Y) |
+| **The golden ratio (referrals)** | The referral growth condition: the percentage of customers who refer must exceed the percentage who leave; if it holds the business grows with nothing else. | [XwZH-lOKG9c](https://youtu.be/XwZH-lOKG9c) |
 | **The Golden Ratio in Business** | The ratio of the percentage of customers who refer to the percentage who churn — it tells you the passive growth rate of any business, whether physical products, software or services. | [IFpHasZ7jN4](https://youtu.be/IFpHasZ7jN4) |
 | **the grand slam offer ladder** | His quoted progression from the Offers book: no offer, no business, no life; bad offer, negative profit; decent offer, no profit, stagnating business; good offer, some profit, okay business; grand slam offer, fantastic… | [n6SHLmKcY0E](https://youtu.be/n6SHLmKcY0E) |
 | **The grass is greener because no one sees what it's fertilized with** | Every business has overhead and inherent features; switching businesses only swaps one set of unavoidable problems for another. | [q9OmYf_IlQ0](https://youtu.be/q9OmYf_IlQ0) |
@@ -6434,6 +6948,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **The megaphone / lead mechanism** | Radio was never the product - it was the free attention-gathering mechanism that fed publishing, events and FPU. | [jvXOOddDg_s](https://youtu.be/jvXOOddDg_s) |
 | **The middle path (Buddha)** | You have to achieve mastery over a thing before you can give it away — you cannot walk the middle path without having had the extreme first. | [ug5N9qmFVKQ](https://youtu.be/ug5N9qmFVKQ) |
 | **The Mona Lisa (masterpiece business)** | His metaphor for the finished asset — a painting assembled from ten pieces, where each missing piece is a visible imperfection and each piece added is a corner of the picture filled in. The claim is that the end result… | [HKbFUWJwEG0](https://youtu.be/HKbFUWJwEG0) |
+| **The monetization continuum** | The four options sit on a continuum of difficulty, risk and value: affiliates are fastest and lowest risk but low exit value; sponsorships are harder to get and mostly not exit valuable unless you are a true media… | [oRqnTOT9ZG8](https://youtu.be/oRqnTOT9ZG8) |
 | **The money does not exist** | Once money goes into the index it is treated as gone. If you need cash you earn more, you do not withdraw - the rule that protects the compounding. | [a0hUVFYzv3k](https://youtu.be/a0hUVFYzv3k) |
 | **The Money Ladder** | The order in which people get paid when money flows - whoever is paid earliest has the most control and makes the most money. Rungs bottom to top: employee (fronts labour, paid 2-4 weeks later), self-employed (fronts or… | [ZZZNsDs2G_s](https://youtu.be/ZZZNsDs2G_s) |
 | **The money path** | A single green-drawn path through the business that everything is pointed at - one monetization vehicle instead of three. | [6Fg4VXjRphQ](https://youtu.be/6Fg4VXjRphQ) |
@@ -6465,6 +6980,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **The partner timer** | Train with a partner and the other person's set becomes your rest interval, so you rest less than with a phone timer. | [ABOd589OyTM](https://youtu.be/ABOd589OyTM) |
 | **the path not taken** | Hormozi's counterfactual on CustomMade: had it stayed bootstrapped on the original model, it could have been a very profitable business instead of an $18M-funded failure - the growth from $35,000/year to $60,000/month… | [orMbq2LtzKE](https://youtu.be/orMbq2LtzKE) |
 | **The PE 100-day plan (align incentives, pick two to three KPIs, track excess cash flow)** | Acquirers create a 100-day plan to align management's economic interest with the fund's, choose two to three KPIs and track them meticulously, then run only two to three small task forces against big domino objectives.… | [Fy8XX8EuEnA](https://youtu.be/Fy8XX8EuEnA) |
+| **The person who cares the most about the buyer wins the sale** | Every sale is made — either they sell you or you sell them — and the seller is the one who cares more about the buyer's interests than the buyer does; you have to come to the call believing you care more about them than… | [iwskrByMIqo](https://youtu.be/iwskrByMIqo) |
 | **The person who speaks the most loses** | Because people believe what they themselves say and very little of what you say, the sale is won in your ears, not your mouth — which is only possible if you know the script cold. | [sGakuNs9mT4](https://youtu.be/sGakuNs9mT4) |
 | **the persuasion lever** | The third lever: how good you are at marketing and selling - important, but the one you should work on last because the two levers above it dominate. | [4XWlHPyAico](https://youtu.be/4XWlHPyAico) |
 | **The pie visual (why your slice is tiny)** | People picture the market as a pie and competitors as slices taken from them. In reality their slice is one platform, one medium, one format - so small you can barely see it against all platforms, all ad formats, and… | [hnmBXTyMFKI](https://youtu.be/hnmBXTyMFKI) |
@@ -6501,6 +7017,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **The six problems (horsemen) of a stalled business** | Serve too many avatars, underpriced, overcompensation, overextension (the woman in the red dress), growing for growth's sake (multiple locations or businesses), and no data. Each has a specific fix and they rarely show… | [QTZsh3BgOwY](https://youtu.be/QTZsh3BgOwY) |
 | **The six steps** | The ordered plan he gives employees: (1) save $1,000-$5,000; (2) pay off all non-mortgage debt smallest to largest; (3) build 3-6 months of living expenses in cash; (4) fix housing and transport - cash car, downgrade or… | [a0hUVFYzv3k](https://youtu.be/a0hUVFYzv3k) |
 | **The six things you can sell** | Products, services, access, media, risk, money — each with a physical and a digital version. He challenges the audience to find a seventh base chunk. | [qxQIcDrre1E](https://youtu.be/qxQIcDrre1E) |
+| **The six-month learning engagement script** | The exact talk-track he uses with a premium agency: 'gather round, I want to do what you do in my business but I don't know how, I'd like to work with you for six months so I can learn how you do it, plus I'll pay extra… | [fd-hi3NqMYo](https://youtu.be/fd-hi3NqMYo) |
 | **The six-month litmus test** | Put someone else in charge and leave: over six months the company must grow — not just maintain — in both top line and profit, unless a deliberate capital investment explains otherwise. That is his test of ownership. | [V7oUcAfof34](https://youtu.be/V7oUcAfof34) |
 | **The skill purchase order** | Buy skills in the order you would use them: something to sell, then promotion/advertising, then conversion/sales, then leadership and operations — the same order as his books (Offers answers what do I sell, Leads… | [aBPWCdaJJqA](https://youtu.be/aBPWCdaJJqA) |
 | **The slowest path is fooling yourself that you are good** | Everyone is in a rush, and the rush is what makes it take longest - pretending to be good at something you are not means you never fix the thing that is failing. | [VgEvIIpDYG8](https://youtu.be/VgEvIIpDYG8) |
@@ -6518,6 +7035,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **The Third Marshmallow Fallacy** | The error of assuming delayed gratification is always optimal — if you delay forever you work your whole life and never consume. Once you can delay, you must learn the harder skill of knowing when to reap. | [YONIUpk-kAs](https://youtu.be/YONIUpk-kAs) |
 | **The three benefits of documenting publicly** | One: you crystallise the lesson for yourself (telling the story makes it stick). Two: you become accountable to the lesson in front of an audience. Three: you make money from it because people who share your values… | [SasEJE4FI-I](https://youtu.be/SasEJE4FI-I) |
 | **The three conversion steps** | Within conversion there are three separate jobs: get them to schedule, get them to show, and get them to close. Whichever one is below benchmark is where the four hours go. | [h6y0nYVZgwE](https://youtu.be/h6y0nYVZgwE) |
+| **The three elements of brand** | Strength of influence (what percentage of people does it change behaviour for), directionality (towards you or away), and reach (how many people hold the association at all). Publicity increases only reach. | [UGEc9-7X3OQ](https://youtu.be/UGEc9-7X3OQ) |
 | **The three employee questions** | What do you do (until it is a concrete activity, not an amorphous term)? Do you know what I do / what we do as a business? How does what you do help what we do? The third answer is what ties inputs to outputs. | [4Yz8ggEv0NU](https://youtu.be/4Yz8ggEv0NU) |
 | **The three fallacies of Warren Buffett** | The reasons 'I'll just do what Buffett did' fails: (1) he bought his first stock at seven, weeks after Pearl Harbor; (2) he invested through the greatest growth period in American history; (3) luck - the top of the top… | [6x3re5-Ms1E](https://youtu.be/6x3re5-Ms1E) |
 | **The three levels of brand association** | What you say or show (advertising, most controllable), what other people say (referrals, less controllable), and what the customer experiences (heaviest weighted). | [KhFlD54nQrY](https://youtu.be/KhFlD54nQrY) |
@@ -6530,12 +7048,17 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **The three things that grow company value** | Sell more clients, make them worth more, or decrease risk - everything else is noise. The diagnostic question is 'why do we not have 10 times more customers' or 'why are we not making 10 times more money'. | [U_s0ekwPK5g](https://youtu.be/U_s0ekwPK5g) |
 | **the three types of lead magnets** | Either you reveal a problem, give a sample of a solution, or give one step of a multi-step process - and the lead magnet's job is to demonstrate authority with something the prospect did not know they should know. | [n6SHLmKcY0E](https://youtu.be/n6SHLmKcY0E) |
 | **The Three Veins of a Business** | Product, promotion and people — a partnership needs each function represented, and you want a partner obsessed with a different vein than yours, not the same one. | [IFpHasZ7jN4](https://youtu.be/IFpHasZ7jN4) |
+| **The three-level evidence ladder** | The descending versions of proof: I helped people just like you do this; I did this thing you also want to do; I did this work you are not willing to do and here is the result of that work. | [lEIqyLE4iOY](https://youtu.be/lEIqyLE4iOY) |
 | **The three-to-five podcast slot** | People only listen to three to five podcasts, so being in someone's ear competes against three others rather than the hundreds or thousands of accounts competing for their Instagram scroll. | [wR8KoE8u1p0](https://youtu.be/wR8KoE8u1p0) |
 | **The to-don't list** | Instead of a to-do list, keep a to-don't list: elimination is where the growth comes from once the inputs are clear. He attributes the speed of his businesses to avoiding work that does not matter. | [h6y0nYVZgwE](https://youtu.be/h6y0nYVZgwE) |
 | **the Trojan horse (influencer recipe play)** | Rather than pitching influencers, they asked to include the influencer's recipe in every box - which got a reply, and every reply became an opening to talk about the business. | [orMbq2LtzKE](https://youtu.be/orMbq2LtzKE) |
+| **The trust economy** | The show-me times rather than the tell-me times: demonstrate expertise across varied conditions and avatars, because proof is what converts. | [ZTSI3DDP_4A](https://youtu.be/ZTSI3DDP_4A) |
+| **The tweet is the home base** | Tweets are the highest-leverage input: he tweets an idea in two seconds, the team pulls up tweets to generate long form, tweets become Reels, and the same tweet is spoken aloud as a video - one source feeding every… | [UGEc9-7X3OQ](https://youtu.be/UGEc9-7X3OQ) |
 | **The two kinds of session** | Sessions either try to kill you or they are social; both count, and the social ones are what make the habit survivable. | [ABOd589OyTM](https://youtu.be/ABOd589OyTM) |
 | **the two levels of wealth** | Level one is having all personal needs covered; level two is using money to make more money, which is where the game changes from solving needs to playing an infinite game. | [VBoRLJimVzc](https://youtu.be/VBoRLJimVzc) |
 | **The two magic questions (feature ranking)** | Ask every customer: (1) if I eliminated everything in the feature set except one thing, what would it be — this produces a power ranking of what matters most; (2) the inverse: if I eliminated one thing and it changed… | [H_ZLs1-jOKQ](https://youtu.be/H_ZLs1-jOKQ) |
+| **The two rules of volume** | Rule one: there is no such thing as too long, only too boring. Rule two: quality over quantity, but quality quantity wins over quality - and knowing what quality is takes reps, so you start by sucking and get better. | [MD5-HByRxoA](https://youtu.be/MD5-HByRxoA) |
+| **The two stay-or-go decision points** | In a recurring business customers decide whether they will stay at two points: between the sale and when they start receiving the thing, and during the onboarding/implementation period. | [hnfh2jqNVEQ](https://youtu.be/hnfh2jqNVEQ) |
 | **The Two Upsells That Work Anywhere** | On the back of any purchase, sell more of that thing just bought, or more help with that thing just bought. | [afbP6sB_Atc](https://youtu.be/afbP6sB_Atc) |
 | **The two-sided funnel** | You need a funnel for customers and a second funnel for talent. The speed of scaling correlates with the speed of talent recruitment, which is why the biggest firms pull from the same schools and have a training… | [aBPWCdaJJqA](https://youtu.be/aBPWCdaJJqA) |
 | **The UGC loop (decentralized content machine)** | Incentivize customers to post montages of their trips inside the community (unlocking a held-back checklist or extra training in exchange), then blast 20-30 of those videos a week, find the winners and put spend behind… | [MH-IMJxbUY4](https://youtu.be/MH-IMJxbUY4) |
@@ -6550,6 +7073,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **The Value Equation (applied to onboarding)** | Four variables — dream outcome, perceived likelihood of achievement, time delay, and effort & sacrifice. Over-delivering before you ask for money raises perceived likelihood of achievement, which is why service quality… | [afbP6sB_Atc](https://youtu.be/afbP6sB_Atc) |
 | **The value of the coach is the delta** | Ask what the players would do with no coach, then what they would do with the best coach — the difference between those two outcomes is the value of the coach, and the same delta across an organisation is the CEO's… | [PTgGfV8Tf00](https://youtu.be/PTgGfV8Tf00) |
 | **The value-driven vs price-driven decision** | A weak offer makes the prospect compare prices and take the cheaper one; a strong offer makes the decision about wanting the thing regardless of price. | [4GjwtnA76ig](https://youtu.be/4GjwtnA76ig) |
+| **The vein of high LTV customers** | Parsing a company's data to find the buckets of most valuable customers, then expanding and focusing on that vein - what Vista does in diligence, and what he copied at Gym Launch. | [hnfh2jqNVEQ](https://youtu.be/hnfh2jqNVEQ) |
 | **The video game model of entrepreneurship** | You only move fast through the levels you have already died on: you remember the potholes, where the ammo is and where the dragon's sweet spot is. Documenting is what turns a level into one you can skip; without it you… | [SasEJE4FI-I](https://youtu.be/SasEJE4FI-I) |
 | **The virtuous cycle of price** | Raise price → higher emotional investment → higher perceived value → better results → less demanding clients → more profit → more reinvestment in value. The vicious cycle runs the same loop in reverse. | [4GjwtnA76ig](https://youtu.be/4GjwtnA76ig) |
 | **the virtuous cycle of price and services** | Higher price gives higher gross margin, which buys better talent, which delivers better service, which builds reputation, which drives demand, which drives price again. | [ZuJryiwxjDw](https://youtu.be/ZuJryiwxjDw) |
@@ -6565,6 +7089,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **The word-of-mouth test (the sixth delivery question)** | If marketing were banned and the only way to get a new customer was a referral, how different would the client experience look? | [qxQIcDrre1E](https://youtu.be/qxQIcDrre1E) |
 | **The Work Fund (starter emergency fund)** | A first savings target of $1,000-$5,000, because the reason people miss savings goals is that something always happens. You can't predict WHICH unexpected expense, only that there will be one. | [ymFWgFiKUvM](https://youtu.be/ymFWgFiKUvM) |
 | **The work works on you** | His paraphrase of a proverb ('in all work there is profit'): you always benefit from work. The related framing he used while growing businesses — either the business grows or I grow or both, one of them is always… | [M4evdxF5G0s](https://youtu.be/M4evdxF5G0s) |
+| **The works on you more than you work on it** | Doing the content is a long play that changes the maker; it takes a long time to be good because you must get good at doing it AND people do not care about you until you have done something. | [eVY4Zo-hpqU](https://youtu.be/eVY4Zo-hpqU) |
 | **The Y Combinator filter: pick a niche you have experience in** | Most people pick a niche they know nothing about, then try to sell how to do it. New businesses are rarely new - they are slight iterations on old things, so past experience in the space is the actual edge. | [VgEvIIpDYG8](https://youtu.be/VgEvIIpDYG8) |
 | **Theory of constraint** | A system grows only up to its bottleneck and stops there until the constraint is relieved. Limiting beliefs are constraints too - in his case, nine or ten businesses splitting his attention was the constraint. | [Xb9ZOA6zypU](https://youtu.be/Xb9ZOA6zypU) |
 | **Theory of constraints** | The single thesis acquisition.com invests under: a system grows until it is constrained and then grows no further. Find the constraint and attack it with all resources until the next constraint appears. | [BO_59sGxztY](https://youtu.be/BO_59sGxztY), [U_s0ekwPK5g](https://youtu.be/U_s0ekwPK5g) |
@@ -6575,6 +7100,9 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Thinking in increments** | The size of the goal matters less than the unit you measure in - a six-figure goal caps you and gets measured in tiny units, while a $10 million goal forces you into units (deals, calls, ad spend) that actually scale. | [LMlbWtUFa4E](https://youtu.be/LMlbWtUFa4E) |
 | **Thinking in today's dollars vs future dollars** | Every retirement number is wrong because it ignores inflation. $1 million at 67 is $170,000 of purchasing power, and a $4 million goal is really a $24 million goal - so the target has to be set in future dollars, then… | [6BQ3whjWG3M](https://youtu.be/6BQ3whjWG3M) |
 | **this is just how we've always done it** | His universal answer when a customer questions a small process change (like handing over a card): appeal to policy rather than justify it. He discovered it accidentally and reports nobody objected after he started using… | [sBJppqCeFGI](https://youtu.be/sBJppqCeFGI) |
+| **This is my two cents** | Replace declarative statements with first-person experience framing - 'this is how I see the world and what I have experienced' - because it cannot be contradicted and the intention reads as pure. | [eVY4Zo-hpqU](https://youtu.be/eVY4Zo-hpqU) |
+| **Three and three** | Vista's stated acquisition target: triple the money in three years. | [hnfh2jqNVEQ](https://youtu.be/hnfh2jqNVEQ) |
+| **Three breaking points of professional development** | What an entrepreneur must acquire at each level, in order: (1) skills — far more of them than you think; (2) the character traits to execute the skills — patience, endurance, discipline; (3) beliefs — about the market… | [iwskrByMIqo](https://youtu.be/iwskrByMIqo) |
 | **Three legs of the stool** | Every business needs three functional leaders - acquisition, delivery and operations - and the operations head is a vendor to the other two and should never make the big decisions. | [oRMG_HpOAN4](https://youtu.be/oRMG_HpOAN4) |
 | **Three money sucks** | The three things that eat a business's time without driving money: projects that don't drive the main objectives (reorgs, website redesigns), too much time in meetings, and data that doesn't change what you do. | [4Yz8ggEv0NU](https://youtu.be/4Yz8ggEv0NU) |
 | **Three options when demand exceeds fixed supply** | Raise prices; increase the service ratio (one-on-one to one-on-five or one-on-ten, or 20 clients to 40 clients with the same four people); or process and people so somebody else does the work. Only the third actually… | [sjt5G3YPjmY](https://youtu.be/sjt5G3YPjmY) |
@@ -6601,6 +7129,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Trade-offs have price tags** | Every good thing has a price you either pay or don't - privacy is the price of fame, loneliness the price of ambition, pleasure the price of discipline, novelty the price of loyalty, discretion the price of trust. You… | [oDK4g5na4Jw](https://youtu.be/oDK4g5na4Jw) |
 | **trading up** | Start by selling someone else's stuff, then learn to buy cheap and flip - cards, then furniture, then homes - and keep trading into bigger inventory. | [YFA8AS5Cu2w](https://youtu.be/YFA8AS5Cu2w) |
 | **Traits are buckets of skills** | Words like 'charismatic' or 'patient' are shorthand for a group of smaller, learnable skills that language compresses to save time. Because they are buckets of skills, they can be taught — which is why he rejects the… | [MNll1BaskLA](https://youtu.be/MNll1BaskLA) |
+| **Transference of conviction** | Sales is moving belief from one person to another: one person believes, one does not, and trust completes the transfer — a rep with no conviction has no baseline to transfer. | [bHnVItVGJPA](https://youtu.be/bHnVItVGJPA) |
 | **Translating money into time** | Convert every fixed cost into working days. A $600/month lease at $100/day is 6 of your 22 working days; add $1,200 rent and 18 of 22 days are gone before you keep anything. | [ymFWgFiKUvM](https://youtu.be/ymFWgFiKUvM) |
 | **trauma as a permanent change in behavior from an aversive stimulus** | Reframing hardship: by that definition, avoiding a hot stove is trauma too, so the question is not whether the event changed you but whether the change is useful. | [aFoMYz_jWcs](https://youtu.be/aFoMYz_jWcs) |
 | **Trauma is a label you choose** | The same facts get called trauma in one culture and normal life in another, so the event is not what makes it traumatic — the meaning assigned to it is. If you can control what you deem meaningful, you shift the odds in… | [j536U19iTwk](https://youtu.be/j536U19iTwk) |
@@ -6618,6 +7147,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Trust is worth more than a bigger return** | Trust lubricates deal velocity and compounds, so do not take all the meat on the bone — leave room for the long-term relationship. How a person talks about their existing partners tells you how they will do business… | [rp1PzCxj3eU](https://youtu.be/rp1PzCxj3eU) |
 | **TTV (time to value)** | The gap between purchase and the customer's first tangible result. He says every portfolio company is assessed on whether delivery can be done faster. | [5MHQr-Z17Hc](https://youtu.be/5MHQr-Z17Hc) |
 | **Turn off the news (the 'what would I do differently' test)** | Ask what you would do differently if the news you are consuming came true. If the answer is nothing, the news is not providing value. | [Fy8XX8EuEnA](https://youtu.be/Fy8XX8EuEnA) |
+| **Tweets are the home base** | Everything is multiplied from the tweets: the tweets that perform become Instagram reels, the reels are read to camera as clips, 20 clips are strung together into a YouTube video, and captions are drawn from other… | [lEIqyLE4iOY](https://youtu.be/lEIqyLE4iOY) |
 | **Two ad categories (brand + UGC)** | Every business should run two very different kinds of ads - produced brand creative and native-looking user-generated content. | [HwPXctiw_rY](https://youtu.be/HwPXctiw_rY) |
 | **Two customers when you raise capital** | With outside money you serve both the end customer and the investors, 'two masters, which can often times be at odds' - and you dilute your own equity and can be voted out. | [sL16tsGafcQ](https://youtu.be/sL16tsGafcQ) |
 | **Two Frames for Hard Decisions** | Before reacting, ask (1) what do I want to have happen and (2) what increases the odds of that happening — the gut counter-punch is usually antithetical to both. | [YONIUpk-kAs](https://youtu.be/YONIUpk-kAs) |
@@ -6640,6 +7170,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **unique, expensive, sticky, air** | The four properties he wants in every product: no one else can sell it, it makes more money per unit, people keep buying it, and it costs almost nothing to deliver. | [AN2KpRBsmRY](https://youtu.be/AN2KpRBsmRY) |
 | **Unknown Unknowns (vs Known Limits)** | The expensive limits are the ones you cannot even articulate — the options you never knew existed. Known limits ('I can't do it because of X') are the cheap ones, because you can already explain them. | [Nh8Oc7ERdIU](https://youtu.be/Nh8Oc7ERdIU) |
 | **Unscalable beginnings** | High-ticket, time-selling work you do early (like one $4,000/month PT client) that funds the asset build, as long as it stays out of the core model. | [unshZobTt6Q](https://youtu.be/unshZobTt6Q) |
+| **Upsell selection rule (the next natural purchase)** | Find the upsell by asking what the customer normally has to buy next on their journey as a result of the decision they just made (for fitness: clothing, shoes, apps, food prep, supplements), then weave it into the sales… | [xy1h4qqF778](https://youtu.be/xy1h4qqF778) |
 | **Upsell vs cross-sell** | An upsell is the same category of stuff, bigger or better (20oz soda to 32oz soda; Honda to Lexus). A cross-sell is an adjacent need (a burger with the Coke) and is often where the majority of profit happens. | [Q2VUuUGfpNY](https://youtu.be/Q2VUuUGfpNY) |
 | **Us versus them (and us versus the alternative)** | Position against the incumbent when you are the underdog; if you are the leader, use 'us versus the alternative' (e.g. us versus your couch) instead of naming a competitor. | [HwPXctiw_rY](https://youtu.be/HwPXctiw_rY) |
 | **Use what you have** | You do not get to use the circumstances, connections, money, passion or purpose you wish you had. You use what you actually have — which may be anger, shame or pain — and it is enough to take the next step. | [oys_fv25SYM](https://youtu.be/oys_fv25SYM), [H_ZLs1-jOKQ](https://youtu.be/H_ZLs1-jOKQ), [vhOV_Od0A3M](https://youtu.be/vhOV_Od0A3M) |
@@ -6661,6 +7192,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Van Westendorp four pricing questions** | Too expensive to consider, so cheap it can't work, expensive but you'd still buy, and a great deal - the four anchors for pricing anything. | [HwPXctiw_rY](https://youtu.be/HwPXctiw_rY) |
 | **Variable compensation** | The structure the highest earners have: tie pay to the revenue or results you are directly responsible for, so your compensation moves with the business's production. | [-Pz0NpcILOY](https://youtu.be/-Pz0NpcILOY) |
 | **Veblen good** | A good whose perceived value rises with its price - common in luxury - which is why raising price on high-end buyers can leave conversion unchanged. | [SmiOK8Yun4s](https://youtu.be/SmiOK8Yun4s), [OQf2Ba-Lp_4](https://youtu.be/OQf2Ba-Lp_4) |
+| **Vertical value** | Going broad while still delivering value at every level - content the beginner and the $100 million operator can both use - as opposed to content only useful above a revenue threshold. | [21flGkcZO3A](https://youtu.be/21flGkcZO3A) |
 | **Veteran frame** | If the bad thing happened a thousand times in a row, how would you feel the thousandth time? If it would no longer bother you then, being bothered now is a choice. | [IFElGv5ZmRM](https://youtu.be/IFElGv5ZmRM) |
 | **Victim to Victor** | The first thing required to become wealthy is to decide to become wealthy and to decide it is under your control — you have to be the most powerful person in your life around money. | [ymFWgFiKUvM](https://youtu.be/ymFWgFiKUvM) |
 | **Virgin Territory** | What he calls the stage after you have replayed all the levels you know: hiring a CFO, doing transactions, taking on debt responsibly, scaling a new acquisition channel, building career paths — the questions you have no… | [SasEJE4FI-I](https://youtu.be/SasEJE4FI-I) |
@@ -6674,6 +7206,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Volume times leverage** | His definition of work: how many times you do something multiplied by how much you get each time; beginners need volume, then leverage compounds on the skill. | [vhOV_Od0A3M](https://youtu.be/vhOV_Od0A3M) |
 | **volume times leverage equals output** | Work is volume times leverage, so in the beginning you must compensate for low leverage with volume - and volume itself buys skill, which is leverage. | [AN2KpRBsmRY](https://youtu.be/AN2KpRBsmRY) |
 | **VSL structure: hook, proof, promise, plan, picture** | Same structure he uses for YouTube videos - hook at the beginning and end, proof he can help, promise, a plan of what the video covers, and a visual roadmap. | [HGZOxBfnF-E](https://youtu.be/HGZOxBfnF-E) |
+| **VSOPS** | Vista's standard operating procedures - the closely guarded playbook they apply to acquired companies to increase their value. | [hnfh2jqNVEQ](https://youtu.be/hnfh2jqNVEQ) |
 | **VSSL (video sales letter)** | A filmed version of your best pitch placed before the call, which pre-sells good leads and filters bad ones; made from the objections that come up on recorded sales calls. | [SmiOK8Yun4s](https://youtu.be/SmiOK8Yun4s), [3yAiVjcImQ4](https://youtu.be/3yAiVjcImQ4) |
 | **Walk the Walk (the big obvious)** | Be the biggest walking billboard of what you sell — you cannot sell weight loss while fat or investing advice while poor; answer the obvious objection before it is raised. | [HsQeQM1jUeg](https://youtu.be/HsQeQM1jUeg) |
 | **wallet of money / wallet of minutes** | Every person you give dollars or minutes to has to earn their keep, and in this season earning their keep means helping you get where you want to go. | [YFA8AS5Cu2w](https://youtu.be/YFA8AS5Cu2w) |
@@ -6682,7 +7215,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **We can always make more money than we need** | The belief that removes scarcity from decisions: he and Leila have never gone without food or shelter and have kept increasing their skill set, so they can take risks without the animal brain deciding from fear. | [rp1PzCxj3eU](https://youtu.be/rp1PzCxj3eU) |
 | **We make money, our money does not make us** | Tying self-worth to net worth turns the net worth into a liability to your self-esteem — and wealth can be taken (his family lost everything in the Iranian Revolution), so the durable asset is the ability to make money. | [rp1PzCxj3eU](https://youtu.be/rp1PzCxj3eU) |
 | **We need to be reminded more than taught** | His framing for why the mastermind was valuable even though he 'knew' the lessons: these were mistakes he was making that everyone else there was not — a reminder, not new information. | [sKCrYIWPHLc](https://youtu.be/sKCrYIWPHLc) |
-| **We need to be reminded more than we need to be taught** | The amount of novelty required in content is far lower than creators think; audiences follow accounts for four or five repeated messages they want fed back to them, so repetition is the point. | [oRMG_HpOAN4](https://youtu.be/oRMG_HpOAN4), [reisEL_D7xc](https://youtu.be/reisEL_D7xc) |
+| **We need to be reminded more than we need to be taught** | His stated maxim for sales teams — belief decays, so the work is re-reminding, not re-teaching; people who believe in something automatically sell it. | [bHnVItVGJPA](https://youtu.be/bHnVItVGJPA), [oRMG_HpOAN4](https://youtu.be/oRMG_HpOAN4), [reisEL_D7xc](https://youtu.be/reisEL_D7xc) |
 | **Wealth alchemy** | The arbitrage between what it costs to acquire a permanent customer and what that recurring revenue is worth at an enterprise-value multiple - a multiple applied to revenue rather than profit, which means the growth… | [k-3PoOT4vOM](https://youtu.be/k-3PoOT4vOM) |
 | **Wealth is a ratio (not a number)** | Wealth is the ratio between what you earn and what you need. The number-one rule of money is spend less than you make. | [ymFWgFiKUvM](https://youtu.be/ymFWgFiKUvM) |
 | **Wealth is a ratio, not a number** | Anyone can become wealthy by living on less than they make - the definition of wealth is the ratio between what you keep and what you spend, not the absolute amount or the visible lifestyle. | [ebrcIErJi10](https://youtu.be/ebrcIErJi10), [a0hUVFYzv3k](https://youtu.be/a0hUVFYzv3k) |
@@ -6690,6 +7223,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Wealth warp** | His term for a period where net worth changes materially in a very short time - he says he has been through it four times, each followed by a level-set and then another step up. | [k-3PoOT4vOM](https://youtu.be/k-3PoOT4vOM) |
 | **Wealthy people think only about skills** | The wealthiest people he knows measure in skills, not money: what can I learn, and what can this skill get me. In the beginning you buy all your own skills; later you buy other people's years of skills by hiring them —… | [oys_fv25SYM](https://youtu.be/oys_fv25SYM) |
 | **Weapon without the skill to wield it** | His Magic: The Gathering card reference (Burning Wish) used as the rule for why money should not be given to individuals - money is raw power, and the more of it you get the more skill you need to wield it. | [R9gHvJxHRhA](https://youtu.be/R9gHvJxHRhA) |
+| **Wedge product versus brand promise** | The wedge product is the concrete job the product does (helping people breathe better); the brand and the promise are about who the buyer is becoming (helping people be better). The brand should be about the prospect… | [LvHDT0ZxSmw](https://youtu.be/LvHDT0ZxSmw) |
 | **Whales buy the most expensive thing** | Some percentage of people always buy the cheapest thing and another percentage always buy the most expensive. Having a very expensive item on the menu costs nothing, serves that second group, and surprises you when it… | [yEKu6q0W3gs](https://youtu.be/yEKu6q0W3gs) |
 | **What Boat You're In** | Buffett's lesson from his Columbia classmate who was smarter and harder working but went into steel: the market you row in matters more than how hard you row. | [F3NyhOtRpOE](https://youtu.be/F3NyhOtRpOE) |
 | **What business are you really in** | The real constraint of the business, usually different from the craft you entered for - fitness was sales and marketing, supplements were brand and distribution, software was product. | [q9OmYf_IlQ0](https://youtu.be/q9OmYf_IlQ0) |
@@ -6712,14 +7246,18 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **Where the bodies are buried** | His test for whether a leader is too far from the work: if you can't name the current problems in every department reporting to you, you are too far away, because there are always problems. | [QTZsh3BgOwY](https://youtu.be/QTZsh3BgOwY), [oRMG_HpOAN4](https://youtu.be/oRMG_HpOAN4) |
 | **where you invest is what you know** | The correct asset allocation reflects your knowledge base, not a generic model portfolio - so a real-estate expert being 80% in real estate is not over-concentration, it is alignment. | [GkL2KDOf2NM](https://youtu.be/GkL2KDOf2NM) |
 | **Whisper, tease, shout** | The three-phase launch sequence: mysterious whisper campaign (curiosity, no product), tease (anticipation builds), shout (call to action, it is live). | [eX3Ch_HuR70](https://youtu.be/eX3Ch_HuR70) |
+| **White label versus custom** | Two ways to start your own brand: white label (buy an existing product and slap your logo on it - faster, cheaper) or custom formulations (you own the thing - more expensive, but nobody can sell something identical to… | [oRqnTOT9ZG8](https://youtu.be/oRqnTOT9ZG8) |
+| **Whitelisting** | The more scalable sponsorship form: the brand takes your posts and runs them as paid ads to audiences outside yours - they pay to advertise your brand, you convert better because you are warm, both grow. | [oRqnTOT9ZG8](https://youtu.be/oRqnTOT9ZG8) |
 | **Who / what / when** | Meeting discipline: state the what, assign the who, then force the when by asking how many hours it will take rather than what day it will be done. Recap each item so the fourth is heard four times. | [cnbHgYYHzyE](https://youtu.be/cnbHgYYHzyE) |
 | **Who not what (high-value hires pre-loaded with solutions)** | Transitioning from doing the what to finding the who — but only once you have learned the things that make the business work. The qualifier is people who arrive batteries-included, having solved the problem three times… | [Fy8XX8EuEnA](https://youtu.be/Fy8XX8EuEnA) |
 | **Who solves overextension** | The fix for overextension is three letters: WHO. Either someone who owns the new thing while you keep the current one, or someone who takes over the current thing so you can take the new one. Overextension happens when… | [QTZsh3BgOwY](https://youtu.be/QTZsh3BgOwY) |
 | **who you compare yourself to, not who you spend time with** | Comparison is what sets your sense of what is normal and therefore what you will attempt; choosing the comparison set is therefore a money decision. | [oZ-H_TjSzok](https://youtu.be/oZ-H_TjSzok) |
+| **Who, what, when** | His entire management algorithm for ending meetings: who is going to do what by when - and then challenging the when with time-on-task. | [ZTSI3DDP_4A](https://youtu.be/ZTSI3DDP_4A) |
 | **Whoever answers questions is losing** | His sales rule: make the prospect answer the questions. Every objection gets sidestepped by asking what they are trying to get out of the question they just asked — no statements, so nothing to oppose. | [h6y0nYVZgwE](https://youtu.be/h6y0nYVZgwE) |
 | **Why can't we 10x this?** | The constraint-finding question he asks in diligence: whatever the answer is, that answer is the constraint of the business. | [KhFlD54nQrY](https://youtu.be/KhFlD54nQrY) |
 | **Why most people stay poor** | They cannot say no. Chasing short-term money means scaling costs to serve customers you should never have taken, which forces you to take more bad customers to pay for the first ones - a vicious cycle you cannot exit… | [U_s0ekwPK5g](https://youtu.be/U_s0ekwPK5g) |
 | **Wi-Fi as the professional-services ideal** | Professional services should be like Wi-Fi - you don't clap when it works, you only notice when it doesn't. He wants financials accurate, timely, and broken down so he can make decisions, and the top tier of accountants… | [U_s0ekwPK5g](https://youtu.be/U_s0ekwPK5g) |
+| **Willpower-free association** | Attach the product to a behaviour people already do daily without willpower, rather than one that requires remembering - the reason beauty products are more interesting to him than fitness products. | [LvHDT0ZxSmw](https://youtu.be/LvHDT0ZxSmw) |
 | **Win the negotiation before it starts, by having options** | His central negotiating rule: they only respond when you say 'if I don't get this the deal is off'. The best way to sell a business is to not want to sell it — have an amazing business you would happily keep, so that… | [pWbSl7d0tEc](https://youtu.be/pWbSl7d0tEc) |
 | **Win Your Money Back (attraction offer)** | The front-end offer in his gym model - a paid challenge where the buyer can earn their money back, which converts into the classic supplement upsell, the rollover upsell, and a buy-X-get-Y prepay discount. | [nSQdjim8CsE](https://youtu.be/nSQdjim8CsE) |
 | **Winning becomes outlasting** | In the games that matter — marriage, health, business — you never actually win. You do not win at marriage, the point is to stay married. That shifts the game from winning to outlasting, which means the win reduces to a… | [MNll1BaskLA](https://youtu.be/MNll1BaskLA) |
@@ -6735,6 +7273,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **work the levers top-down** | Because the levers are ranked, you diagnose from the top: check the market before blaming the offer, and check the offer before blaming your sales skills. | [4XWlHPyAico](https://youtu.be/4XWlHPyAico) |
 | **Wrapping paper on the present** | His term for offer wrappers: rotate the challenge name and length (six week, 42 days, 21 days, belly-fat blast, slim for Santa) so ads do not fatigue, but always push into the same sales process so operations do not… | [aBPWCdaJJqA](https://youtu.be/aBPWCdaJJqA) |
 | **write yourself a swimming pool** | Paul McCartney's behaviour, relayed to him by Chiron Cervatza: rather than spend savings, income, or go into debt for a swimming pool, go write a song and let that song pay for the pool. | [by3ZEoo-Quc](https://youtu.be/by3ZEoo-Quc) |
+| **X-Factor** | When a person captures outsized interest by demonstrating multiple rare skills and or physical traits that do not typically coexist; the more rarities they combine, the more the X-Factor is multiplied. | [SCi464zfAUM](https://youtu.be/SCi464zfAUM) |
 | **X-factor dilution (the shot glass analogy)** | Pouring the founder's scarce talent into many coaches is pouring the same liquid into shot glasses and diluting it to fill; better to sell less volume of the undiluted founder, because the concentrated shots keep… | [N5MExtki_VI](https://youtu.be/N5MExtki_VI) |
 | **Yes man and no man** | A good partnership has one promoter and one implementer. The implementer bears the day-to-day cost, so the agreement mechanism is to ask what they would need to see in order to feel comfortable, turn it into a… | [aBPWCdaJJqA](https://youtu.be/aBPWCdaJJqA) |
 | **you are heavily indexed on one stock which is your own** | Being an entrepreneur is already a concentrated bet, so the standard diversification advice does not apply to the person who owns the business. | [VBoRLJimVzc](https://youtu.be/VBoRLJimVzc) |
@@ -6744,6 +7283,7 @@ Terms Hormozi coins or uses that do not appear in the written framework summarie
 | **You can be right or you can be rich** | Attributed to Zig Ziglar. The victim frame is 99% right and 100% wrong: being right about why it didn't work feels good in the short term and guarantees the loss in the long term. | [oys_fv25SYM](https://youtu.be/oys_fv25SYM) |
 | **You can train anyone; the question is whether it's worth it** | His belief about talent: everyone could learn anything given enough time — the real question is who pays for that time, and whether taking a 7 to a 10 is faster than riding the same underperformer again. | [h6y0nYVZgwE](https://youtu.be/h6y0nYVZgwE) |
 | **You can't be busy and broke** | There are only two states: busy and making money, or broke with plenty of time. If you're broke, get busy — including on the unscalable work below your ticket price. | [H_ZLs1-jOKQ](https://youtu.be/H_ZLs1-jOKQ) |
+| **You cannot be cancelled** | His claim that cancellation is not real unless every means of communicating with an audience is removed and you stop making content - people can always keep following you. | [UGEc9-7X3OQ](https://youtu.be/UGEc9-7X3OQ) |
 | **You do not have unlimited swings** | His correction to the 'take every 10%-for-100x bet' logic: that rule only holds if you can bet as many times as you like. Real operators have finite capital and finite swings, so the highest-likelihood swings - the… | [zNiXk_3C_Io](https://youtu.be/zNiXk_3C_Io) |
 | **You don't do two news** | Never pair a new person with a new channel, because then you cannot tell which new thing is the problem. The correct configuration is one new: the new channel, run by someone you already know is good. | [sjt5G3YPjmY](https://youtu.be/sjt5G3YPjmY) |
 | **You don't make it, you own it** | The correction to how he thought wealth worked as a teenager: you do not need to earn a billion dollars of income, you need to own an asset that is worth a billion dollars, because returns on what you own are not taxed… | [LMlbWtUFa4E](https://youtu.be/LMlbWtUFa4E) |
