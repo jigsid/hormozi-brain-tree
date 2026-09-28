@@ -71,7 +71,8 @@ def all_numbers(rec: dict) -> list[dict]:
     return [n for n in out if isinstance(n, dict)]
 
 
-def audit(sample: int | None = None) -> tuple[int, int]:
+def audit(sample=None):
+    """sample: int or None (Python 3.9 compatible signature)."""
     recs = [json.loads(l) for l in MERGED.read_text().splitlines()]
     tr = load_transcripts()
     checks = []
