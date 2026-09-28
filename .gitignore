@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+.next/
+out/
+
+# Build artifacts
+*.tsbuildinfo
+
+# OS
+.DS_Store
+
+# ---------------------------------------------------------------------------
+# Corpus guard — transcript text is NEVER committed.
+# The corpus lives at ~/youtube-transcripts/hormozi/. See sources/README.md.
+# ---------------------------------------------------------------------------
+transcripts.jsonl
+transcripts.csv
+ALL_TRANSCRIPTS.txt
+chunks.jsonl
+extracted.jsonl
+corpus.db
+raw/
+transcripts/
+corpus/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
