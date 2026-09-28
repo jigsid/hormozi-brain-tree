@@ -1,4 +1,4 @@
-import type { NodeType, RawNode } from "./dsl";
+import type { NodeType, RawNode, Quote } from "./dsl";
 import { root } from "./modules/root";
 import { crossLinks, type CrossLink } from "./crossLinks";
 import { LAYOUT } from "./layout";
@@ -13,7 +13,8 @@ export type ModuleId =
   | "sales"
   | "scaling"
   | "mindset"
-  | "voice";
+  | "voice"
+  | "evidence";
 
 export interface GraphNodeData {
   id: string;
@@ -23,6 +24,7 @@ export interface GraphNodeData {
   level: number;
   summary?: string;
   detail?: string;
+  quotes?: Quote[];
   parentId?: string;
   childIds: string[];
   cross: { id: string; label: string; direction: "out" | "in" }[];
@@ -58,6 +60,7 @@ export const MODULE_COLORS: Record<ModuleId, string> = {
   scaling: "#ffd43b",
   mindset: "#ff6b9d",
   voice: "#66d9e8",
+  evidence: "#e8c547",
 };
 
 const TYPE_COLORS: Partial<Record<NodeType, string>> = {
@@ -106,6 +109,7 @@ export function buildGraph(): BuiltGraph {
     "scaling",
     "mindset",
     "voice",
+    "evidence",
   ];
 
   function walk(
@@ -127,6 +131,7 @@ export function buildGraph(): BuiltGraph {
       level,
       summary: raw.summary,
       detail: raw.detail,
+      quotes: raw.quotes,
       parentId,
       childIds,
       cross: [],

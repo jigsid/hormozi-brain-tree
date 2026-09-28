@@ -34,6 +34,14 @@ A full-stack Alex Hormozi business advisor, running through opencode and Claude 
 | [[Scaling & Retention]] | Growth levers, scaling stages, churn, LTV expansion, price raises |
 | [[Mindset & Operator]] | Fear triage, volume, focus, hypothesis-first testing, validation gates |
 
+## Evidence
+
+The frameworks above state principles. `EVIDENCE.md` and the tree's **Evidence & Benchmarks** branch carry the quantification - benchmarks, ratios and thresholds mined from **516 transcripts** of the channel (2.9M words), each with a verbatim quote and its source video.
+
+Highlights: the close-rate -> price ladder (80%+ close means underpriced 3-4x), LTV = annual payment / churn, LTV:CAC 3:1 as a floor vs 30:1+ arbitrage windows, a 35% rep quota, 70% calendar utilisation, and tiering at 5-10x price with ~20% take.
+
+Full corpus (outside this repo): `~/youtube-transcripts/hormozi/`. Mined quotes: `sources/quotes.json`.
+
 ## Outputs
 
 Generated artifacts (offers, scripts, plans, audits) land here:

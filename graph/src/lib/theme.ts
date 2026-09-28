@@ -91,6 +91,7 @@ export const MODULE_SOURCE: Record<string, string> = {
   scaling: "skill/references/scaling-retention.md",
   mindset: "skill/references/mindset-operator.md",
   voice: "skill/references/voice.md",
+  evidence: "EVIDENCE.md",
 };
 
 export const TYPE_LABELS: Record<string, string> = {

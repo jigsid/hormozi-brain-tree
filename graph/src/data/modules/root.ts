@@ -6,6 +6,7 @@ import { sales } from "./sales";
 import { scaling } from "./scaling";
 import { mindset } from "./mindset";
 import { voice } from "./voice";
+import { evidence } from "./evidence";
 
 const harnessOps = n("harness", "Harness & Ops", {
   type: "module",
@@ -147,5 +148,6 @@ export const root = n("root", "Hormozi Growth Engine", {
     scaling,
     mindset,
     voice,
+    evidence,
   ],
 });

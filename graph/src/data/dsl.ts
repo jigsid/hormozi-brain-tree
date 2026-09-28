@@ -12,6 +12,15 @@ export type NodeType =
   | "tool"
   | "artifact";
 
+export interface Quote {
+  /** verbatim quote */
+  t: string;
+  /** source video title */
+  src: string;
+  /** YouTube video id */
+  vid: string;
+}
+
 export interface RawNode {
   id: string;
   label: string;
@@ -20,6 +29,8 @@ export interface RawNode {
   detail?: string;
   links?: string[];
   children?: RawNode[];
+  /** verbatim transcript evidence with provenance */
+  quotes?: Quote[];
 }
 
 const MAX_LABEL = 46;

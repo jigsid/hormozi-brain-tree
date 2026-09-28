@@ -9,7 +9,7 @@
     --bg:#0d0e10; --panel:#14161a; --line:#262a31; --line-2:#31363f;
     --text:#e9e9e6; --muted:#9aa0a6; --dim:#6b7076;
     --gold:#c9a227; --gold-soft:#3a3213;
-    --b1:#6ea8fe; --b2:#f2b880; --b3:#7bd88f; --b4:#d98fd9; --b5:#7fd1d9; --b6:#b0a0f0;
+    --b1:#6ea8fe; --b2:#f2b880; --b3:#7bd88f; --b4:#d98fd9; --b5:#7fd1d9; --b6:#b0a0f0; --b7:#e8c547;
     --mono: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
   }
   *{box-sizing:border-box}
@@ -86,6 +86,19 @@
     font:500 11.5px/1.6 var(--mono);color:#cfd3d8;white-space:pre-wrap}
   .pRow{margin:4px 0;padding:6px 9px;background:#15181d;border:1px solid var(--line);border-radius:8px;
     font:500 12px/1.5 var(--mono);color:#c8ccd2}
+  .pRow:has(.pRowK){display:flex;gap:12px;align-items:baseline}
+  .pRowK{flex:0 0 40%;color:#8f959c}
+  .pRowV{flex:1 1 auto;color:#dfe3e8}
+  .pB{font-weight:700;color:#fff}
+  .pCode{font:500 11.5px/1.4 var(--mono);background:#0f1114;border:1px solid var(--line);
+    border-radius:5px;padding:1px 5px;color:#e8c547}
+  .pQuotes{margin:14px 0 4px;display:flex;flex-direction:column;gap:10px}
+  .pQuote{margin:0;padding:11px 14px;background:#15181d;border-left:3px solid var(--b7);
+    border-radius:0 9px 9px 0;color:#dfe3e8;font-size:13.2px;line-height:1.6;font-style:italic}
+  .pQuoteSrc{display:block;margin-top:7px;font:600 10.5px/1.4 var(--mono);font-style:normal;
+    letter-spacing:.06em;color:var(--dim)}
+  .pQuoteSrc a{color:var(--b7);text-decoration:none}
+  .pQuoteSrc a:hover{text-decoration:underline}
   .pKids{margin:8px 0 4px;display:flex;flex-direction:column;gap:8px}
   .pKid{display:flex;gap:10px;padding:10px 12px;border:1px solid var(--line);border-radius:11px;
     background:var(--panel);cursor:pointer;transition:.15s}
@@ -99,7 +112,7 @@
 <body>
 <header>
   <h1>Hormozi Harness - Full Tree <span class="tick">.</span></h1>
-  <p class="sub">7 modules · 55 frameworks · 200 rules · every threshold from the vault &nbsp;·&nbsp; tap any node for the full breakdown</p>
+  <p class="sub" id="subStats">tap any node for the full breakdown</p>
 </header>
 
 <div class="toolbar">
@@ -171,7 +184,14 @@ const DATA = {
               "spec": "Index = (DO×PL)÷(T×E). Compare versions, re-score after every change."
             }
           ],
-          "detail": "Value = (Dream Outcome × Perceived Likelihood of Achievement) ÷ (Time Delay × Effort & Sacrifice)\n\nTreat it as division, not addition. Growing the numerator scales value linearly; collapsing the denominator lets value run toward infinity. When two offers promise the same outcome, the dream outcome term cancels - then likelihood, time, and effort decide who wins.\n\n| Driver | Move | Levers |\n|---|---|---|\n| Dream Outcome | ↑ | status, specificity, identity, event anchor |\n| Perceived Likelihood | ↑ | proof, testimonials, guarantees, clear path, named mechanism |\n| Time Delay | ↓ | fast first win, quick onboarding, staged delivery |\n| Effort & Sacrifice | ↓ | DFY, automation, templates, removing steps, reframing |\n\nApply it:\n1. Write the offer in one sentence.\n2. Score all four drivers 1-10. Score benefits so higher is better; score time and effort so higher means slower/harder (worse).\n3. Compute the index: (DO × PL) ÷ (T × E). Use it to compare versions, not to claim precision.\n4. If the dream outcome is vague, fix that first. Otherwise attack the bottom of the equation.\n5. Re-score after every change and keep the version with the highest index.\n\nHow to move each term:\n- Dream outcome up: attach a number, a deadline, and an identity (\"look like the fittest dad at the reunion\"). Sell what changes after the result, not the result alone.\n- Likelihood up: show proof for people who look like this buyer; show the exact path; add a guarantee; explain the mechanism so success feels mechanical, not lucky.\n- Time down: front-load a win into day one; onboard in hours, not weeks; stage delivery so the first useful thing arrives immediately; make payment feel like the start of progress.\n- Effort down: remove steps, pre-build assets, do the hard part for them, automate the boring part, and tell them what you removed.\n\nPerception is reality: a shorter wait the buyer cannot see earns you nothing. Say each improvement out loud in the pitch. Beginners inflate claims; strong operators delete friction. Speed beats free - a paid result now usually beats a free result later. Push time and effort toward zero and value becomes unbounded."
+          "detail": "Value = (Dream Outcome × Perceived Likelihood of Achievement) ÷ (Time Delay × Effort & Sacrifice)\n\nTreat it as division, not addition. Growing the numerator scales value linearly; collapsing the denominator lets value run toward infinity. When two offers promise the same outcome, the dream outcome term cancels - then likelihood, time, and effort decide who wins.\n\n| Driver | Move | Levers |\n|---|---|---|\n| Dream Outcome | ↑ | status, specificity, identity, event anchor |\n| Perceived Likelihood | ↑ | proof, testimonials, guarantees, clear path, named mechanism |\n| Time Delay | ↓ | fast first win, quick onboarding, staged delivery |\n| Effort & Sacrifice | ↓ | DFY, automation, templates, removing steps, reframing |\n\nApply it:\n1. Write the offer in one sentence.\n2. Score all four drivers 1-10. Score benefits so higher is better; score time and effort so higher means slower/harder (worse).\n3. Compute the index: (DO × PL) ÷ (T × E). Use it to compare versions, not to claim precision.\n4. If the dream outcome is vague, fix that first. Otherwise attack the bottom of the equation.\n5. Re-score after every change and keep the version with the highest index.\n\nHow to move each term:\n- Dream outcome up: attach a number, a deadline, and an identity (\"look like the fittest dad at the reunion\"). Sell what changes after the result, not the result alone.\n- Likelihood up: show proof for people who look like this buyer; show the exact path; add a guarantee; explain the mechanism so success feels mechanical, not lucky.\n- Time down: front-load a win into day one; onboard in hours, not weeks; stage delivery so the first useful thing arrives immediately; make payment feel like the start of progress.\n- Effort down: remove steps, pre-build assets, do the hard part for them, automate the boring part, and tell them what you removed.\n\nPerception is reality: a shorter wait the buyer cannot see earns you nothing. Say each improvement out loud in the pitch. Beginners inflate claims; strong operators delete friction. Speed beats free - a paid result now usually beats a free result later. Push time and effort toward zero and value becomes unbounded.",
+          "quotes": [
+            {
+              "t": "If you need to make your customers worth more, the only thing you can do to make them worth more is you raise your prices, you decrease churn.",
+              "src": "If you're not unbelievably rich yet, this is why",
+              "vid": "h6y0nYVZgwE"
+            }
+          ]
         },
         {
           "id": "O.2",
@@ -250,7 +270,14 @@ const DATA = {
               "spec": "Scarcity, urgency, bonuses, guarantee. Name with MAGIC. Launch, over-deliver."
             }
           ],
-          "detail": "A Grand Slam Offer cannot be line-item compared against a rival, combines an attractive promotion with a premium price and a guarantee that removes risk, and pays for customer acquisition through its money model. Build in this order:\n1. Pick the market. Score the four criteria; refuse to proceed below 7/10 on any of them.\n2. Commit to premium pricing before designing anything. Price signals position as much as it captures it.\n3. State the dream outcome using the destination formula.\n4. List every problem the buyer faces on the way there - before buying, during use, after getting the result, and how others will perceive them. Go granular; a weight-loss buyer has meal-prep problems, grocery problems, eating-out problems, and plateau problems. Aim for 10-15+ obstacles. Tag each to the value-equation term it damages.\n5. Reverse each problem into a named solution: \"How to ___\" becomes a component with its own identity. \"Meal planning help\" becomes \"The 5-Minute Meal Mastery System.\"\n6. Pick a delivery vehicle for each solution (see the delivery cube).\n7. Trim: cut high-cost/low-value first, then low-cost/low-value offerings.\n8. Stack survivors into one deliverable that handles every named problem. Price each component; the total value must dwarf the price and the bundle must be impossible to comparison-shop.\n9. Add scarcity, urgency, bonuses, and a guarantee.\n10. Name it with MAGIC.\n11. Launch, over-deliver even unscalably, collect cash, then systematize. Create flow first, monetize it, and only then add friction.\n\nSweep four problem territories at step 4 so nothing hides: before purchase (trust, risk, skepticism from past failures), during use (confusion, awkward steps, time cost), after the result (maintenance, relapse, next plateau), and social (what family, peers, or clients will think). Tag each obstacle to the value-equation term it damages - that tag dictates which lever fixes it, and it stops you from writing solutions that solve nothing the buyer actually fears."
+          "detail": "A Grand Slam Offer cannot be line-item compared against a rival, combines an attractive promotion with a premium price and a guarantee that removes risk, and pays for customer acquisition through its money model. Build in this order:\n1. Pick the market. Score the four criteria; refuse to proceed below 7/10 on any of them.\n2. Commit to premium pricing before designing anything. Price signals position as much as it captures it.\n3. State the dream outcome using the destination formula.\n4. List every problem the buyer faces on the way there - before buying, during use, after getting the result, and how others will perceive them. Go granular; a weight-loss buyer has meal-prep problems, grocery problems, eating-out problems, and plateau problems. Aim for 10-15+ obstacles. Tag each to the value-equation term it damages.\n5. Reverse each problem into a named solution: \"How to ___\" becomes a component with its own identity. \"Meal planning help\" becomes \"The 5-Minute Meal Mastery System.\"\n6. Pick a delivery vehicle for each solution (see the delivery cube).\n7. Trim: cut high-cost/low-value first, then low-cost/low-value offerings.\n8. Stack survivors into one deliverable that handles every named problem. Price each component; the total value must dwarf the price and the bundle must be impossible to comparison-shop.\n9. Add scarcity, urgency, bonuses, and a guarantee.\n10. Name it with MAGIC.\n11. Launch, over-deliver even unscalably, collect cash, then systematize. Create flow first, monetize it, and only then add friction.\n\nSweep four problem territories at step 4 so nothing hides: before purchase (trust, risk, skepticism from past failures), during use (confusion, awkward steps, time cost), after the result (maintenance, relapse, next plateau), and social (what family, peers, or clients will think). Tag each obstacle to the value-equation term it damages - that tag dictates which lever fixes it, and it stops you from writing solutions that solve nothing the buyer actually fears.",
+          "quotes": [
+            {
+              "t": "If you say it's going to cost 100 grand to do my thing and then you're going to make $300,000 back on average in the first year, that's going to be a significantly easier sell.",
+              "src": "What Makes The Perfect Business (5 Things)",
+              "vid": "3fsJFUvA6Ts"
+            }
+          ]
         },
         {
           "id": "O.5",
@@ -388,9 +415,65 @@ const DATA = {
               "id": "O.9.5",
               "title": "Justification story",
               "spec": "Outcome → worth in money/time/pain → alternatives → full stack → price as fraction."
+            },
+            {
+              "id": "O.9.7",
+              "title": "Close-rate → price ladder",
+              "spec": "80%+ close = underpriced 3-4x · 50-60% = 1.5-2x · 40-50% = 1.25-1.5x · 30-40% = correct · <25% = fix process, not price.",
+              "kind": "rule",
+              "detail": "Hormozi's most actionable pricing instrument, from The Mathematics of Business. Your close rate is the read-out on your price. Work the ladder top-down:\n\n- **Closing 80%+** (four out of five people buy): underpriced by **3-4x**. Raise price aggressively.\n- **Closing 50-60%**: underpriced **1.5-2x**. A $100 price point should be $150-200.\n- **Closing 40-50%**: underpriced **1.25-1.5x**. $100 should be $125-150.\n- **Closing 30-40%**: **appropriately priced** - conditional on having the selling mechanisms in place to educate the buyer before the pitch.\n- **Closing <25%**: too expensive, or the process is broken. He bumps reps down a tier. Fix the process before ever cutting price.\n\nThe logic: price too low shows up as a suspiciously high close rate, and high close rate is the most expensive thing you can have because you are leaving margin on every deal. Price too high shows up as a low close rate. Either way the fix is usually the *mechanism* (proof, education, pre-selling), not the number.\n\nThe reverse direction also holds: if close rate is above target he raises price; if below, he fixes the process first. Price is the last lever, not the first.",
+              "children": [
+                {
+                  "id": "O.9.7.1",
+                  "title": "80%+ close → 3-4x underpriced",
+                  "spec": "Four out of five buying means you are leaving 3-4x on the table."
+                },
+                {
+                  "id": "O.9.7.2",
+                  "title": "50-60% close → 1.5-2x underpriced",
+                  "spec": "$100 should be $150-200. The jumps compress as you approach the target."
+                },
+                {
+                  "id": "O.9.7.3",
+                  "title": "40-50% close → 1.25-1.5x underpriced",
+                  "spec": "$100 should be $125-150."
+                },
+                {
+                  "id": "O.9.7.4",
+                  "title": "30-40% close → appropriately priced",
+                  "spec": "Target zone - assuming pre-pitch education mechanisms exist."
+                },
+                {
+                  "id": "O.9.7.5",
+                  "title": "<25% close → fix process, not price",
+                  "spec": "Too expensive or broken process. Never cut price as the first move."
+                }
+              ]
             }
           ],
-          "detail": "- Price on delivered value, not cost-plus. Commodities compete on price and race to the bottom; differentiation escapes the comparison.\n- Anchor two ways: the buyer's perceived gap should be 10× to 100× between stacked value and price; and you can charge up to ~100× direct cost while still being a steal.\n- Virtuous Cycle of Price: higher price → more emotional investment → better results → more proof → more demand → higher price. Cutting price runs the loop backward. Price should sting; those who pay the most pay the most attention.\n- Match the delivery model: DIY sits low and volume-based, DWY mid, DFY premium.\n- Tiers: Entry (DIY), Core (DWY), Premium (DFY). Engineer clear value jumps, make the middle tier the obvious pick, and let the top tier anchor it.\n- Psychology: charm pricing (27/97/297) under ~$300; round numbers for premium tiers ($1,000+); show the highest anchor first.\n- Write the justification story in five beats: restate the outcome → quantify what it is worth in money gained, time saved, or pain avoided → compare against alternatives → anchor the full stack → reveal the price as a fraction of value.\n- Raise price only after raising value. Being the most expensive carries strategic benefit; being second-cheapest carries none.\n- Raise when: demand exceeds capacity, close rates are high without price flinching, refunds are low, and the extra margin funds better delivery. Test on new cohorts and grandfather existing buyers.\n- Use payment plans to lower the entry barrier, never to lower the price. Chargebacks aside, a discount is a permanent education in negotiability.\n- Experiments to run in order: A/B the price point on new cohorts, test a payment plan against a single payment, test a bonus versus a discount of equal cost, test early-bird pricing against a hard deadline, and test tier framing (which tier is presented as the default). Change one variable at a time and judge on cash collected, not units sold."
+          "detail": "- Price on delivered value, not cost-plus. Commodities compete on price and race to the bottom; differentiation escapes the comparison.\n- Anchor two ways: the buyer's perceived gap should be 10× to 100× between stacked value and price; and you can charge up to ~100× direct cost while still being a steal.\n- Virtuous Cycle of Price: higher price → more emotional investment → better results → more proof → more demand → higher price. Cutting price runs the loop backward. Price should sting; those who pay the most pay the most attention.\n- Match the delivery model: DIY sits low and volume-based, DWY mid, DFY premium.\n- Tiers: Entry (DIY), Core (DWY), Premium (DFY). Engineer clear value jumps, make the middle tier the obvious pick, and let the top tier anchor it.\n- Psychology: charm pricing (27/97/297) under ~$300; round numbers for premium tiers ($1,000+); show the highest anchor first.\n- Write the justification story in five beats: restate the outcome → quantify what it is worth in money gained, time saved, or pain avoided → compare against alternatives → anchor the full stack → reveal the price as a fraction of value.\n- Raise price only after raising value. Being the most expensive carries strategic benefit; being second-cheapest carries none.\n- Raise when: demand exceeds capacity, close rates are high without price flinching, refunds are low, and the extra margin funds better delivery. Test on new cohorts and grandfather existing buyers.\n- Use payment plans to lower the entry barrier, never to lower the price. Chargebacks aside, a discount is a permanent education in negotiability.\n- Experiments to run in order: A/B the price point on new cohorts, test a payment plan against a single payment, test a bonus versus a discount of equal cost, test early-bird pricing against a hard deadline, and test tier framing (which tier is presented as the default). Change one variable at a time and judge on cash collected, not units sold.",
+          "quotes": [
+            {
+              "t": "If you're closing at 80% or more in whatever you sell, so four out of five people you talk to buy your thing, you're typically underpriced by 3 to 4x.",
+              "src": "The Mathematics of Business, Explained",
+              "vid": "A_tx40lNpf8"
+            },
+            {
+              "t": "If you're between 50 and 60%, typically you're underpriced by one and a half to 2x.",
+              "src": "The Mathematics of Business, Explained",
+              "vid": "A_tx40lNpf8"
+            },
+            {
+              "t": "Now if you're between 40 and 50% close rates, you're probably between 1.25 to 1.5x underpriced.",
+              "src": "The Mathematics of Business, Explained",
+              "vid": "A_tx40lNpf8"
+            },
+            {
+              "t": "If you have that sales motion and you were closing 35%, you're appropriately priced.",
+              "src": "The Mathematics of Business, Explained",
+              "vid": "A_tx40lNpf8"
+            }
+          ]
         },
         {
           "id": "O.10",
@@ -456,7 +539,14 @@ const DATA = {
               "spec": "Lead = contactable. Engaged lead = shows interest. Optimize engaged."
             }
           ],
-          "detail": "Every way to advertise fits one box:\n\n| | Your audience (warm) | Other people's audience (cold) |\n|---|---|---|\n| 1-to-1 (private) | Warm outreach | Cold outreach |\n| 1-to-many (public) | Post free content | Run paid ads |\n\n- Warm = people who gave you permission to contact them. Cold = strangers. The difference in execution is trust.\n- Lead = anyone you can contact. Engaged lead = someone who shows interest (replies, follows, gives info, raises a hand). Optimize for engaged leads, not raw names.\n- First move: advertise the core offer directly. Build a lead magnet only when the offer is expensive, complex, or has a long decision cycle.\n- Channel selection:\n  - $0 budget, no audience, fastest path to first sale → warm outreach.\n  - Some audience, limited budget, want compounding → post free content.\n  - B2B, high-ticket, no audience, list available → cold outreach.\n  - Proven offer plus budget, want scale → paid ads (do this last).\n- Master one before adding another. Most operators run all four badly instead of one well. If leads are short, the problem is almost never \"wrong strategy\" - it's insufficient skill or insufficient volume in the channel you already picked.\n- When you max a channel, add the next one in this order: warm outreach → content → cold and/or paid.\n- Four Lead Getters (leverage - other people advertise for you): customer referrals (cheapest, highest quality), employees (recruit with the Internal Core Four; train with Document, Demonstrate, Duplicate), agencies (use to learn a method on a deadline, then take it in-house), affiliates/partners (highest leverage; pay 25% / 50% / 100% of max CAC on agree / activate / sustain).\n- Check referrals > churn. Aim for ≥25% of new business from referrals."
+          "detail": "Every way to advertise fits one box:\n\n| | Your audience (warm) | Other people's audience (cold) |\n|---|---|---|\n| 1-to-1 (private) | Warm outreach | Cold outreach |\n| 1-to-many (public) | Post free content | Run paid ads |\n\n- Warm = people who gave you permission to contact them. Cold = strangers. The difference in execution is trust.\n- Lead = anyone you can contact. Engaged lead = someone who shows interest (replies, follows, gives info, raises a hand). Optimize for engaged leads, not raw names.\n- First move: advertise the core offer directly. Build a lead magnet only when the offer is expensive, complex, or has a long decision cycle.\n- Channel selection:\n  - $0 budget, no audience, fastest path to first sale → warm outreach.\n  - Some audience, limited budget, want compounding → post free content.\n  - B2B, high-ticket, no audience, list available → cold outreach.\n  - Proven offer plus budget, want scale → paid ads (do this last).\n- Master one before adding another. Most operators run all four badly instead of one well. If leads are short, the problem is almost never \"wrong strategy\" - it's insufficient skill or insufficient volume in the channel you already picked.\n- When you max a channel, add the next one in this order: warm outreach → content → cold and/or paid.\n- Four Lead Getters (leverage - other people advertise for you): customer referrals (cheapest, highest quality), employees (recruit with the Internal Core Four; train with Document, Demonstrate, Duplicate), agencies (use to learn a method on a deadline, then take it in-house), affiliates/partners (highest leverage; pay 25% / 50% / 100% of max CAC on agree / activate / sustain).\n- Check referrals > churn. Aim for ≥25% of new business from referrals.",
+          "quotes": [
+            {
+              "t": "If you're a little bit more niched, then that can go up to 5% of leads.",
+              "src": "The Mathematics of Business, Explained",
+              "vid": "A_tx40lNpf8"
+            }
+          ]
         },
         {
           "id": "L.2",
@@ -581,9 +671,45 @@ const DATA = {
               "id": "L.5.5",
               "title": "Ad anatomy",
               "spec": "Callout + value (what-who-when) + CTA with real scarcity/urgency/bonus."
+            },
+            {
+              "id": "L.5.9",
+              "title": "Funnel step decay - every step costs ~50%",
+              "spec": "Each added funnel step loses roughly half or more. Web pages convert 1-2%; a strong platform page ~4%.",
+              "kind": "rule",
+              "detail": "Conversion benchmarks that decide how many steps a funnel can afford:\n\n- **Every added step loses about 50% or more.** Two landing pages in a row is not one funnel, it is two 50% haircuts.\n- **Web pages typically convert 1-2%.**\n- **A strong, trusted platform page converts around 4%** - trust in the platform raises overall conversion.\n- **Webinar/opt-in leads convert up to 5% of leads** when the niche is tight (that is leads, not shows).\n\nDesign implication: collapse steps. Speed-to-lead and removing a single interstitial page is often worth more than any copy change.",
+              "children": [
+                {
+                  "id": "L.5.9.1",
+                  "title": "Each step ≈ -50%",
+                  "spec": "Two pages in a row means two haircuts."
+                },
+                {
+                  "id": "L.5.9.2",
+                  "title": "Web pages 1-2%",
+                  "spec": "Typical conversion band."
+                },
+                {
+                  "id": "L.5.9.3",
+                  "title": "Trusted platform page ~4%",
+                  "spec": "Platform trust lifts conversion overall."
+                },
+                {
+                  "id": "L.5.9.4",
+                  "title": "Niche opt-in → up to 5% of leads",
+                  "spec": "Leads, not shows. Tighter niche lifts it."
+                }
+              ]
             }
           ],
-          "detail": "Run ads last, after the offer converts in warm or cold channels.\n\n- Platform: choose where your customers already are (Meta for B2C, LinkedIn for B2B, Google for intent, YouTube for education).\n- Targeting: build lookalikes from your best customers first, then test warmer and colder audiences. More filters = more efficient spend but audiences burn out faster.\n- Ad anatomy - Callout + Value + CTA:\n  - Callout devices: labels, yes-questions, if-then statements, ridiculous results, contrast, likeness.\n  - Value = What-Who-When: what they get, who it's for, when they get it. Walk the prospect through past, present, and future; show status change through other people's eyes.\n  - CTA = exact next step + real scarcity, urgency, or bonus.\n- Landing page: continue the ad's experience. The ad's job is the click; the page's job is the conversion. Mismatch kills conversions.\n- Hook-first: ~80% of ad performance lives in the hook/creative. Test 5-10 hook variations per concept, always, even while winners run.\n- Production math: 50 hooks × 3-5 meat variations × 1-3 CTAs = 150-750 ad variants per week.\n- Four ad types to rotate: direct response, content/value, social proof, pattern interrupt.\n\nBudget rules\n- Three phases: Track (instrument everything) → Lose (treat spend as investing in a money-printing machine; test budget = 2× your 30-day cash; kill at 1× if zero leads came in) → Print (reverse-engineer from the customer goal, then pad ~20%).\n- Kill any ad that exceeds 2× your target cost-per-lead without converting. Judge only after 20-50 leads.\n- Scale winners by ~20% per day max; bigger jumps reset the learning phase.\n- LTGP:CAC ≥ 3:1. If CAC sits below 3× industry average, fix the business model; if above, fix the ads.\n- Client-Financed Acquisition: recover acquisition + fulfillment cost within 30 days via an upsell so customers fund their own acquisition. Use the upsell to close the gap, not a smaller ad budget.\n- Don't confuse a sales problem with an advertising problem: check whether engaged leads actually have the problem you solve and the money to buy."
+          "detail": "Run ads last, after the offer converts in warm or cold channels.\n\n- Platform: choose where your customers already are (Meta for B2C, LinkedIn for B2B, Google for intent, YouTube for education).\n- Targeting: build lookalikes from your best customers first, then test warmer and colder audiences. More filters = more efficient spend but audiences burn out faster.\n- Ad anatomy - Callout + Value + CTA:\n  - Callout devices: labels, yes-questions, if-then statements, ridiculous results, contrast, likeness.\n  - Value = What-Who-When: what they get, who it's for, when they get it. Walk the prospect through past, present, and future; show status change through other people's eyes.\n  - CTA = exact next step + real scarcity, urgency, or bonus.\n- Landing page: continue the ad's experience. The ad's job is the click; the page's job is the conversion. Mismatch kills conversions.\n- Hook-first: ~80% of ad performance lives in the hook/creative. Test 5-10 hook variations per concept, always, even while winners run.\n- Production math: 50 hooks × 3-5 meat variations × 1-3 CTAs = 150-750 ad variants per week.\n- Four ad types to rotate: direct response, content/value, social proof, pattern interrupt.\n\nBudget rules\n- Three phases: Track (instrument everything) → Lose (treat spend as investing in a money-printing machine; test budget = 2× your 30-day cash; kill at 1× if zero leads came in) → Print (reverse-engineer from the customer goal, then pad ~20%).\n- Kill any ad that exceeds 2× your target cost-per-lead without converting. Judge only after 20-50 leads.\n- Scale winners by ~20% per day max; bigger jumps reset the learning phase.\n- LTGP:CAC ≥ 3:1. If CAC sits below 3× industry average, fix the business model; if above, fix the ads.\n- Client-Financed Acquisition: recover acquisition + fulfillment cost within 30 days via an upsell so customers fund their own acquisition. Use the upsell to close the gap, not a smaller ad budget.\n- Don't confuse a sales problem with an advertising problem: check whether engaged leads actually have the problem you solve and the money to buy.",
+          "quotes": [
+            {
+              "t": "If you're a local gym and you're spending, call it, $10,000 a month on ads, you're reaching every single person in your radius multiple times a week.",
+              "src": "13 Years of Marketing Advice in 85 Mins",
+              "vid": "reisEL_D7xc"
+            }
+          ]
         },
         {
           "id": "L.6",
@@ -616,7 +742,14 @@ const DATA = {
               "spec": "Results with proof · mistakes with lessons · process · polarizing opinions."
             }
           ],
-          "detail": "The audience is the compounding asset. Content is advertising you don't pay per impression.\n\n- Content Unit = Hook (topic + headline + format) + Retain (curiosity via lists, steps, stories) + Reward (value per second). Nothing is too long - only too boring.\n- Give:ask ≥ 3:1. Best mode: give until they ask. Give in public, ask in private.\n  - Integrated ask: a CTA in every piece.\n  - Intermittent ask: offer roughly every 11th piece.\n- Posting system: one long-form piece per week (YouTube, podcast, newsletter) → chop into 7+ short-form pieces (Reels, Shorts, TikToks, threads, LinkedIn posts) → adapt to each platform → post daily where your buyers are.\n- Consistency beats virality. One post per day for a year outperforms one lucky viral hit.\n- Repurpose the same message across platforms, adjusted for format - don't create from scratch for each channel.\n- Narrow first: puddles → ponds → lakes → oceans. Own one specific audience before broadening.\n- Depth-then-width or width-then-depth - pick one and run it; don't drift between the two.\n- Say \"How I,\" not \"How to.\" Document what you actually do; don't manufacture content.\n- Content types that build trust fastest: results you got (with proof), mistakes you made (with lessons), process you follow (step by step), opinions that polarize (a real stance).\n- Manual beats pre-scheduled. Post in the moment where the platform rewards it; avoid blaming short attention spans for weak hooks."
+          "detail": "The audience is the compounding asset. Content is advertising you don't pay per impression.\n\n- Content Unit = Hook (topic + headline + format) + Retain (curiosity via lists, steps, stories) + Reward (value per second). Nothing is too long - only too boring.\n- Give:ask ≥ 3:1. Best mode: give until they ask. Give in public, ask in private.\n  - Integrated ask: a CTA in every piece.\n  - Intermittent ask: offer roughly every 11th piece.\n- Posting system: one long-form piece per week (YouTube, podcast, newsletter) → chop into 7+ short-form pieces (Reels, Shorts, TikToks, threads, LinkedIn posts) → adapt to each platform → post daily where your buyers are.\n- Consistency beats virality. One post per day for a year outperforms one lucky viral hit.\n- Repurpose the same message across platforms, adjusted for format - don't create from scratch for each channel.\n- Narrow first: puddles → ponds → lakes → oceans. Own one specific audience before broadening.\n- Depth-then-width or width-then-depth - pick one and run it; don't drift between the two.\n- Say \"How I,\" not \"How to.\" Document what you actually do; don't manufacture content.\n- Content types that build trust fastest: results you got (with proof), mistakes you made (with lessons), process you follow (step by step), opinions that polarize (a real stance).\n- Manual beats pre-scheduled. Post in the moment where the platform rewards it; avoid blaming short attention spans for weak hooks.",
+          "quotes": [
+            {
+              "t": "The reason that my ads do well when I have my $10 million building behind me is like, 'Oh, well, that's hard to fake.'",
+              "src": "If I Wanted To Grow An Audience In 2026, I'd Do This",
+              "vid": "Jmkq5RLjm0U"
+            }
+          ]
         },
         {
           "id": "L.7",
@@ -820,9 +953,45 @@ const DATA = {
               "id": "M.3.4",
               "title": "Rollover",
               "spec": "Credit paid toward next offer ≥ 4× the credit (discount ≤ 25%)."
+            },
+            {
+              "id": "M.3.5",
+              "title": "Upsell uptake benchmarks",
+              "spec": "20-30% is normal uptake. Assume-close lifts it past 90%. Prefer zero-cost, zero-work upsells.",
+              "kind": "rule",
+              "detail": "Upsell performance benchmarks:\n\n- **20-30% uptake** is the normal range for a straightforward upsell.\n- **90%+ take rates** are achievable using an *assume close* - presenting the next thing as already decided rather than asking whether they want it.\n- **Prefer zero-cost, zero-work upsells** so incremental revenue arrives with no added fulfilment burden.\n\nUptake below 20% usually means the upsell is a different product rather than the obvious next step for the problem just solved.",
+              "children": [
+                {
+                  "id": "M.3.5.1",
+                  "title": "20-30% = normal",
+                  "spec": "Baseline for a standard upsell."
+                },
+                {
+                  "id": "M.3.5.2",
+                  "title": "90%+ with assume-close",
+                  "spec": "Frame the next purchase as decided, not as a question."
+                },
+                {
+                  "id": "M.3.5.3",
+                  "title": "Zero cost, zero work",
+                  "spec": "Best upsell adds revenue without adding fulfilment."
+                }
+              ]
             }
           ],
-          "detail": "Upsells solve the customer's next problem the moment it appears - after purchase, before momentum dies. They fail three ways: wrong thing, wrong time, wrong delivery. Always feature the higher-profit option first.\n\n1. Classic - Solve the next immediate problem while the buying window is open. Surprise and delight, then present the option. Ask for the no early so a yes is possible (say-no-to-say-yes). Exploit the Hyper Buying Cycle: the short window right after purchase when appetites peak. Book the next meeting before ending the current one (BAMFAM). Present three price options to nudge buyers to the middle.\n2. Menu - Offer options instead of one upsell. Four moves: Unselling (name what they don't need), Prescription (name what they need and why), A/B choice (which one, not whether), card-on-file capture so every later yes takes one step.\n3. Anchor - Show a premium option at 5-10× the main price first, let the gasp land, then rescue them with the main offer, which now reads as cheap. Some buyers take the premium anyway - always keep one ready for budgets that can absorb it.\n4. Rollover - Credit what they already paid toward a bigger next offer. Rule: the next offer must be at least 4× the credit, keeping the effective discount at 25% or less. Four audiences: lapsed, upset, a competitor's customers, current customers. Pair with a winback campaign, one-time urgency, and a gift-card play (gift card at roughly 20% of the next offer's price)."
+          "detail": "Upsells solve the customer's next problem the moment it appears - after purchase, before momentum dies. They fail three ways: wrong thing, wrong time, wrong delivery. Always feature the higher-profit option first.\n\n1. Classic - Solve the next immediate problem while the buying window is open. Surprise and delight, then present the option. Ask for the no early so a yes is possible (say-no-to-say-yes). Exploit the Hyper Buying Cycle: the short window right after purchase when appetites peak. Book the next meeting before ending the current one (BAMFAM). Present three price options to nudge buyers to the middle.\n2. Menu - Offer options instead of one upsell. Four moves: Unselling (name what they don't need), Prescription (name what they need and why), A/B choice (which one, not whether), card-on-file capture so every later yes takes one step.\n3. Anchor - Show a premium option at 5-10× the main price first, let the gasp land, then rescue them with the main offer, which now reads as cheap. Some buyers take the premium anyway - always keep one ready for budgets that can absorb it.\n4. Rollover - Credit what they already paid toward a bigger next offer. Rule: the next offer must be at least 4× the credit, keeping the effective discount at 25% or less. Four audiences: lapsed, upset, a competitor's customers, current customers. Pair with a winback campaign, one-time urgency, and a gift-card play (gift card at roughly 20% of the next offer's price).",
+          "quotes": [
+            {
+              "t": "Most people get 20 to 30% uptake on their upsells. If you use an assume close tactic like this, you can literally see 90% plus take rates.",
+              "src": "How To Close Everyone Downselling Like A Pro",
+              "vid": "j1tA4l7R2c0"
+            },
+            {
+              "t": "If you have upsells, try and have them be zero cost, zero work upsells, so that you can just make more money up front.",
+              "src": "How to Start a Business From Nothing (Thank Me Later)",
+              "vid": "unshZobTt6Q"
+            }
+          ]
         },
         {
           "id": "M.4",
@@ -868,7 +1037,14 @@ const DATA = {
               "spec": "Setup 3-5× monthly rate, waived on term. Early cancels < 5%."
             }
           ],
-          "detail": "Build continuity last, after the one-time offers work. You are stacking three levers: bonuses, discounts, and fees.\n\n1. Continuity Bonus - Add a bonus for joining today; it must be worth more than the first payment. Advertise the bonus, not the membership. The standalone-to-continuity price ratio steers the mix:\n\n   | Ratio | % choosing continuity |\n   |---|---|\n   | 1.33× | ~50% |\n   | 1.66× | ~60% |\n   | 2× | ~70% |\n   | 2.33× | ~80% |\n   | 2.66× | ~90% |\n\n   Add a bulk-prepaid upsell (for example, 10 months for the price of 12) - it lifts 30-day profit sharply even at a one-in-eight take rate.\n2. Continuity Discount - Trade free time for commitment. Apply it up front, at the end, spread across months, or after the first one or two payments. Bill every four weeks instead of monthly: 13 cycles a year instead of 12 adds about 8.3% revenue at the same listed price. Add a 3% processing fee. Capture a second payment method (ACH) so card failures don't churn customers.\n3. Waived Fee - Charge a setup fee of 3-5× the monthly rate, then waive it in return for a term commitment; leaving early makes the fee due. People stay longer when leaving costs more than staying. If over 5% cancel early, fix onboarding and delivery before adding more acquisition."
+          "detail": "Build continuity last, after the one-time offers work. You are stacking three levers: bonuses, discounts, and fees.\n\n1. Continuity Bonus - Add a bonus for joining today; it must be worth more than the first payment. Advertise the bonus, not the membership. The standalone-to-continuity price ratio steers the mix:\n\n   | Ratio | % choosing continuity |\n   |---|---|\n   | 1.33× | ~50% |\n   | 1.66× | ~60% |\n   | 2× | ~70% |\n   | 2.33× | ~80% |\n   | 2.66× | ~90% |\n\n   Add a bulk-prepaid upsell (for example, 10 months for the price of 12) - it lifts 30-day profit sharply even at a one-in-eight take rate.\n2. Continuity Discount - Trade free time for commitment. Apply it up front, at the end, spread across months, or after the first one or two payments. Bill every four weeks instead of monthly: 13 cycles a year instead of 12 adds about 8.3% revenue at the same listed price. Add a 3% processing fee. Capture a second payment method (ACH) so card failures don't churn customers.\n3. Waived Fee - Charge a setup fee of 3-5× the monthly rate, then waive it in return for a term commitment; leaving early makes the fee due. People stay longer when leaving costs more than staying. If over 5% cancel early, fix onboarding and delivery before adding more acquisition.",
+          "quotes": [
+            {
+              "t": "The first thing we did is we introduced a highest tier continuity option that would make the existing $2,000 a month or $4,500 per quarter seem reasonable by comparison.",
+              "src": "I Blew Up A Secret Business To Prove It's Not Luck",
+              "vid": "SmiOK8Yun4s"
+            }
+          ]
         },
         {
           "id": "M.6",
@@ -889,9 +1065,45 @@ const DATA = {
               "id": "M.6.3",
               "title": "Fix order",
               "spec": "Move upsell → raise price → 4-week billing → cut delivery → CAC last."
+            },
+            {
+              "id": "M.6.6",
+              "title": "Arbitrage windows - when LTV:CAC runs 30:1+",
+              "spec": "Gym Launch year 1: 100:1 ($100k spend → $10M). Four such windows in his life, every one above 30:1.",
+              "kind": "rule",
+              "detail": "The 3:1 LTV:CAC figure is a *floor for durability*, not a target for ambition. Hormozi's outsized wealth came from short windows where the arbitrage between acquisition cost and customer value was enormous:\n\n- **Gym Launch, year one: LTV:CAC of 100:1.** He spent $100,000 and made $10 million.\n- **Four windows in his life, every one above 30:1.** Each was a period when a channel was mispriced relative to what a customer was worth.\n\nImplication: 3:1 keeps you alive; 30:1+ makes you rich. The job is to keep beating on the system - tweaking the money model - until you land inside an arbitrage window. When you find one, scale spend hard and do not cap it. When the window closes, the 3:1 floor is what keeps you in business.",
+              "children": [
+                {
+                  "id": "M.6.6.1",
+                  "title": "3:1 is the floor, not the goal",
+                  "spec": "Durability threshold. Survive here, don't celebrate here."
+                },
+                {
+                  "id": "M.6.6.2",
+                  "title": "30:1+ windows make the wealth",
+                  "spec": "Four in his life. Scale spend without a cap while one is open."
+                },
+                {
+                  "id": "M.6.6.3",
+                  "title": "30-day CAC payback",
+                  "spec": "Goal: recover CAC within 30 days - the interest-free float on a credit card."
+                }
+              ]
             }
           ],
-          "detail": "Client-Financed Acquisition (CFA) means the customer funds their own acquisition - fast. The 30-day rule: earn more gross profit from a customer inside 30 days than it costs to acquire and deliver to them. One customer should fund acquiring and servicing at least two more. Run the cycle monthly: it works like an interest-free 30-day credit line you can recycle forever.\n\nFive CFA levels:\n- Level 1: recovered in the first transaction.\n- Level 2: recovered within 30 days.\n- Level 3: recovered within 90 days.\n- Level 4: recovered within 12 months.\n- Level 5: never recovered - that is a hobby, not a business.\n\nRun this math per customer:\n\n30-day gross profit =\n  (core price − delivery cost)\n  + (upsell gross profit × take rate)\n  + (continuity revenue in month 1 − delivery × take rate)\n\nPayback check:   30-day gross profit ≥ CAC + delivery cost\nCFA target:      30-day gross profit ≥ 2 × (CAC + delivery cost)  → funds two more\nLTGP:CAC         = lifetime gross profit ÷ CAC\n\nSpeed compounds. Double value per customer, double volume, and double cycle speed → 8× growth. Triple all three → 27×.\n\nWhen the 30-day check fails, fix in this order:\n1. Add or move an upsell to the point of greatest need - fastest lift, no new delivery.\n2. Raise the core price in stages until profit peaks.\n3. Switch continuity to 4-week billing and add a prepaid option.\n4. Cut delivery cost with group or digital formats.\n5. Only then attack CAC with new creative or channels - acquisition is the slowest lever to move."
+          "detail": "Client-Financed Acquisition (CFA) means the customer funds their own acquisition - fast. The 30-day rule: earn more gross profit from a customer inside 30 days than it costs to acquire and deliver to them. One customer should fund acquiring and servicing at least two more. Run the cycle monthly: it works like an interest-free 30-day credit line you can recycle forever.\n\nFive CFA levels:\n- Level 1: recovered in the first transaction.\n- Level 2: recovered within 30 days.\n- Level 3: recovered within 90 days.\n- Level 4: recovered within 12 months.\n- Level 5: never recovered - that is a hobby, not a business.\n\nRun this math per customer:\n\n30-day gross profit =\n  (core price − delivery cost)\n  + (upsell gross profit × take rate)\n  + (continuity revenue in month 1 − delivery × take rate)\n\nPayback check:   30-day gross profit ≥ CAC + delivery cost\nCFA target:      30-day gross profit ≥ 2 × (CAC + delivery cost)  → funds two more\nLTGP:CAC         = lifetime gross profit ÷ CAC\n\nSpeed compounds. Double value per customer, double volume, and double cycle speed → 8× growth. Triple all three → 27×.\n\nWhen the 30-day check fails, fix in this order:\n1. Add or move an upsell to the point of greatest need - fastest lift, no new delivery.\n2. Raise the core price in stages until profit peaks.\n3. Switch continuity to 4-week billing and add a prepaid option.\n4. Cut delivery cost with group or digital formats.\n5. Only then attack CAC with new creative or channels - acquisition is the slowest lever to move.",
+          "quotes": [
+            {
+              "t": "The first year of gym launch, my LTV CAC was 100 to one. I spent a hundred grand and made 10 million.",
+              "src": "The Mathematics of Business, Explained",
+              "vid": "A_tx40lNpf8"
+            },
+            {
+              "t": "Most of the money that I've made in my life has happened during these distinct windows of opportunity where there was huge arbitrage between what it cost me to get a customer and what a customer is worth to me. I've had that happen four times in my life. And each of those times have been above 30 to1.",
+              "src": "The Mathematics of Business, Explained",
+              "vid": "A_tx40lNpf8"
+            }
+          ]
         },
         {
           "id": "M.7",
@@ -983,9 +1195,45 @@ const DATA = {
               "id": "S.1.6",
               "title": "R - Reinforce",
               "spec": "Onboard live on the call. Sale completes only on the first action."
+            },
+            {
+              "id": "S.1.8",
+              "title": "Rep quota: 35% close rate",
+              "spec": "Rule of thumb: a rep should close 1 in 3 touched prospects. Above 35% → raise price. Below → fix process before price.",
+              "kind": "rule",
+              "detail": "The benchmark Hormozi uses to read a sales team:\n\n- **35% close rate** (one in three) is the rule of thumb for a salesperson working a proper process.\n- **Above 35% → he raises price.** A rep closing too well is evidence the price is too low, not that the rep is gifted.\n- **Below 35% → he fixes the process** before even considering a price cut.\n- **25% or less → the rep gets bumped down a tier.**\n\nNote this ties directly into the close-rate → price ladder (O.9.7): the same number that grades the rep also grades the price. That is the point - close rate is a single instrument that tells you about both.",
+              "children": [
+                {
+                  "id": "S.1.8.1",
+                  "title": "35% = 1 in 3 touched prospects",
+                  "spec": "Benchmark for a rep with a real process."
+                },
+                {
+                  "id": "S.1.8.2",
+                  "title": "Above 35% → raise price",
+                  "spec": "A rep closing better than quota means the price is low."
+                },
+                {
+                  "id": "S.1.8.3",
+                  "title": "Below 35% → fix process first",
+                  "spec": "Price is the last lever, never the first."
+                },
+                {
+                  "id": "S.1.8.4",
+                  "title": "70% calendar utilisation",
+                  "spec": "Sweet spot. Fully booked → conversion drops and CAC rises."
+                }
+              ]
             }
           ],
-          "detail": "Run every call through these six stages in order. Skipping a stage shows up later as an objection you cannot trace.\n\nC - Clarify why they are here.\n- Open with a single question: \"What made you decide to book this call today?\" Then stop talking.\n- Follow with \"Tell me more about that,\" and repeat their own words back. Let them spend this phase describing the problem; the more they articulate it, the more they convince themselves.\n- Listen for emotional language, past spending, deadlines, and who else is affected. Note their exact phrases - you will reuse them in the label and the close.\n- If they open with a price question, deflect once: \"I'll answer that fully. First I need to understand your situation so the answer is accurate.\"\n\nL - Label their problem inside a pattern.\n- Stock line: \"So it sounds like you have tried X and Y, they worked for a while, and you ended up back where you started because of Z. Does that sound right?\"\n- Two jobs: demonstrate you have seen this pattern before, and make them feel understood.\n- \"Yes, exactly\" means continue. A shrug or correction means you misdiagnosed - go back and dig.\n\nO - Overview their past attempts.\n- Stock question: \"What have you tried so far, and what happened with each?\"\n- Three uses: show you care about their history; learn what not to position against (someone burned by a DIY course will not buy another DIY course); and set up your mechanism as the missing piece - \"Those stalled because they were missing [your mechanism].\"\n- Log every failed attempt and their stated reason. Each one becomes objection-proofing material for the pitch.\n\nS - Sell the vacation, not the plane ride.\n- Stock line: \"Imagine [timeframe] from now. You have [specific outcome]. How would that change things for you?\"\n- Have them describe the after-state out loud, in their own words. They sell themselves here.\n- Only then connect your mechanism to that destination, three phases at most. Keep the how high-level; the beach matters, not the flight.\n- Verify the four silent questions are answered: what do I get, how do I know it works, how long will it take, what do I have to do.\n\nE - Explain away their concerns.\n- Transition with: \"What questions do you have for me?\" Never \"What do you think?\" - it invites noise. Never \"Are you ready to start?\" - too early and it triggers retreat.\n- Translate every objection into its hidden question: \"Will this work in my specific case, given [worry]?\"\n- Handle with three moves: Isolate - \"Is that the only thing holding you back?\" Restate - \"If I can show you [evidence], do we move forward?\" Answer with proof - matched case study, mechanism explanation, guarantee, or logic.\n- Handle one objection at a time. Confirm resolution before advancing.\n\nR - Reinforce the decision.\n- Immediately after yes: \"You made a great decision. Here is exactly what happens next.\"\n- Walk through onboarding live on the call, book the next step, and confirm the first action before hanging up.\n- The sale is not complete until they take that first action. Reinforcement prevents buyer's remorse and no-shows."
+          "detail": "Run every call through these six stages in order. Skipping a stage shows up later as an objection you cannot trace.\n\nC - Clarify why they are here.\n- Open with a single question: \"What made you decide to book this call today?\" Then stop talking.\n- Follow with \"Tell me more about that,\" and repeat their own words back. Let them spend this phase describing the problem; the more they articulate it, the more they convince themselves.\n- Listen for emotional language, past spending, deadlines, and who else is affected. Note their exact phrases - you will reuse them in the label and the close.\n- If they open with a price question, deflect once: \"I'll answer that fully. First I need to understand your situation so the answer is accurate.\"\n\nL - Label their problem inside a pattern.\n- Stock line: \"So it sounds like you have tried X and Y, they worked for a while, and you ended up back where you started because of Z. Does that sound right?\"\n- Two jobs: demonstrate you have seen this pattern before, and make them feel understood.\n- \"Yes, exactly\" means continue. A shrug or correction means you misdiagnosed - go back and dig.\n\nO - Overview their past attempts.\n- Stock question: \"What have you tried so far, and what happened with each?\"\n- Three uses: show you care about their history; learn what not to position against (someone burned by a DIY course will not buy another DIY course); and set up your mechanism as the missing piece - \"Those stalled because they were missing [your mechanism].\"\n- Log every failed attempt and their stated reason. Each one becomes objection-proofing material for the pitch.\n\nS - Sell the vacation, not the plane ride.\n- Stock line: \"Imagine [timeframe] from now. You have [specific outcome]. How would that change things for you?\"\n- Have them describe the after-state out loud, in their own words. They sell themselves here.\n- Only then connect your mechanism to that destination, three phases at most. Keep the how high-level; the beach matters, not the flight.\n- Verify the four silent questions are answered: what do I get, how do I know it works, how long will it take, what do I have to do.\n\nE - Explain away their concerns.\n- Transition with: \"What questions do you have for me?\" Never \"What do you think?\" - it invites noise. Never \"Are you ready to start?\" - too early and it triggers retreat.\n- Translate every objection into its hidden question: \"Will this work in my specific case, given [worry]?\"\n- Handle with three moves: Isolate - \"Is that the only thing holding you back?\" Restate - \"If I can show you [evidence], do we move forward?\" Answer with proof - matched case study, mechanism explanation, guarantee, or logic.\n- Handle one objection at a time. Confirm resolution before advancing.\n\nR - Reinforce the decision.\n- Immediately after yes: \"You made a great decision. Here is exactly what happens next.\"\n- Walk through onboarding live on the call, book the next step, and confirm the first action before hanging up.\n- The sale is not complete until they take that first action. Reinforcement prevents buyer's remorse and no-shows.",
+          "quotes": [
+            {
+              "t": "My rule of thumb with sales people in general with a proper sales process is 35%. I would like them to close at least one out of three of the prospects that they're getting touched with. Typically, if it's higher than that, I will raise price. And if it's below that, then I will fix the process before I even consider lowering the price.",
+              "src": "The Mathematics of Business, Explained",
+              "vid": "A_tx40lNpf8"
+            }
+          ]
         },
         {
           "id": "S.2",
@@ -1092,7 +1340,14 @@ const DATA = {
               "spec": "Text in minutes · email same day · call 24-48h · DM ongoing · 7+ touches."
             }
           ],
-          "detail": "Pre-call\n- Qualify at booking: budget range, decision authority, timeline, and why now.\n- Prime the call: confirmation message with agenda, duration, and what to have ready; reminders at 24 hours and 1 hour before. No-shows are usually a priming failure, not a lead failure.\n- Prepare the two or three proof assets closest to this prospect's situation, the guarantee wording, and the payment options.\n- Review their form answers, DMs, and notes beforehand. Walk in already knowing the likely top objection.\n\nCall - 45-minute high-ticket shape\n\n| Minutes | Segment |\n|---|---|\n| 0-5 | Rapport + clarify why they are here |\n| 5-15 | Problem deep-dive + past attempts |\n| 15-20 | Dream outcome + transition to solution |\n| 20-30 | Offer + value stack + price |\n| 30-40 | Objections + isolation |\n| 40-45 | Close + reinforce + schedule the next step |\n\n- Target roughly 70% of the call on their situation, 30% on your solution. If the offer is still landing after minute 30, you spent too long on biography.\n- Present the mechanism before the price, and present price as a contrast to the stack, never as a naked number.\n- End every held call with a scheduled next action - including the noes.\n\nFollow-up and speed-to-lead\n- Answer every new lead within five minutes where humanly possible. If nobody ever marvels at your response speed, you are too slow.\n- Book same-day or next-day appointments. Every extra day between booking and call raises the no-show rate.\n- Reply to texts and emails within minutes, not hours. Response speed telegraphs your interest level and predicts theirs.\n- Follow-up grid:\n\n| Channel | Timing | Purpose |\n|---|---|---|\n| Text | Within minutes | Confirm, answer, schedule |\n| Email | Same day | Recap, details, value |\n| Phone | 24-48 hours | Personal touch, reschedule |\n| DM | Ongoing | Relationship, keep warm |\n\n- Plan seven or more touches. Every contact delivers value or moves them to a next step - never send \"just checking in.\"\n- Base sequence: immediate text, same-day email plus one call attempt, day 2-3 case study with two concrete time slots, day 4-7 personal call and objection FAQ, week 2+ weekly value touch.\n- Re-contact no-decision leads in 30-90 days with a new reason to talk (new proof, bonus window, price change). Re-run dormant cold lists every 3-6 months."
+          "detail": "Pre-call\n- Qualify at booking: budget range, decision authority, timeline, and why now.\n- Prime the call: confirmation message with agenda, duration, and what to have ready; reminders at 24 hours and 1 hour before. No-shows are usually a priming failure, not a lead failure.\n- Prepare the two or three proof assets closest to this prospect's situation, the guarantee wording, and the payment options.\n- Review their form answers, DMs, and notes beforehand. Walk in already knowing the likely top objection.\n\nCall - 45-minute high-ticket shape\n\n| Minutes | Segment |\n|---|---|\n| 0-5 | Rapport + clarify why they are here |\n| 5-15 | Problem deep-dive + past attempts |\n| 15-20 | Dream outcome + transition to solution |\n| 20-30 | Offer + value stack + price |\n| 30-40 | Objections + isolation |\n| 40-45 | Close + reinforce + schedule the next step |\n\n- Target roughly 70% of the call on their situation, 30% on your solution. If the offer is still landing after minute 30, you spent too long on biography.\n- Present the mechanism before the price, and present price as a contrast to the stack, never as a naked number.\n- End every held call with a scheduled next action - including the noes.\n\nFollow-up and speed-to-lead\n- Answer every new lead within five minutes where humanly possible. If nobody ever marvels at your response speed, you are too slow.\n- Book same-day or next-day appointments. Every extra day between booking and call raises the no-show rate.\n- Reply to texts and emails within minutes, not hours. Response speed telegraphs your interest level and predicts theirs.\n- Follow-up grid:\n\n| Channel | Timing | Purpose |\n|---|---|---|\n| Text | Within minutes | Confirm, answer, schedule |\n| Email | Same day | Recap, details, value |\n| Phone | 24-48 hours | Personal touch, reschedule |\n| DM | Ongoing | Relationship, keep warm |\n\n- Plan seven or more touches. Every contact delivers value or moves them to a next step - never send \"just checking in.\"\n- Base sequence: immediate text, same-day email plus one call attempt, day 2-3 case study with two concrete time slots, day 4-7 personal call and objection FAQ, week 2+ weekly value touch.\n- Re-contact no-decision leads in 30-90 days with a new reason to talk (new proof, bonus window, price change). Re-run dormant cold lists every 3-6 months.",
+          "quotes": [
+            {
+              "t": "If somebody's closing, let's say, 25% or less, they get bumped down.",
+              "src": "How I Scaled My Sales Team",
+              "vid": "okA9Yt2KZuk"
+            }
+          ]
         },
         {
           "id": "S.6",
@@ -1110,7 +1365,14 @@ const DATA = {
               "spec": "Multiple stakeholders, complex offer, low awareness. Set, then close."
             }
           ],
-          "detail": "- One-call close - use when budget is qualified before the call, intent is high, the offer is simple enough to explain in one sitting, and the decision-maker is on the line. Fastest cash; it demands a strong closer and a clean pre-call frame.\n- Two-step close - use when multiple stakeholders decide, the offer is complex or regulated, trust must be built, or the prospect is low-awareness and needs education first. Step one diagnoses and educates; step two decides.\n- Add a step when: calls routinely run past 60 minutes, most calls end with \"I need to talk to my partner,\" decision-makers no-show, or the price is high relative to existing trust.\n- Collapse back to one call when: second-call show rates fall under roughly 50-60%, the gap between calls cools interest, or the first call already delivers full clarity.\n- Either structure, keep the promise consistent across steps: the setter's framing must match the closer's agenda, or distrust shows up in the first five minutes.\n- When a one-call process underperforms, fix the set-to-close handoff - pre-framing, qualification, reminder sequence - before adding another call."
+          "detail": "- One-call close - use when budget is qualified before the call, intent is high, the offer is simple enough to explain in one sitting, and the decision-maker is on the line. Fastest cash; it demands a strong closer and a clean pre-call frame.\n- Two-step close - use when multiple stakeholders decide, the offer is complex or regulated, trust must be built, or the prospect is low-awareness and needs education first. Step one diagnoses and educates; step two decides.\n- Add a step when: calls routinely run past 60 minutes, most calls end with \"I need to talk to my partner,\" decision-makers no-show, or the price is high relative to existing trust.\n- Collapse back to one call when: second-call show rates fall under roughly 50-60%, the gap between calls cools interest, or the first call already delivers full clarity.\n- Either structure, keep the promise consistent across steps: the setter's framing must match the closer's agenda, or distrust shows up in the first five minutes.\n- When a one-call process underperforms, fix the set-to-close handoff - pre-framing, qualification, reminder sequence - before adding another call.",
+          "quotes": [
+            {
+              "t": "The reason pre-selling is important, especially as you scale, is that you want to always shorten sales cycles.",
+              "src": "I Blew Up A Secret Business To Prove It's Not Luck",
+              "vid": "SmiOK8Yun4s"
+            }
+          ]
         },
         {
           "id": "S.7",
@@ -1214,7 +1476,14 @@ const DATA = {
               "spec": "Own a category, specialize deep, clean the books, exit or hold."
             }
           ],
-          "detail": "| # | Stage | What changes | Your job | You graduate when |\n|---|---|---|---|---|\n| 0 | Improvise | Nothing proven yet | Talk to prospects, hand-deliver, find a repeated problem | People try it for free and come back |\n| 1 | Monetize | First revenue | Sell manually, validate the price, prove people pay | Sales become consistent |\n| 2 | Advertise | Predictable acquisition | Run paid or repeatable lead gen, track CAC | You acquire customers at a profit |\n| 3 | Stabilize | Systems and a small team | Document processes, hire delivery, reduce founder hours | The business runs two weeks without you |\n| 4 | Prioritize | Focus | Audit every activity, kill low-value work, keep 1-2 channels | You say no by default |\n| 5 | Productize | Scalable delivery | Standardize the offer, make onboarding self-serve | New customers onboard with no calls |\n| 6 | Optimize | Margins and retention | Test everything, cut churn, lift LTV | Every key metric is tracked and improving |\n| 7 | Categorize | Positioning | Name the category you want to own, become the reference | Media and competitors cite you |\n| 8 | Specialize | Depth, not breadth | Go deeper on the one thing you are best at | Premium pricing, inbound demand |\n| 9 | Capitalize | Endgame | Clean the books, evaluate options, decide | Exit or hold decision is made |\n\nRules for the roadmap:\n- Do not skip stages. Each one installs the muscle the next one needs.\n- Stage 3 is the hard one: if a two-week absence breaks the business, you have not graduated.\n- Re-run the model at every stage. The skill that got you to $1M will not get you to $10M."
+          "detail": "| # | Stage | What changes | Your job | You graduate when |\n|---|---|---|---|---|\n| 0 | Improvise | Nothing proven yet | Talk to prospects, hand-deliver, find a repeated problem | People try it for free and come back |\n| 1 | Monetize | First revenue | Sell manually, validate the price, prove people pay | Sales become consistent |\n| 2 | Advertise | Predictable acquisition | Run paid or repeatable lead gen, track CAC | You acquire customers at a profit |\n| 3 | Stabilize | Systems and a small team | Document processes, hire delivery, reduce founder hours | The business runs two weeks without you |\n| 4 | Prioritize | Focus | Audit every activity, kill low-value work, keep 1-2 channels | You say no by default |\n| 5 | Productize | Scalable delivery | Standardize the offer, make onboarding self-serve | New customers onboard with no calls |\n| 6 | Optimize | Margins and retention | Test everything, cut churn, lift LTV | Every key metric is tracked and improving |\n| 7 | Categorize | Positioning | Name the category you want to own, become the reference | Media and competitors cite you |\n| 8 | Specialize | Depth, not breadth | Go deeper on the one thing you are best at | Premium pricing, inbound demand |\n| 9 | Capitalize | Endgame | Clean the books, evaluate options, decide | Exit or hold decision is made |\n\nRules for the roadmap:\n- Do not skip stages. Each one installs the muscle the next one needs.\n- Stage 3 is the hard one: if a two-week absence breaks the business, you have not graduated.\n- Re-run the model at every stage. The skill that got you to $1M will not get you to $10M.",
+          "quotes": [
+            {
+              "t": "If you want to grow to let's say 300 members, and let's say your churn is 10%.",
+              "src": "Your Inflow Is Your Bottleneck",
+              "vid": "XC_lklN9KmE"
+            }
+          ]
         },
         {
           "id": "R.3",
@@ -1334,9 +1603,50 @@ const DATA = {
               "id": "R.6.5",
               "title": "Churn math",
               "spec": "15%/mo erases ~83% of a year. Halving churn doubles lifespan and LTV."
+            },
+            {
+              "id": "R.6.6",
+              "title": "Retention → LTV: divide by churn",
+              "spec": "LTV = annual payment ÷ churn rate. 50% retention → 2x annual payment. 80% retention → 5x.",
+              "kind": "rule",
+              "detail": "The arithmetic that makes retention the highest-leverage number in the business:\n\n**LTV = annual payment ÷ churn rate.**\n\n- Someone pays **$100/year** at **50% annual retention** → divide by 50% → **$200 LTV**.\n- Same $100/year at **80% annual retention** → divide by 20% → **$500 LTV**.\n\nA 30-point retention improvement - which feels marginal - multiplies customer value **2.5x**. That is why retention outranks acquisition: it moves the denominator of CAC payback and the numerator of what you can afford to spend.\n\nRelated rule: model growth against churn before celebrating it. Growing to 300 members with 10% churn means a large share of new inflow is spent replacing outflow, not adding to the base.",
+              "children": [
+                {
+                  "id": "R.6.6.1",
+                  "title": "LTV = annual payment ÷ churn",
+                  "spec": "The core retention formula."
+                },
+                {
+                  "id": "R.6.6.2",
+                  "title": "50% retention → 2x annual payment",
+                  "spec": "$100/year becomes $200 of LTV."
+                },
+                {
+                  "id": "R.6.6.3",
+                  "title": "80% retention → 5x annual payment",
+                  "spec": "$100/year becomes $500. A 30-point gain is a 2.5x value gain."
+                },
+                {
+                  "id": "R.6.6.4",
+                  "title": "Inflow vs churn",
+                  "spec": "300 members at 10% churn - new inflow largely replaces outflow."
+                }
+              ]
             }
           ],
-          "detail": "Track five drivers of staying power:\n\n| Driver | What it means | Your move |\n|---|---|---|\n| Results | They get what they paid for | Track usage and outcomes; intervene when results stall |\n| Engagement | They actively use the product | Flag drop-offs within 7 days and reach out |\n| Community | They belong | Rituals, groups, member events, peer connections |\n| Progress | They can see improvement | Dashboards, milestones, visible wins |\n| Surprise | You beat expectations | Unexpected extras, personal touches, over-delivery |\n\nChurn taxonomy and save plays:\n\n- Happy churn - they got the result and no longer need you. Fix with an ascension path to the next level.\n- Unhappy churn - they did not get the result. Fix with better onboarding and delivery.\n- Payment churn - declines and failed charges. Fix with card updaters, dunning, grace periods.\n- Life churn - moves, job changes, budget shifts. Fix with pause and downgrade options before cancellation.\n\nCadence rules:\n- The first 48 hours decide the relationship. Engineer one quick win immediately.\n- One meaningful touch weekly minimum; one progress artifact monthly; one renewal or review conversation quarterly.\n- Trigger a human outreach when usage drops for 7 days, before the customer ever clicks cancel.\n- At cancellation intent, offer pause or downgrade first, then ask what change would keep them and genuinely try to solve it.\n- Celebrate milestones publicly - recognition is cheaper than advertising and compounds.\n- Sell prepay where possible: annual pricing or \"pay 10, get 12\" locks commitment and funds growth.\n- Fix billing hygiene early; silent payment failure is the easiest churn to prevent.\n\nChurn math:\n\n15% monthly churn → only ~17% of a cohort survives a year (lose ~83%)\nReduce monthly churn from 10% to 5% → average lifespan doubles (10 → 20 months)\nAt $100/mo, that doubles LTV from $1,000 to $2,000"
+          "detail": "Track five drivers of staying power:\n\n| Driver | What it means | Your move |\n|---|---|---|\n| Results | They get what they paid for | Track usage and outcomes; intervene when results stall |\n| Engagement | They actively use the product | Flag drop-offs within 7 days and reach out |\n| Community | They belong | Rituals, groups, member events, peer connections |\n| Progress | They can see improvement | Dashboards, milestones, visible wins |\n| Surprise | You beat expectations | Unexpected extras, personal touches, over-delivery |\n\nChurn taxonomy and save plays:\n\n- Happy churn - they got the result and no longer need you. Fix with an ascension path to the next level.\n- Unhappy churn - they did not get the result. Fix with better onboarding and delivery.\n- Payment churn - declines and failed charges. Fix with card updaters, dunning, grace periods.\n- Life churn - moves, job changes, budget shifts. Fix with pause and downgrade options before cancellation.\n\nCadence rules:\n- The first 48 hours decide the relationship. Engineer one quick win immediately.\n- One meaningful touch weekly minimum; one progress artifact monthly; one renewal or review conversation quarterly.\n- Trigger a human outreach when usage drops for 7 days, before the customer ever clicks cancel.\n- At cancellation intent, offer pause or downgrade first, then ask what change would keep them and genuinely try to solve it.\n- Celebrate milestones publicly - recognition is cheaper than advertising and compounds.\n- Sell prepay where possible: annual pricing or \"pay 10, get 12\" locks commitment and funds growth.\n- Fix billing hygiene early; silent payment failure is the easiest churn to prevent.\n\nChurn math:\n\n15% monthly churn → only ~17% of a cohort survives a year (lose ~83%)\nReduce monthly churn from 10% to 5% → average lifespan doubles (10 → 20 months)\nAt $100/mo, that doubles LTV from $1,000 to $2,000",
+          "quotes": [
+            {
+              "t": "If you have 50% annual retention, then you can take whatever someone pays over a year - say $100 - and it means that you can basically double it. You divide it by 50%, equals $200 is what you're going to make from a customer.",
+              "src": "The Mathematics of Business, Explained",
+              "vid": "A_tx40lNpf8"
+            },
+            {
+              "t": "Let's say that you have 80% annual retention. Doesn't seem like that much different, right? It's only 30%. It means that you're going to get functionally four turns, five turns because every year you're going to lose 20%.",
+              "src": "The Mathematics of Business, Explained",
+              "vid": "A_tx40lNpf8"
+            }
+          ]
         },
         {
           "id": "R.7",
@@ -1362,9 +1672,50 @@ const DATA = {
               "id": "R.7.4",
               "title": "Backend math",
               "spec": "190 sales × $50 = $9,500. Convert 5% to a $9,500-profit backend = $90,250."
+            },
+            {
+              "id": "R.7.7",
+              "title": "Tier rule: 5-10x price, expect 20% take",
+              "spec": "Each new tier: 5-10x the price, ~20% uptake, and it must roughly double total revenue to be worth the operational constraint.",
+              "kind": "rule",
+              "detail": "The pricing structure that follows from the Pareto distribution of customer spending power (the top 20% of buyers hold far more purchasing power than the 80% below them):\n\n- **Each new tier: 5-10x the price.** Big jumps, not gentle steps.\n- **Expect ~20% of people to take it.** Price at the 20% who can and will.\n- **Each tier must roughly double revenue** - 'another full amount of revenue' - or the added operational constraint is not worth it.\n\nWorked example: 8 customers at $10/mo = $80. Add 2 customers at $50/mo = $100. The top 20% now generate more revenue than the bottom 80%, and total revenue has doubled - from serving the same ten people differently.\n\nThis is why tiering beats discounting: it extracts the willingness-to-pay already sitting in the customer base instead of lowering the price for everyone.",
+              "children": [
+                {
+                  "id": "R.7.7.1",
+                  "title": "5-10x price per tier",
+                  "spec": "Big jumps, not incremental steps."
+                },
+                {
+                  "id": "R.7.7.2",
+                  "title": "Expect ~20% take",
+                  "spec": "Price to the top quintile of spending power."
+                },
+                {
+                  "id": "R.7.7.3",
+                  "title": "Each tier must double revenue",
+                  "spec": "8 x $10 = $80, then 2 x $50 = $100. Top 20% outearns the bottom 80%."
+                }
+              ]
             }
           ],
-          "detail": "LTV = Revenue per Customer × Average Lifespan × Gross Margin %\n\nEvery monetization decision should move one of these three numbers. LTV sets how much you can afford to pay for a customer - and whoever can pay the most to acquire one, wins.\n\nAscension ladder - build rungs that create demand for the next rung:\n\n| Rung | Price band | Format | Purpose |\n|---|---|---|---|\n| 1 | Free | Content, community | Build trust and capture contact info |\n| 2 | $7-97 | Book, template, mini-course | Convert followers into buyers |\n| 3 | $500-2,000 | Course, workshop, group program | Deliver the core transformation |\n| 4 | $3,000-25,000 | Coaching, done-with-you, intensive | Accelerate results |\n| 5 | $25,000+ | Done-for-you, mastermind, 1:1 | Maximum speed and personalization |\n\nEight levers to raise LTV:\n1. Raise price on new buyers.\n2. Cut delivery cost per customer.\n3. Increase how often they buy.\n4. Cross-sell a complementary product.\n5. Sell larger quantities or bigger packages.\n6. Upgrade them to a higher-quality tier.\n7. Reduce how many take the cheap downsell.\n8. Repackage the downsell so it still carries margin.\n\nOther expansion plays:\n- Upsell immediately after the first purchase, while intent is hot; save high-ticket asks for built trust.\n- Add continuity so revenue recurs instead of resetting to zero each month.\n- Prefer annual prepay: $200/mo becomes $1,500/yr - the customer saves, you get cash and commitment now.\n- Move customers up the margin stack over time: digital (90%+) → group (70-85%) → productized (50-70%) → bespoke (30-50%).\n- LTV math to remember: 190 sales at $50 profit = $9,500; converting 5% to a $9,500-profit backend = $90,250 from the same customers."
+          "detail": "LTV = Revenue per Customer × Average Lifespan × Gross Margin %\n\nEvery monetization decision should move one of these three numbers. LTV sets how much you can afford to pay for a customer - and whoever can pay the most to acquire one, wins.\n\nAscension ladder - build rungs that create demand for the next rung:\n\n| Rung | Price band | Format | Purpose |\n|---|---|---|---|\n| 1 | Free | Content, community | Build trust and capture contact info |\n| 2 | $7-97 | Book, template, mini-course | Convert followers into buyers |\n| 3 | $500-2,000 | Course, workshop, group program | Deliver the core transformation |\n| 4 | $3,000-25,000 | Coaching, done-with-you, intensive | Accelerate results |\n| 5 | $25,000+ | Done-for-you, mastermind, 1:1 | Maximum speed and personalization |\n\nEight levers to raise LTV:\n1. Raise price on new buyers.\n2. Cut delivery cost per customer.\n3. Increase how often they buy.\n4. Cross-sell a complementary product.\n5. Sell larger quantities or bigger packages.\n6. Upgrade them to a higher-quality tier.\n7. Reduce how many take the cheap downsell.\n8. Repackage the downsell so it still carries margin.\n\nOther expansion plays:\n- Upsell immediately after the first purchase, while intent is hot; save high-ticket asks for built trust.\n- Add continuity so revenue recurs instead of resetting to zero each month.\n- Prefer annual prepay: $200/mo becomes $1,500/yr - the customer saves, you get cash and commitment now.\n- Move customers up the margin stack over time: digital (90%+) → group (70-85%) → productized (50-70%) → bespoke (30-50%).\n- LTV math to remember: 190 sales at $50 profit = $9,500; converting 5% to a $9,500-profit backend = $90,250 from the same customers.",
+          "quotes": [
+            {
+              "t": "My rule of thumb is that for every new tier you want to 5 to 10x your price and expect 20% of people to take it.",
+              "src": "Why you aren't making as much money as you want",
+              "vid": "ZuJryiwxjDw"
+            },
+            {
+              "t": "I want each tier to bring me another double, like another full amount of revenue. Otherwise, I don't know if it's worth creating the actual extra constraint of operations.",
+              "src": "Why you aren't making as much money as you want",
+              "vid": "ZuJryiwxjDw"
+            },
+            {
+              "t": "Here's my rule of thumb for upsells taking into account that 20% of customers have far more spending power than the ones below.",
+              "src": "Why you aren't making as much money as you want",
+              "vid": "ZuJryiwxjDw"
+            }
+          ]
         },
         {
           "id": "R.8",
@@ -1456,9 +1807,40 @@ const DATA = {
               "id": "K.2.3",
               "title": "Two question types",
               "spec": "Spreadsheet questions: compute. Test questions: run it. Never ask advisors."
+            },
+            {
+              "id": "K.2.6",
+              "title": "Volume: 10-30x, not 10%",
+              "spec": "You need 10, 20, or 30 times the volume - not incremental improvement. Consistency only looks impressive at the end.",
+              "kind": "rule",
+              "detail": "The volume rule, stated plainly: **you need to do 10, 20, or 30 times the volume.** Not 10% more. The gap between where you are and where you want to be is usually a volume gap, and it is almost always larger than it feels.\n\nPaired with the reason people quit before volume pays: *'consistency never looks impressive in the moment, only at the end.'* The work looks unremarkable while it compounds, which is exactly why most people stop before it does.",
+              "children": [
+                {
+                  "id": "K.2.6.1",
+                  "title": "10-30x the volume",
+                  "spec": "Not incremental. The gap is usually a volume gap."
+                },
+                {
+                  "id": "K.2.6.2",
+                  "title": "Consistency only looks impressive at the end",
+                  "spec": "The middle looks unremarkable, which is why people quit."
+                }
+              ]
             }
           ],
-          "detail": "Sporadic sales feel like an unstable market. Usually they are a starved channel. Before you declare anything broken, compare your volume to a leader's. The typical gap is 100-500x, not 20%.\n\nSteps:\n1. Pick one channel. Record your actual weekly volume in inputs, not outcomes.\n2. Look up what a full-time operator in that channel runs weekly. Write the number down where you can see it.\n3. Set a test size large enough to produce signal. A few hundred units is a sample, not a test; thousands per day is a test.\n4. Run the volume daily for the full window. Do not evaluate mid-test. Do not rewrite copy until the test size is met.\n5. Judge at the end: below threshold at real volume means iterate or kill. Never reaching volume means you learned nothing, regardless of results.\n\nTrack a simple weekly ledger: sends, calls, conversations, offers made, closes, revenue. Review inputs on Monday and outputs on Friday. When results dip, assume volume first and channel second.\n\nRun the activity math backwards from the goal. If you want 10 new customers a month and your close rate is one in five, you need 50 qualified conversations; at a one-in-four reply rate that is 200 real conversations started; with follow-up that is several hundred sends or calls per week. Do this on one line of paper before choosing a feeling about the channel.\n\nTwo question types never need outside advice:\n- Spreadsheet questions: CAC, LTV, margin, payback, close rate. Open the sheet and compute.\n- Test questions: anything answerable by running an experiment. Run it, then read the data.\n\nWin on your rate of experimentation, not on your ability to guess the right answer. Follow-up matters as much as reach: most replies and closes arrive after multiple touches, so a single send is not a test either."
+          "detail": "Sporadic sales feel like an unstable market. Usually they are a starved channel. Before you declare anything broken, compare your volume to a leader's. The typical gap is 100-500x, not 20%.\n\nSteps:\n1. Pick one channel. Record your actual weekly volume in inputs, not outcomes.\n2. Look up what a full-time operator in that channel runs weekly. Write the number down where you can see it.\n3. Set a test size large enough to produce signal. A few hundred units is a sample, not a test; thousands per day is a test.\n4. Run the volume daily for the full window. Do not evaluate mid-test. Do not rewrite copy until the test size is met.\n5. Judge at the end: below threshold at real volume means iterate or kill. Never reaching volume means you learned nothing, regardless of results.\n\nTrack a simple weekly ledger: sends, calls, conversations, offers made, closes, revenue. Review inputs on Monday and outputs on Friday. When results dip, assume volume first and channel second.\n\nRun the activity math backwards from the goal. If you want 10 new customers a month and your close rate is one in five, you need 50 qualified conversations; at a one-in-four reply rate that is 200 real conversations started; with follow-up that is several hundred sends or calls per week. Do this on one line of paper before choosing a feeling about the channel.\n\nTwo question types never need outside advice:\n- Spreadsheet questions: CAC, LTV, margin, payback, close rate. Open the sheet and compute.\n- Test questions: anything answerable by running an experiment. Run it, then read the data.\n\nWin on your rate of experimentation, not on your ability to guess the right answer. Follow-up matters as much as reach: most replies and closes arrive after multiple touches, so a single send is not a test either.",
+          "quotes": [
+            {
+              "t": "You need to do 10 or 20 or 30 times the volume.",
+              "src": "If You're in Your 20s or 30s, Here's How to Win (at Anything)",
+              "vid": "0lMn_-EXyhQ"
+            },
+            {
+              "t": "The reason so few people understand success is consistency never looks impressive in the moment, only at the end.",
+              "src": "Stop Caring What Others Think of You So Much",
+              "vid": "qqjGxVW-Ae0"
+            }
+          ]
         },
         {
           "id": "K.3",
@@ -1486,7 +1868,14 @@ const DATA = {
               "spec": "The level you avoid follows you into every new venture. Switching delays it."
             }
           ],
-          "detail": "Compounding only accrues to the same asset over a long period. Every operator who built something lasting stayed on one vehicle far longer than felt reasonable.\n\nThe boss trap: you can beat levels one through three of any new game, then stall at the same boss four, wearing a different skin. The level you avoid follows you into every new venture. Switching never removes it; it only delays it.\n\n- Compare year 0 of the new idea against year 3-4 of the current one, never against year 0. A new thing must outgrow an incumbent with years of compounding to justify the switch. It rarely does.\n- Early traction from a new project produces a dopamine spike that trains you to quit again. After your first real leap, unlearn that reflex immediately. Stick.\n- Rule: one primary vehicle; side bets capped at 10% of resources; a switch requires written evidence the current vehicle is dead (real volume, zero sales for 90 days), not boredom.\n- Count cumulative reps on the same vehicle, not attempts. Five years in the game with six months on the current thing means you are six months in.\n\nDefine \"vehicle\" in writing: the customer, the offer, and the channel. You may change tactics inside a vehicle freely. You may not change the vehicle without the 90-day evidence file.\n\nWhen two ideas compete, score them on: pain intensity, your unfair knowledge, speed to first dollar, and referral potential. Pick the winner and shelve the loser in the 10% bucket with a review date. Do not split primary effort.\n\nQuarterly vehicle review, three questions: Did I hit my volume every week this quarter? Is the constraint the tactic or the vehicle? What would I need to see to justify a switch, in writing, before emotion enters the room? Answer in advance so the decision is rules-based, not mood-based.\n\nRestart detection: check whether your current effort's start date keeps moving. If the answer to \"how long have you been doing this?\" is \"about six months\" in every quarter, you are running a restart loop wearing a growth costume."
+          "detail": "Compounding only accrues to the same asset over a long period. Every operator who built something lasting stayed on one vehicle far longer than felt reasonable.\n\nThe boss trap: you can beat levels one through three of any new game, then stall at the same boss four, wearing a different skin. The level you avoid follows you into every new venture. Switching never removes it; it only delays it.\n\n- Compare year 0 of the new idea against year 3-4 of the current one, never against year 0. A new thing must outgrow an incumbent with years of compounding to justify the switch. It rarely does.\n- Early traction from a new project produces a dopamine spike that trains you to quit again. After your first real leap, unlearn that reflex immediately. Stick.\n- Rule: one primary vehicle; side bets capped at 10% of resources; a switch requires written evidence the current vehicle is dead (real volume, zero sales for 90 days), not boredom.\n- Count cumulative reps on the same vehicle, not attempts. Five years in the game with six months on the current thing means you are six months in.\n\nDefine \"vehicle\" in writing: the customer, the offer, and the channel. You may change tactics inside a vehicle freely. You may not change the vehicle without the 90-day evidence file.\n\nWhen two ideas compete, score them on: pain intensity, your unfair knowledge, speed to first dollar, and referral potential. Pick the winner and shelve the loser in the 10% bucket with a review date. Do not split primary effort.\n\nQuarterly vehicle review, three questions: Did I hit my volume every week this quarter? Is the constraint the tactic or the vehicle? What would I need to see to justify a switch, in writing, before emotion enters the room? Answer in advance so the decision is rules-based, not mood-based.\n\nRestart detection: check whether your current effort's start date keeps moving. If the answer to \"how long have you been doing this?\" is \"about six months\" in every quarter, you are running a restart loop wearing a growth costume.",
+          "quotes": [
+            {
+              "t": "If you say no, hypothetically, to literally everything except for one thing, you would define that person as incredibly focused, probably obsessive.",
+              "src": "How To Scale Yourself: The What-Why-How Framework",
+              "vid": "lIC8fYbrkII"
+            }
+          ]
         },
         {
           "id": "K.4",
@@ -1633,6 +2022,510 @@ const DATA = {
         }
       ],
       "detail": "The delivery layer of the harness - how every answer sounds. Earned confidence plus visible arithmetic: name the constraint, show the math, story then prescription, one action with a timeframe. The directness rubric is scored 0-10 before shipping; the banned-language list keeps the voice clean. Operator posture, never assistant tics."
+    },
+    {
+      "id": "E",
+      "title": "Evidence & Benchmarks - what the transcripts add",
+      "kind": "branch",
+      "accent": 7,
+      "spec": "The numbers behind the frameworks, mined from 516 transcripts of the channel. Every node carries a verbatim quote and its source video.",
+      "children": [
+        {
+          "id": "E.1",
+          "title": "The corpus itself",
+          "kind": "framework",
+          "spec": "516 of 523 videos transcribed - 2.9M words, 219 hours. Every quote in this branch is traceable to a video.",
+          "detail": "This branch is built from a full pass over the channel: **523 videos listed, 516 transcribed** (2.9M words / 219 hours of video; 7 have captions disabled). Quotes are verbatim from auto-generated captions, so expect occasional transcription noise in the wording - the numbers are reliable, the punctuation is not.\n\nMethod: transcripts pulled with yt-dlp, sentence-mined for teachable passages carrying a number, mechanism, or polarity claim, then filtered against promo language. The frameworks elsewhere in this tree came from the written sources; this branch is what the spoken material adds on top - mostly **benchmarks, ratios, and thresholds** that the books state as principles but rarely quantify.\n\nProvenance for every quote: `sources/quotes.json` in this repo, keyed by video ID, with the full transcript corpus.",
+          "children": [
+            {
+              "id": "E.1.1",
+              "title": "523 videos, 516 transcribed",
+              "spec": "2.9M words. 7 videos have captions disabled by the channel."
+            },
+            {
+              "id": "E.1.2",
+              "title": "Quote provenance",
+              "spec": "Every quote carries title + video ID. Full index in sources/quotes.json."
+            },
+            {
+              "id": "E.1.3",
+              "title": "What the transcripts add",
+              "spec": "Benchmarks, ratios and thresholds - the numbers the written frameworks leave qualitative."
+            }
+          ]
+        },
+        {
+          "id": "E.2",
+          "title": "Pricing by close rate",
+          "kind": "framework",
+          "spec": "The single most actionable instrument in the corpus: your close rate tells you exactly how mispriced you are.",
+          "detail": "From **The Mathematics of Business, Explained** - Hormozi's close-rate-to-price ladder, described as a rule of thumb collected over years of business:\n\n| Close rate | Verdict | Move on a $100 price |\n|---|---|---|\n| **80%+** | underpriced 3-4x | charge $300-400 |\n| **50-60%** | underpriced 1.5-2x | charge $150-200 |\n| **40-50%** | underpriced 1.25-1.5x | charge $125-150 |\n| **30-40%** | appropriately priced | hold |\n| **<25%** | too expensive / broken | fix the process, not the price |\n\nThe insight that makes it work: a *high* close rate is expensive. Closing four out of five people means you left margin on every one of those deals, and the fix is a price rise, not a victory lap. The jumps compress as you approach the target zone - the further you are from 35%, the bigger the correction.\n\nThe 30-40% band is only 'correct' **conditional on having the mechanisms in place to educate the buyer before the pitch** - proof, pre-selling, content. Without those, the same close rate means something else.",
+          "children": [
+            {
+              "id": "E.2.1",
+              "title": "80%+ close → underpriced 3-4x",
+              "spec": "Four out of five buying means 3-4x left on the table.",
+              "kind": "rule",
+              "detail": "**Quote:** 'If you're closing at 80% or more in whatever you sell, so four out of five people you talk to buy your thing, you're typically underpriced by 3 to 4x. That might sound mindblowing to you, but that is just the data that I've, again, rule of thumb that I've collected over many years of business.'",
+              "quotes": [
+                {
+                  "t": "If you're closing at 80% or more in whatever you sell, so four out of five people you talk to buy your thing, you're typically underpriced by 3 to 4x.",
+                  "src": "The Mathematics of Business, Explained",
+                  "vid": "A_tx40lNpf8"
+                }
+              ]
+            },
+            {
+              "id": "E.2.2",
+              "title": "50-60% close → underpriced 1.5-2x",
+              "spec": "$100 should probably be $150-200.",
+              "kind": "rule",
+              "detail": "**Quote:** 'If you're between 50 and 60%, typically you're underpriced by one and a half to 2x. So that $100 price point should probably be one and a half. So $150 or $200.'",
+              "quotes": [
+                {
+                  "t": "If you're between 50 and 60%, typically you're underpriced by one and a half to 2x. So that $100 price point should probably be one and a half. So $150 or $200.",
+                  "src": "The Mathematics of Business, Explained",
+                  "vid": "A_tx40lNpf8"
+                }
+              ]
+            },
+            {
+              "id": "E.2.3",
+              "title": "40-50% close → underpriced 1.25-1.5x",
+              "spec": "$100 should probably be $125-150.",
+              "kind": "rule",
+              "detail": "**Quote:** 'Now if you're between 40 and 50% close rates, you're probably between 1.25 to 1.5x underpriced. Meaning now you should be at maybe 125 or consider 150 as a final price point.'",
+              "quotes": [
+                {
+                  "t": "Now if you're between 40 and 50% close rates, you're probably between 1.25 to 1.5x underpriced. Meaning now you should be at maybe 125 or consider 150 as a final price point.",
+                  "src": "The Mathematics of Business, Explained",
+                  "vid": "A_tx40lNpf8"
+                }
+              ]
+            },
+            {
+              "id": "E.2.4",
+              "title": "30-40% close → appropriately priced",
+              "spec": "The target band - conditional on pre-pitch education mechanisms.",
+              "kind": "rule",
+              "detail": "**Quote:** 'If you have that sales motion and you were closing 35%, you're appropriately priced - under the assumption you have all of the selling mechanisms in place to educate a consumer prior to the purchase so that you're not creating a pitch or a spiel. Instead, they've already consumed all of this stuff prior to the pitch and then the entire close call is about personalization.'",
+              "quotes": [
+                {
+                  "t": "If you have that sales motion and you were closing 35%, you're appropriately priced under the assumption you have all of the selling mechanisms in place to educate a consumer prior to the purchase.",
+                  "src": "The Mathematics of Business, Explained",
+                  "vid": "A_tx40lNpf8"
+                }
+              ]
+            },
+            {
+              "id": "E.2.5",
+              "title": "<25% close → fix the process first",
+              "spec": "Never cut price as the opening move.",
+              "kind": "rule",
+              "detail": "**Quote:** 'If somebody's closing, let's say, 25% or less, they get bumped down.' And on the general principle: 'If it's below that, then I will fix the process before I even consider lowering the price.'\n\nPrice is the last lever. A low close rate is evidence of a broken mechanism - weak proof, no pre-selling, a pitch instead of an education - before it is evidence of a high price."
+            }
+          ]
+        },
+        {
+          "id": "E.3",
+          "title": "Retention is the highest-leverage number",
+          "kind": "framework",
+          "spec": "LTV = annual payment ÷ churn rate. A 30-point retention gain multiplies customer value 2.5x.",
+          "detail": "**LTV = annual payment ÷ churn rate.**\n\n| Annual retention | LTV on $100/year |\n|---|---|\n| 50% | $200 (÷ 0.5) |\n| 80% | $500 (÷ 0.2) |\n\nA move from 50% to 80% retention looks like a 30-point improvement. In LTV terms it is **2.5x more value from the same customer** - which is why retention beats acquisition on leverage, and why 'raise your prices, decrease churn' is the whole recipe for making customers worth more.\n\nThe corollary on growth: model new inflow against churn before celebrating it. Growing to 300 members at 10% churn means a large slice of acquisition spend is replacing outflow rather than expanding the base.",
+          "children": [
+            {
+              "id": "E.3.1",
+              "title": "LTV = annual payment ÷ churn",
+              "spec": "The core retention formula, stated plainly.",
+              "kind": "rule",
+              "detail": "**Quote:** 'You can take whatever your annual retention is and then you can basically reverse engineer into what your lifetime value of a customer is. So, if you have 50% annual retention, then you can take whatever someone pays over a year, let's use simple math and say someone pays $100 per year. If you have 50% annual retention, then it means that you can basically double it. So, you divide it by 50%. equals $200 is what you're going to make from a customer.'",
+              "quotes": [
+                {
+                  "t": "If you have 50% annual retention, then you can take whatever someone pays over a year - say $100 - and it means that you can basically double it. You divide it by 50%, equals $200 is what you're going to make from a customer.",
+                  "src": "The Mathematics of Business, Explained",
+                  "vid": "A_tx40lNpf8"
+                }
+              ]
+            },
+            {
+              "id": "E.3.2",
+              "title": "80% retention → 5x, not 2x",
+              "spec": "A 30-point gain is a 2.5x value gain. This is the punchline.",
+              "kind": "rule",
+              "detail": "**Quote:** 'Let's say that you have 80% annual retention. Doesn't seem like that much different, right? It's only 30%. What is it actually different from a math perspective? It means that you're going to get functionally four turns, five turns because every year you're going to lose 20%. And so simple math on that, back of napkin, is about $500.'",
+              "quotes": [
+                {
+                  "t": "Let's say that you have 80% annual retention. Doesn't seem like that much different, right? It's only 30%. It means that you're going to get functionally four turns, five turns because every year you're going to lose 20%.",
+                  "src": "The Mathematics of Business, Explained",
+                  "vid": "A_tx40lNpf8"
+                }
+              ]
+            },
+            {
+              "id": "E.3.3",
+              "title": "Inflow vs churn",
+              "spec": "300 members at 10% churn - most new inflow replaces outflow.",
+              "kind": "rule",
+              "detail": "**Quote:** 'If you want to grow to let's say 300 members, and let's say your churn is 10%.' Growth math has to net churn off the top before any of it counts as growth.",
+              "quotes": [
+                {
+                  "t": "If you want to grow to let's say 300 members, and let's say your churn is 10%.",
+                  "src": "Your Inflow Is Your Bottleneck",
+                  "vid": "XC_lklN9KmE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "E.4",
+          "title": "LTV:CAC - floor vs arbitrage",
+          "kind": "framework",
+          "spec": "3:1 keeps you alive. 30:1+ makes you rich. Gym Launch year one ran 100:1.",
+          "detail": "The 3:1 LTV:CAC ratio is the traditional software-world rule of thumb, widely circulated and widely adopted. It is a **durability floor**, not an ambition.\n\nHormozi's outsized returns came from short windows where a channel was mispriced against customer value:\n\n- **Gym Launch, year one: 100:1.** 'I spent a hundred grand and made 10 million.'\n- **Four windows in his life, every one above 30:1.**\n\n'Most of the money that I've made in my life has happened during these distinct windows of opportunity where there was huge arbitrage between what it cost me to get a customer and what a customer is worth to me.'\n\nThe operating instruction that follows: keep beating on the money model until you land in a window, then scale spend hard and **do not cap it**. He states he never caps launch ad spend while the ads are performing. When the window closes, the 3:1 floor is what keeps the business alive.",
+          "children": [
+            {
+              "id": "E.4.1",
+              "title": "Gym Launch year one: 100:1",
+              "spec": "$100k spent, $10M made.",
+              "kind": "rule",
+              "detail": "**Quote:** 'The first year of gym launch, my LTV CAC was 100 to one. I spent a hundred grand and made 10 million. Wild recommend. It was wild, wild times.'",
+              "quotes": [
+                {
+                  "t": "The first year of gym launch, my LTV CAC was 100 to one. I spent a hundred grand and made 10 million.",
+                  "src": "The Mathematics of Business, Explained",
+                  "vid": "A_tx40lNpf8"
+                }
+              ]
+            },
+            {
+              "id": "E.4.2",
+              "title": "Four windows, all above 30:1",
+              "spec": "Wealth came from arbitrage windows, not steady-state margins.",
+              "kind": "rule",
+              "detail": "**Quote:** 'Most of the money that I've made in my life has happened during these distinct windows of opportunity where there was huge arbitrage between what it cost me to get a customer and what a customer is worth to me. And I've had that happen four times in my life. And each of those times have been above 30 to1. And so the reason I'm so adamant about this is that I know because I've had it happen that you have to just keep beating up the system. You have to keep tweaking the money model.'",
+              "quotes": [
+                {
+                  "t": "Most of the money that I've made in my life has happened during these distinct windows of opportunity where there was huge arbitrage between what it cost me to get a customer and what a customer is worth to me. I've had that happen four times in my life. And each of those times have been above 30 to1.",
+                  "src": "The Mathematics of Business, Explained",
+                  "vid": "A_tx40lNpf8"
+                }
+              ]
+            },
+            {
+              "id": "E.4.3",
+              "title": "Don't cap spend inside a window",
+              "spec": "He never caps launch ad spend while ads are performing.",
+              "kind": "rule",
+              "detail": "**Quote:** 'I never go into my launch capping my total ad spend if the ads are performing as I want them to.' A live arbitrage window is the one time to scale spend aggressively.",
+              "quotes": [
+                {
+                  "t": "I never go into my launch capping my total ad spend if the ads are performing as I want them to.",
+                  "src": "Building a $3,000,000 Business for a Stranger in 31 Minutes",
+                  "vid": "j2TZMFkj71Q"
+                }
+              ]
+            },
+            {
+              "id": "E.4.4",
+              "title": "30-day CAC payback target",
+              "spec": "Recover CAC inside 30 days - the interest-free float on a credit card.",
+              "kind": "rule",
+              "detail": "**Quote:** 'My goal is within 30 days. Why? Because just about every business owner can typically gain access to a credit card which gives you 30 days of interest free money.' Payback inside 30 days means acquisition is effectively self-funding."
+            }
+          ]
+        },
+        {
+          "id": "E.5",
+          "title": "Sales benchmarks",
+          "kind": "framework",
+          "spec": "35% close = quota. 70% calendar utilisation = sweet spot. Above quota → raise price.",
+          "detail": "The numbers that grade a sales function:\n\n- **35% close rate** - a rep should close at least one in three touched prospects. Above that, he raises price; below, he fixes the process.\n- **25% or less** - the rep gets bumped down a tier.\n- **70% calendar utilisation** - the sweet spot for booked sales capacity.\n\nOn utilisation, both extremes are bad. A fully-booked team makes more sales but **conversion drops and CAC rises**, because leads wait longer and book further out. Under-utilised is wasted payroll. 70% is the target that keeps conversion healthy while keeping reps busy.",
+          "children": [
+            {
+              "id": "E.5.1",
+              "title": "35% close = rep quota",
+              "spec": "One in three touched prospects.",
+              "kind": "rule",
+              "detail": "**Quote:** 'My rule of thumb with sales people in general with a proper sales process is 35%. I would like them to close at least one out of three of the prospects that they're getting touched with. Typically, if it's higher than that, I will raise price. And if it's below that, then I will fix the process before I even consider lowering the price.'",
+              "quotes": [
+                {
+                  "t": "My rule of thumb with sales people in general with a proper sales process is 35%. I would like them to close at least one out of three of the prospects that they're getting touched with.",
+                  "src": "The Mathematics of Business, Explained",
+                  "vid": "A_tx40lNpf8"
+                }
+              ]
+            },
+            {
+              "id": "E.5.2",
+              "title": "Above quota → raise price",
+              "spec": "A rep closing better than 35% is evidence the price is low.",
+              "kind": "rule",
+              "detail": "**Quote:** 'If it's higher than that, I will raise price.' The rep's close rate and the product's price are read off the same instrument - see the close-rate ladder (E.2)."
+            },
+            {
+              "id": "E.5.3",
+              "title": "70% calendar utilisation",
+              "spec": "Fully booked is not the goal - conversion falls and CAC rises.",
+              "kind": "rule",
+              "detail": "**Quote:** 'Rule number five. 70% calendar utilization. So when you have more salespeople, there's another issue that starts to come up, which is my sales team's underutilized or they're booked out. So what's the sweet spot? If you have your sales team completely booked out, here's two things that happen that are bad. Number one is that your total lead conversion will go down. You will make more sales because they're booked out for sure, but your conversion rates will go down, meaning your CAC, your cost to acquire customers will go up.'"
+            },
+            {
+              "id": "E.5.4",
+              "title": "<25% → bump the rep down",
+              "spec": "Below-quota reps move down a tier rather than getting a price cut.",
+              "kind": "rule",
+              "detail": "**Quote:** 'If somebody's closing, let's say, 25% or less, they get bumped down.'",
+              "quotes": [
+                {
+                  "t": "If somebody's closing, let's say, 25% or less, they get bumped down.",
+                  "src": "How I Scaled My Sales Team",
+                  "vid": "okA9Yt2KZuk"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "E.6",
+          "title": "Tiering and the demand fractal",
+          "kind": "framework",
+          "spec": "5-10x price per tier, ~20% take, each tier must double revenue. The top 20% outspend the bottom 80%.",
+          "detail": "The pricing structure that follows from the Pareto distribution of spending power. The top 20% of customers hold far more purchasing power than the 80% beneath them, so price to the top and let the base buy the entry tier.\n\n- **Each new tier: 5-10x the price.**\n- **Expect ~20% to take it.**\n- **Each tier must roughly double total revenue** - 'another full amount of revenue' - or the operational constraint it adds is not worth it.\n\nWorked example, verbatim: 8 customers at $10/month = $80. Add 2 customers at $50/month = $100. The top two customers now out-earn the bottom eight, and total revenue has doubled - from serving the same ten people differently.\n\nThis is why tiering beats discounting. It extracts willingness-to-pay already present in the base instead of lowering the price for everyone.",
+          "children": [
+            {
+              "id": "E.6.1",
+              "title": "5-10x price per tier, ~20% take",
+              "spec": "Big jumps, priced to the top quintile.",
+              "kind": "rule",
+              "detail": "**Quote:** 'My rule of thumb is that for every new tier you want to 5 to 10x your price and expect 20% of people to take it.'",
+              "quotes": [
+                {
+                  "t": "My rule of thumb is that for every new tier you want to 5 to 10x your price and expect 20% of people to take it.",
+                  "src": "Why you aren't making as much money as you want",
+                  "vid": "ZuJryiwxjDw"
+                }
+              ]
+            },
+            {
+              "id": "E.6.2",
+              "title": "Each tier must double revenue",
+              "spec": "Otherwise the operational constraint isn't worth it.",
+              "kind": "rule",
+              "detail": "**Quote:** 'I want each tier to bring me another double, like another full amount of revenue. Otherwise, I'm like, I don't know if it's worth creating the actual extra constraint of operations.'",
+              "quotes": [
+                {
+                  "t": "I want each tier to bring me another double, like another full amount of revenue. Otherwise, I don't know if it's worth creating the actual extra constraint of operations.",
+                  "src": "Why you aren't making as much money as you want",
+                  "vid": "ZuJryiwxjDw"
+                }
+              ]
+            },
+            {
+              "id": "E.6.3",
+              "title": "The 8 x $10 + 2 x $50 example",
+              "spec": "Top 20% outearn the bottom 80%: $100 vs $80.",
+              "kind": "rule",
+              "detail": "**Quote:** 'If you have eight of these customers at $10 per month and you've got two of them at $50 per month, how much am I making? I'm making $80 per month in total on the bottom 80 and then I'm making $100 per month on my top 20%. And so, by serving these two customers differently, we double the revenue of the business.'",
+              "quotes": [
+                {
+                  "t": "If you have eight of these customers at $10 per month and you've got two of them at $50 per month, I'm making $80 per month in total on the bottom 80 and then I'm making $100 per month on my top 20%. By serving these two customers differently, we double the revenue of the business.",
+                  "src": "Why you aren't making as much money as you want",
+                  "vid": "ZuJryiwxjDw"
+                }
+              ]
+            },
+            {
+              "id": "E.6.4",
+              "title": "20% of buyers hold the spending power",
+              "spec": "The Pareto read that makes tiering work.",
+              "kind": "rule",
+              "detail": "**Quote:** 'Here's my rule of thumb for upsells taking into account that 20% of customers have far more spending power than the ones below.'",
+              "quotes": [
+                {
+                  "t": "Here's my rule of thumb for upsells taking into account that 20% of customers have far more spending power than the ones below.",
+                  "src": "Why you aren't making as much money as you want",
+                  "vid": "ZuJryiwxjDw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "E.7",
+          "title": "Upsell and downsell uptake",
+          "kind": "framework",
+          "spec": "20-30% uptake is normal. Assume-close lifts it past 90%. Prefer zero-cost, zero-work upsells.",
+          "detail": "- **20-30% uptake** is the normal range for a straightforward upsell.\n- **90%+ take rates** are achievable with an *assume close* - presenting the next purchase as already decided rather than asking if they want it.\n- **Zero cost, zero work** upsells are preferred: incremental revenue with no added fulfilment burden.\n\nThe assume-close works because it exploits a pre-programmed response: people are so conditioned to try not to buy things that they end up agreeing when the question is never framed as a yes/no.",
+          "children": [
+            {
+              "id": "E.7.1",
+              "title": "20-30% = normal uptake",
+              "spec": "The baseline for a standard upsell.",
+              "kind": "rule",
+              "detail": "**Quote:** 'Most people get 20 to 30% uptake on their upsells. If you use an assume close tactic like this, you can literally see 90% plus take rates on this.'",
+              "quotes": [
+                {
+                  "t": "Most people get 20 to 30% uptake on their upsells. If you use an assume close tactic like this, you can literally see 90% plus take rates.",
+                  "src": "How To Close Everyone Downselling Like A Pro",
+                  "vid": "j1tA4l7R2c0"
+                }
+              ]
+            },
+            {
+              "id": "E.7.2",
+              "title": "Zero cost, zero work",
+              "spec": "Best upsell adds revenue without adding fulfilment.",
+              "kind": "rule",
+              "detail": "**Quote:** 'If you have upsells, try and have them be zero cost, zero work upsells, so that you can just make more money up front.'",
+              "quotes": [
+                {
+                  "t": "If you have upsells, try and have them be zero cost, zero work upsells, so that you can just make more money up front.",
+                  "src": "How to Start a Business From Nothing (Thank Me Later)",
+                  "vid": "unshZobTt6Q"
+                }
+              ]
+            },
+            {
+              "id": "E.7.3",
+              "title": "Anchor with a top continuity tier",
+              "spec": "A high tier makes the existing price look reasonable.",
+              "kind": "rule",
+              "detail": "**Quote:** 'The first thing we did is we introduced a highest tier continuity option that would make the existing $2,000 a month or $4,500 per quarter seem reasonable by comparison.'",
+              "quotes": [
+                {
+                  "t": "The first thing we did is we introduced a highest tier continuity option that would make the existing $2,000 a month or $4,500 per quarter seem reasonable by comparison.",
+                  "src": "I Blew Up A Secret Business To Prove It's Not Luck",
+                  "vid": "SmiOK8Yun4s"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "E.8",
+          "title": "Funnel conversion benchmarks",
+          "kind": "framework",
+          "spec": "Every added step loses ~50%. Web pages 1-2%. Trusted platform page ~4%. Niche opt-in up to 5% of leads.",
+          "detail": "The decay numbers that decide how many steps a funnel can afford:\n\n- **Every added step loses about 50% or more.** Two landing pages in a row is not one funnel; it is two 50% haircuts.\n- **Web pages typically convert 1-2%.**\n- **A strong, trusted platform page converts around 4%** - platform trust lifts overall conversion.\n- **Niche opt-in leads convert up to 5% of leads** (leads, not shows).\n\nDesign implication: collapse steps before rewriting copy. Removing a single interstitial page is usually worth more than any headline test, and speed-to-lead compounds the same way.\n\nA real multi-step funnel, for scale: **511 challenge attendees → 26 show up to live sessions daily → 12 sales calls booked → 10 held → 6 closed.**",
+          "children": [
+            {
+              "id": "E.8.1",
+              "title": "Each added step ≈ -50%",
+              "spec": "Two pages in a row means two haircuts.",
+              "kind": "rule",
+              "detail": "**Quote:** 'Typically you'll lose about 50%. By like half. Just for every step you add, it's usually about half or more that you lose.'",
+              "quotes": [
+                {
+                  "t": "Typically you'll lose about 50%. By like half. Just for every step you add, it's usually about half or more that you lose.",
+                  "src": "Building a $2,500,000 Business for a Stranger in 36 Minutes",
+                  "vid": "OQf2Ba-Lp_4"
+                }
+              ]
+            },
+            {
+              "id": "E.8.2",
+              "title": "Web pages 1-2%, trusted platform ~4%",
+              "spec": "Trust in the platform raises overall conversion.",
+              "kind": "rule",
+              "detail": "**Quote:** 'Web pages, most times it's going to be between 1 and 2% in terms of conversion rate on those pages. I'll give you a fun factoid for School. So I think School right now is at like 4%. It's really good for School about pages and it's because when you have trust in a platform that starts to increase your conversion overall.'"
+            },
+            {
+              "id": "E.8.3",
+              "title": "Niche opt-in → up to 5% of leads",
+              "spec": "Tighter niche lifts lead conversion.",
+              "kind": "rule",
+              "detail": "**Quote:** 'If you are a little bit more niched, then that can go up to 5% of leads. And like again, that's leads, not shows, right? That's just overall like you had 100 people opt in for webinar.'",
+              "quotes": [
+                {
+                  "t": "If you are a little bit more niched, then that can go up to 5% of leads. That's leads, not shows.",
+                  "src": "The Mathematics of Business, Explained",
+                  "vid": "A_tx40lNpf8"
+                }
+              ]
+            },
+            {
+              "id": "E.8.4",
+              "title": "Full funnel benchmark: 511 → 6",
+              "spec": "511 attendees → 26 show daily → 12 booked → 10 held → 6 closed.",
+              "kind": "rule",
+              "detail": "**Quote:** 'The average challenge attendees are 26. So 26 out of the 511 will actually show up to the live sessions each day. Out of that we will typically book 12 sales calls, we'll hold 10 and we'll close six sales.' A useful end-to-end shape for a high-touch funnel.",
+              "quotes": [
+                {
+                  "t": "The average challenge attendees are 26. So 26 out of the 511 will actually show up to the live sessions each day. Out of that we will typically book 12 sales calls, we'll hold 10 and we'll close six sales.",
+                  "src": "If I Wanted To Scale A Service Business In 2026",
+                  "vid": "N5MExtki_VI"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "E.9",
+          "title": "Volume, focus and the long game",
+          "kind": "framework",
+          "spec": "10-30x the volume, not 10%. Consistency only looks impressive at the end.",
+          "detail": "**Volume:** 'You need to do 10 or 20 or 30 times the volume.' Not 10% more. The distance between where you are and where you want to be is usually a volume gap, and it is almost always larger than it feels from the inside.\n\n**Consistency:** 'The reason so few people understand success is consistency never looks impressive in the moment, only at the end.' The work looks unremarkable while it compounds - which is precisely why most people stop before it does.\n\n**Focus:** 'If you say no, hypothetically, to literally everything except for one thing, you would define that person as incredibly focused, probably obsessive.' Focus is subtraction, and it is defined by what you refuse.\n\n**Wealth:** 'It's better to focus on how to 10x your income than save an additional 10%.' Optimise the numerator, not the denominator.",
+          "children": [
+            {
+              "id": "E.9.1",
+              "title": "10-30x the volume",
+              "spec": "The gap is usually a volume gap, and bigger than it feels.",
+              "kind": "rule",
+              "detail": "**Quote:** 'You need to do 10 or 20 or 30 times the volume.'",
+              "quotes": [
+                {
+                  "t": "You need to do 10 or 20 or 30 times the volume.",
+                  "src": "If You're in Your 20s or 30s, Here's How to Win (at Anything)",
+                  "vid": "0lMn_-EXyhQ"
+                }
+              ]
+            },
+            {
+              "id": "E.9.2",
+              "title": "Consistency only looks impressive at the end",
+              "spec": "The middle looks unremarkable, which is why people quit.",
+              "kind": "rule",
+              "detail": "**Quote:** 'The reason so few people understand success is consistency never looks impressive in the moment, only at the end.'",
+              "quotes": [
+                {
+                  "t": "The reason so few people understand success is consistency never looks impressive in the moment, only at the end.",
+                  "src": "Stop Caring What Others Think of You So Much",
+                  "vid": "qqjGxVW-Ae0"
+                }
+              ]
+            },
+            {
+              "id": "E.9.3",
+              "title": "Focus is subtraction",
+              "spec": "Say no to everything except one thing.",
+              "kind": "rule",
+              "detail": "**Quote:** 'If you say no, hypothetically, to literally everything except for one thing, you would define that person as incredibly focused, probably obsessive.'",
+              "quotes": [
+                {
+                  "t": "If you say no, hypothetically, to literally everything except for one thing, you would define that person as incredibly focused, probably obsessive.",
+                  "src": "How To Scale Yourself: The What-Why-How Framework",
+                  "vid": "lIC8fYbrkII"
+                }
+              ]
+            },
+            {
+              "id": "E.9.4",
+              "title": "10x income, not 10% savings",
+              "spec": "Optimise the numerator.",
+              "kind": "rule",
+              "detail": "**Quote:** 'The truth is, it's better to focus on how to 10x your income than save an additional 10%.'",
+              "quotes": [
+                {
+                  "t": "The truth is, it's better to focus on how to 10x your income than save an additional 10%.",
+                  "src": "Dangerously Honest Advice to Create Generational Wealth",
+                  "vid": "m-k0_pQJ1fY"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "detail": "The trunk every branch drinks from. The Value Equation decides whether an offer deserves to exist; unit economics decide whether it deserves to scale - LTGP:CAC at 3:1 or better, payback inside 30 days (excellent) to 90 days (solid), monthly churn under 5%. Market beats offer beats persuasion, and no downstream tactic fixes a broken offer. Seven modules run from demand creation through retention to the operator layer."
@@ -1641,7 +2534,7 @@ const DATA = {
 const NS = "http://www.w3.org/2000/svg";
 const svg = document.getElementById("stage");
 const measure = document.createElement("canvas").getContext("2d");
-const ACCENTS = ["", "var(--b1)", "var(--b2)", "var(--b3)", "var(--b4)", "var(--b5)", "var(--b6)"];
+const ACCENTS = ["", "var(--b1)", "var(--b2)", "var(--b3)", "var(--b4)", "var(--b5)", "var(--b6)", "var(--b7)"];
 
 const F_ID = "700 10.5px " + "ui-monospace, Menlo, monospace";
 const F_TITLE = "650 13px -apple-system, BlinkMacSystemFont, Inter, sans-serif";
@@ -1852,10 +2745,31 @@ function el(tag, cls, text){
   return e;
 }
 
+function richInline(container, text){
+  const re = /(\*\*[^*]+\*\*|`[^`]+`)/g;
+  let last = 0, m;
+  while ((m = re.exec(text)) !== null){
+    if (m.index > last) container.appendChild(document.createTextNode(text.slice(last, m.index)));
+    const tok = m[0];
+    if (tok.charAt(0) === "*") container.appendChild(el("strong", "pB", tok.slice(2, -2)));
+    else container.appendChild(el("code", "pCode", tok.slice(1, -1)));
+    last = m.index + tok.length;
+  }
+  if (last < text.length) container.appendChild(document.createTextNode(text.slice(last)));
+  return container;
+}
+
 function renderDetailText(root, text){
   const lines = (text || "").split("\n").map(l => l.trim()).filter(l => l.length);
   let listEl = null, preEl = null, para = [];
-  const flushPara = () => { if (para.length){ root.appendChild(el("p", "pP", para.join(" "))); para = []; } };
+  const flushPara = () => {
+    if (para.length){
+      const p = el("p", "pP");
+      richInline(p, para.join(" "));
+      root.appendChild(p);
+      para = [];
+    }
+  };
   for (const l of lines){
     if (l.startsWith("```")){
       flushPara(); listEl = null;
@@ -1872,20 +2786,34 @@ function renderDetailText(root, text){
     if (/^[-•]\s+/.test(l)){
       flushPara();
       if (!listEl || listEl.tagName === "OL"){ listEl = el("ul", "pList"); root.appendChild(listEl); }
-      listEl.appendChild(el("li", "", l.replace(/^[-•]\s+/, "")));
+      const li = el("li", "");
+      richInline(li, l.replace(/^[-•]\s+/, ""));
+      listEl.appendChild(li);
       continue;
     }
     if (/^\d+\.\s+/.test(l)){
       flushPara();
       if (!listEl || listEl.tagName === "UL"){ listEl = el("ol", "pList"); root.appendChild(listEl); }
-      listEl.appendChild(el("li", "", l.replace(/^\d+\.\s+/, "")));
+      const li = el("li", "");
+      richInline(li, l.replace(/^\d+\.\s+/, ""));
+      listEl.appendChild(li);
       continue;
     }
     if (l.startsWith("|")){
       flushPara(); listEl = null;
       if (/^\|[\s:|-]+\|$/.test(l)) continue;
       const cells = l.replace(/^\|/, "").replace(/\|$/, "").split("|").map(c => c.trim()).filter(Boolean);
-      if (cells.length) root.appendChild(el("div", "pRow", cells.join("   ·   ")));
+      if (cells.length){
+        const row = el("div", "pRow");
+        if (cells.length === 2){
+          const k = el("span", "pRowK"); richInline(k, cells[0]);
+          const v = el("span", "pRowV"); richInline(v, cells[1]);
+          row.appendChild(k); row.appendChild(v);
+        } else {
+          richInline(row, cells.join("   ·   "));
+        }
+        root.appendChild(row);
+      }
       continue;
     }
     para.push(l);
@@ -1956,6 +2884,25 @@ function openPanel(n){
   } else if (n.parent && n.parent.detail){
     body.appendChild(el("h4", "pH", "Context - " + n.parent.title));
     renderDetailText(body, n.parent.detail);
+  }
+
+  if (n.quotes && n.quotes.length){
+    body.appendChild(el("h4", "pH", "From the transcripts - " + n.quotes.length));
+    const qWrap = el("div", "pQuotes");
+    n.quotes.forEach(q => {
+      const qEl = el("blockquote", "pQuote", "\u201C" + q.t + "\u201D");
+      const src = el("span", "pQuoteSrc");
+      const a = document.createElement("a");
+      a.href = "https://youtu.be/" + q.vid;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.textContent = q.src;
+      src.appendChild(document.createTextNode("\u2014 "));
+      src.appendChild(a);
+      qEl.appendChild(src);
+      qWrap.appendChild(qEl);
+    });
+    body.appendChild(qWrap);
   }
 
   const kids = n.children || [];
@@ -2054,6 +3001,27 @@ addEventListener("resize", () => { applyView(); });
 
 let ROOT = DATA;
 ROOT.collapsed = false;
+
+/* header stats - computed, never hardcoded */
+(function stats(){
+  const hist = {};
+  let quotes = 0;
+  (function walk(n, d){
+    hist[d] = (hist[d] || 0) + 1;
+    quotes += (n.quotes || []).length;
+    (n.children || []).forEach(c => walk(c, d + 1));
+  })(ROOT, 0);
+  const total = Object.values(hist).reduce((a, b) => a + b, 0);
+  const branches = (ROOT.children || []).length;
+  const frameworks = hist[2] || 0;
+  const rules = total - 1 - branches - frameworks;
+  const el2 = document.getElementById("subStats");
+  if (el2) el2.innerHTML =
+    branches + " modules · " + frameworks + " frameworks · " + rules + " rules · " +
+    total + " nodes · " + quotes + " transcript quotes" +
+    " &nbsp;·&nbsp; tap any node for the full breakdown";
+})();
+
 relayout();
 fit();
 </script>

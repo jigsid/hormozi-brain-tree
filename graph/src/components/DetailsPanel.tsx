@@ -81,6 +81,43 @@ export default function DetailsPanel() {
           </p>
         )}
 
+        {node.quotes && node.quotes.length > 0 && (
+          <div className="mb-3">
+            <div
+              className="mb-1 text-[10px] font-semibold uppercase tracking-wider"
+              style={{ color: "var(--text-dim)" }}
+            >
+              From the transcripts · {node.quotes.length}
+            </div>
+            <div className="flex flex-col gap-1.5">
+              {node.quotes.map((q, i) => (
+                <blockquote
+                  key={`${q.vid}-${i}`}
+                  className="m-0 rounded-r-md border-l-2 py-2 pl-2.5 pr-2 text-[11.5px] italic leading-relaxed"
+                  style={{
+                    borderColor: MODULE_COLORS.evidence,
+                    background: "rgba(232,197,71,0.06)",
+                    color: "var(--text)",
+                  }}
+                >
+                  {"\u201C"}
+                  {q.t}
+                  {"\u201D"}
+                  <a
+                    href={`https://youtu.be/${q.vid}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="mt-1 block text-[10px] font-semibold not-italic no-underline hover:underline"
+                    style={{ color: MODULE_COLORS.evidence }}
+                  >
+                    — {q.src}
+                  </a>
+                </blockquote>
+              ))}
+            </div>
+          </div>
+        )}
+
         {parent && (
           <div className="mb-3">
             <div
