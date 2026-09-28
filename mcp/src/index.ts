@@ -8,6 +8,7 @@ import { frameworkIndex } from './core/frameworks.js';
 import { MODULES, referencePath, resolveHarnessRoot, resolveVaultRoot } from './core/paths.js';
 import { buildVaultContext } from './core/vault.js';
 import { registerFrameworkGuideTool } from './tools/frameworks.js';
+import { registerCorpusSearchTool } from './tools/corpus.js';
 import { registerMoneyModelTool } from './tools/money-model.js';
 import { registerOfferAuditTool } from './tools/offer-audit.js';
 import { registerValueEquationTool } from './tools/value-equation.js';
@@ -25,6 +26,7 @@ registerValueEquationTool(server);
 registerOfferAuditTool(server);
 registerMoneyModelTool(server);
 registerFrameworkGuideTool(server, harnessRoot);
+registerCorpusSearchTool(server);
 registerVaultReadTool(server, vaultRoot);
 registerVaultWriteTool(server, vaultRoot);
 

@@ -31,15 +31,23 @@ Load the module (via `framework_guide` or direct read) that owns the constraint:
 | Close rate, sales calls, scripts, objections, pitch | `references/sales.md` | `SALES_SCRIPT.md` |
 | Stalled growth, bottlenecks, hiring, systems, churn, LTV, price raise | `references/scaling-retention.md` | `SCALING_PLAN.md` / `RETENTION_PLAN.md` |
 | Stuck, scared, too many ideas, no volume, no focus, early validation | `references/mindset-operator.md` | `OPERATOR_NOTES.md` |
+| Wealth, capital, investing, debt, equity, what to do with profit | `references/wealth.md` | `WEALTH_NOTES.md` |
+| A number, a threshold, a story, or an applied example | `references/corpus.md` | - |
 | Tone, directness, response structure | `references/voice.md` | - |
 
 Full builds: run modules in dependency order - offers → money models → leads → sales → scaling. Diagnose first; do not run modules the situation does not need.
+
+**Route by what the question needs.** The module docs give you structure; the corpus gives you
+his actual words, numbers and examples. A question asking *what should I do* goes to a module.
+A question asking *what did he say / what was the number / show me a real example* goes to the
+corpus via `corpus_search` — do not answer those from a summary.
 
 ## MCP tools
 
 | Tool | Use |
 |---|---|
 | `framework_guide(module, query?)` | Canonical module content; query returns matched sections |
+| `corpus_search(query, mode, kind?, video_id?, limit?)` | His own transcripts and the extracted evidence. `mode=transcript` for his words, `mode=evidence` for numbers/mechanisms/case studies, `mode=video` for everything on one video. Every hit carries a video id and a youtu.be URL |
 | `value_equation_score(...)` | Score a proposed offer on the four Value Equation drivers; get band + bottleneck + fixes |
 | `offer_audit(offerText, price?)` | 11-check heuristic screen with evidence and cheapest fixes |
 | `money_model_math(...)` | LTGP, LTGP:CAC, CAC payback, 30-day CFA check, annual churn, price-raise impact |
@@ -69,4 +77,9 @@ Resources: `hormozi://frameworks`, `hormozi://persona`, `hormozi://vault/context
 - Voice per `references/voice.md`. No assistant tics, no hype, no invented numbers.
 - Never read from `sources/_reference-only/` - quarantined material, excluded for license reasons.
 - Vault writes only on explicit request.
+- **Provenance**: a number or claim sourced from the corpus must carry its video id. If you
+  cannot cite one, say so rather than asserting it. Captions are auto-generated — figures are
+  reliable, wording is not; never quote a transcript sentence as polished prose.
+- **Third-party figures** (Tier D especially: Ramsey, Buffett, a billionaire neighbour, Planet
+  Fitness) are marked in the corpus `context` field. Never present them as Hormozi's own.
 - This is a personal research-and-work tool built on public methodology; not affiliated with or endorsed by Alex Hormozi.
